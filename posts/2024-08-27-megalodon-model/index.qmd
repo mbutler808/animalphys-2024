@@ -1,0 +1,108 @@
+---
+title: "Day 1: Intro to Class and Megalodon Modeling Discussion"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Close reading of papers as a class exercise is a fun way to improve comprehension and do better with writing and speaking"
+date: 2024-08-27
+format: 
+  html: default 
+categories: [module 1, week 1, reading assessment, close reading, gigantism, size, morphology]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. __Pre-Class Survey__ - Do it now! <https://forms.gle/7jRzjmrmoEaHCf6HA>
+2. __Read the paper__ [Cooper, Hutchinson et al (2022)](https://www.science.org/doi/10.1126/sciadv.abm9424) I have downloaded the paper onto our class \[[Google Drive copy](https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\] - please accept invitation to join the Google Drive
+  - When reading, _Focus on main ideas, evidence, interpretation_
+:::
+
+### Reminders
+
+- Get the Book $20 from SoLS Office St. John 101. 
+- On __Thursday__ meet for class at Hamilton Library lobby.
+- Labs start this week (today). Please read the short paper advance and look through the Instrumentation Lab Manual and Protocol \[[Lab 1 overview](../../labs/Lab1-heart-rate-and-data-analysis/Lab1.qmd)\]   
+- Labs Next Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus
+
+# Introduction to Class
+
+\[[Slides](slides.qmd)\] I will go over this in class. 
+
+## Todays Discussion
+
+### Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |   |   |  |
+| 2 |   |   |  |
+| 3 |   |   |  |
+| 4 |   |   |  |
+| 5 |   |   |  |
+| 6 |   |   |  |
+| 7 |   |   |  |
+| 8 |   |   |  |
+
+
+## Successful Discussions
+
+- __Dig deeper__ into a subject
+- Bring out __everyone's ideas__
+- Explore and evaluate __arguments__
+- Provide a forum for __pitching ideas__ and __practicing vocabulary__
+- Encourage equal participation
+- Are interactive, evaluate strengths and soft-spots
+
+### Super cool artist's rendition of _Megalodon_
+
+![Artistic reconstruction of _Otodus megalodon_](https://cdn.sci.news/images/enlarge10/image_11111e-Otodus-megalodon.jpg)
+
+
+## Discussion Agenda
+
+1. [Reading Assessment](ReadingAssessment-CooperEtAl2022-megalodon.pdf) 
+2. Warm up
+  - Funny format of Science, Nature, PNAS -  Abstract, Intro, Results/Discussion, followed by Methods. 
+  - Shall we define any new vocabulary?
+3. Small Group Discussion
+
+<!---- ### Compact and Cancellous Bone
+
+Bone structure is fascinating. As organisms get larger, bones provide structural support. But bones also grow and remodel, as well as provide bone marrow for the development of blood cells.  
+
+The structural part is generally in the __compact bone__. The __cancellous__ bone is the spongy interior and in the joints.
+
+![](../../images/BoneStructure.png)
+
+![The head of a human femur](../../images/femur_head.png)
+------>
+
+# Explore Library Resources 
+
+### Where do we find information?
+
+
+___General Background___ is best found in __BOOKS__.
+Academic books are the best source for things that are well-known or have been known for a long time. Here you will find general information about the habitat at the time (paleontology books), the general biology of that kind of animal (e.g. herpetology, mammology, or mammalian paleontology, etc. ). [Get all the books you can in Hamilton for a strong foundation.]{style="color: blue"} 
+
+__Compilations__ can be found in __REVIEW ARTICLES__  
+Academic authors will sometimes write a summary of the last 10 years or so of reasearch in a review article. These are often found in Annual Reviews as well as other places. If one exists for your group, get it. 
+
+__Newest Information__ can be found in __JOURNAL ARTICLES__. 
+Scientific articles report the latest findings at that moment in time. 
+
+
+# For Next Time
+
+- Library Day! On Friday Meet at Hamilton Lobby, first floor just inside the door at 11:30pm
+- __Bring your UHID to check out books__ 
+- Start exploring potential fossils with your partner online
+- Browse the book collection online, to get some ideas for Friday 
+
