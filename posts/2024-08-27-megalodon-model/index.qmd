@@ -7,6 +7,7 @@ author:
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Close reading of papers as a class exercise is a fun way to improve comprehension and do better with writing and speaking"
 date: 2024-08-27
+image: "../../images/AnimalPhysSurveyQR.png"
 format: 
   html: default 
 categories: [module 1, week 1, reading assessment, close reading, gigantism, size, morphology]
@@ -20,20 +21,19 @@ categories: [module 1, week 1, reading assessment, close reading, gigantism, siz
 **Before class, you can prepare by reading the following materials:**
 
 1. __Pre-Class Survey__ - Do it now! <https://forms.gle/7jRzjmrmoEaHCf6HA>
+  ![](../../images/AnimalPhysSurveyQR.png)
 2. __Read the paper__ [Cooper, Hutchinson et al (2022)](https://www.science.org/doi/10.1126/sciadv.abm9424) I have downloaded the paper onto our class \[[Google Drive copy](https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\] - please accept invitation to join the Google Drive
   - When reading, _Focus on main ideas, evidence, interpretation_
 :::
 
 ### Reminders
 
-- Get the Book $20 from SoLS Office St. John 101. 
+- Get the Book $20 to rent for the semseter from SoLS Office St. John 101. 
 - On __Thursday__ meet for class at Hamilton Library lobby.
 - Labs start this week (today). Please read the short paper advance and look through the Instrumentation Lab Manual and Protocol \[[Lab 1 overview](../../labs/Lab1-heart-rate-and-data-analysis/Lab1.qmd)\]   
 - Labs Next Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus
 
 # Introduction to Class
-
-\[[Slides](slides.qmd)\] I will go over this in class. 
 
 ## Todays Discussion
 
@@ -41,15 +41,16 @@ categories: [module 1, week 1, reading assessment, close reading, gigantism, siz
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-| 1 |   |   |  |
-| 2 |   |   |  |
-| 3 |   |   |  |
-| 4 |   |   |  |
-| 5 |   |   |  |
-| 6 |   |   |  |
-| 7 |   |   |  |
-| 8 |   |   |  |
+| 1 | Christian  | Adam  | Ashton |
+| 2 | Joshua  | Hao  | Mohammad |
+| 3 |  Kylee |  Maya | Xi |
+| 4 |  Tamako |  Vivian | James |
+| 5 |  Ilan |  Sean |  |
+| 6 |  Veronica | Colin  |  |
 
+
+\[[Slides](slides.qmd)\] I will go over this in class.   
+\[[Syllabus](syllabus.qmd)\]
 
 ## Successful Discussions
 

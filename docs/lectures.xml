@@ -144,6 +144,7 @@ All the best online sources
   <category>introduction</category>
   <guid>https://mbutler808.github.io/animalphys2024/posts/2024-08-27-megalodon-model/slides.html</guid>
   <pubDate>Tue, 27 Aug 2024 10:00:00 GMT</pubDate>
+  <media:content url="https://mbutler808.github.io/animalphys2024/images/AnimalPhysSurveyQR.png" medium="image" type="image/png" height="146" width="144"/>
 </item>
 <item>
   <title>Day 1: Intro to Class and Megalodon Modeling Discussion</title>
@@ -168,7 +169,7 @@ Read ahead
 <div class="callout-body-container callout-body">
 <p><strong>Before class, you can prepare by reading the following materials:</strong></p>
 <ol type="1">
-<li><strong>Pre-Class Survey</strong> - Do it now! <a href="https://forms.gle/7jRzjmrmoEaHCf6HA" class="uri">https://forms.gle/7jRzjmrmoEaHCf6HA</a></li>
+<li><strong>Pre-Class Survey</strong> - Do it now! <a href="https://forms.gle/7jRzjmrmoEaHCf6HA" class="uri">https://forms.gle/7jRzjmrmoEaHCf6HA</a> <img src="https://mbutler808.github.io/animalphys2024/images/AnimalPhysSurveyQR.png" class="img-fluid"></li>
 <li><strong>Read the paper</strong> <a href="https://www.science.org/doi/10.1126/sciadv.abm9424">Cooper, Hutchinson et al (2022)</a> I have downloaded the paper onto our class [<a href="https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk">Google Drive copy</a>] - please accept invitation to join the Google Drive</li>
 </ol>
 <ul>
@@ -179,7 +180,7 @@ Read ahead
 <section id="reminders" class="level3">
 <h3 class="anchored" data-anchor-id="reminders">Reminders</h3>
 <ul>
-<li>Get the Book $20 from SoLS Office St.&nbsp;John 101.</li>
+<li>Get the Book $20 to rent for the semseter from SoLS Office St.&nbsp;John 101.</li>
 <li>On <strong>Thursday</strong> meet for class at Hamilton Library lobby.</li>
 <li>Labs start this week (today). Please read the short paper advance and look through the Instrumentation Lab Manual and Protocol [<a href="../../labs/Lab1-heart-rate-and-data-analysis/Lab1.html">Lab 1 overview</a>]<br>
 </li>
@@ -189,7 +190,6 @@ Read ahead
 </section>
 <section id="introduction-to-class" class="level1">
 <h1>Introduction to Class</h1>
-<p>[<a href="../../posts/2024-08-27-megalodon-model/slides.html">Slides</a>] I will go over this in class.</p>
 <section id="todays-discussion" class="level2">
 <h2 class="anchored" data-anchor-id="todays-discussion">Todays Discussion</h2>
 <section id="discussion-groups" class="level3">
@@ -207,62 +207,50 @@ Read ahead
 <tbody>
 <tr class="odd">
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Christian</td>
+<td>Adam</td>
+<td>Ashton</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Joshua</td>
+<td>Hao</td>
+<td>Mohammad</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>3</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Kylee</td>
+<td>Maya</td>
+<td>Xi</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>4</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Tamako</td>
+<td>Vivian</td>
+<td>James</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>5</td>
-<td></td>
-<td></td>
+<td>Ilan</td>
+<td>Sean</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>8</td>
-<td></td>
-<td></td>
+<td>Veronica</td>
+<td>Colin</td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+<p>[<a href="../../posts/2024-08-27-megalodon-model/slides.html">Slides</a>] I will go over this in class.<br>
+[<a href="syllabus.qmd">Syllabus</a>]</p>
 </section>
 </section>
 <section id="successful-discussions" class="level2">
@@ -342,6 +330,7 @@ Academic authors will sometimes write a summary of the last 10 years or so of re
   <category>morphology</category>
   <guid>https://mbutler808.github.io/animalphys2024/posts/2024-08-27-megalodon-model/</guid>
   <pubDate>Tue, 27 Aug 2024 10:00:00 GMT</pubDate>
+  <media:content url="https://mbutler808.github.io/animalphys2024/images/AnimalPhysSurveyQR.png" medium="image" type="image/png" height="146" width="144"/>
 </item>
 </channel>
 </rss>

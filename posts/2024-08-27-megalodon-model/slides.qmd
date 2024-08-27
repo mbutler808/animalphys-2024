@@ -7,7 +7,7 @@ author:
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Day one and nice to meet you"
 date: 2024-08-27
-# image: "../../images/happygitwithr.png"
+image: "../../images/AnimalPhysSurveyQR.png"
 format: 
   revealjs:
     chalkboard: true 
@@ -17,6 +17,34 @@ format:
     slide-number: true 
 categories: [module 1, week 1, introduction]
 ---
+
+
+### Stuff 
+If you are ever in doubt, please ask
+
+::: {.columns}
+::: {.column width="25%" }
+
+![](../../images/AnimalPhysSurveyQR.png)
+Survey -- [_Do this now!_]{style="color: blue"} 
+:::
+
+::: {.column width="12%" }
+:::
+
+::: {.column width="25%"}
+![Discord](../../images/DiscordQR.png)
+Discord -- Join for Q&A and extra credit
+:::
+
+::: {.column width="12%" }
+:::
+
+::: {.column width="25%"}
+![Information central](../../images/websiteQR.png)
+Website -- [_Bookmark this!_]{style="color: blue"} Also join the Google Drive - check your email. 
+:::
+:::
 
 ## Animal Physiology is the science of life and how it works {.scrollable  .smaller}
 
@@ -55,7 +83,7 @@ ___Learning is more fun when it is real. It is your job, as scientists, to start
 :::
 
 ::: {.fragment}
-![](../../images/AerobicRespiration.jpg){.absolute height="400"}
+![](../../images/AerobicRespiration.png){.absolute height="400"}
 :::
 
 
@@ -136,8 +164,7 @@ Environmental context: [_Migration in Motion Visualization_](http://blog.nature.
 ::: {.column width="60%"}  
 - Important!! Please complete the [class survey](https://docs.google.com/forms/d/e/1FAIpQLSfV2qLBC02d-CBzvRiqPtSXAYSBTLucMo8cfS8V0qEu2wTgLQ/viewform) 
 - Course Website: <https://mbutler808.github.io/animalphys/> (grades on Laulima)
-- Discussion week 1. For next class, please read [Bianucci, et al (2023)](https://www.nature.com/articles/s41586-023-06381-1) \[[Google Drive copy](https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\] - please accept invitation to join
-- Lab 1 — check website. Read before coming to lab - no prelab this week. Quiz will be posted to Laulima 24 hrs prior to lab. 
+- Lab 1 — check website. Read before coming to lab - no prelab this week. Quiz is posted to Laulima 24 hrs prior to lab. 
 - Get your BOOK from SoLS Office StJohn 101 - $20 cash to rent  
 :::  
 

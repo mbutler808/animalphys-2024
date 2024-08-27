@@ -5,6 +5,7 @@
 *.icloud 
 *.key
 *.sublime-project
+#.sublime-workspace
 
 # Lecture keynotes
 lectures/
