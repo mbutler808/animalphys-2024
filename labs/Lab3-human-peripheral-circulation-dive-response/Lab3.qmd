@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Peripheral circulation goes to tissues throughout your body and to the extremeties. One of the most interesting adjustments to peripheral circulation is the dive response."
-date: 2023-09-01
+date: 2024-09-10
 toc: true
 format: 
   html: default

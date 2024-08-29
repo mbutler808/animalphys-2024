@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Worksheet for Lab 3: Peripheral Circulation and The Dive Response"
-date: 2023-09-01
+date: 2023-09-10
 toc: true
 format: 
   html: default  
