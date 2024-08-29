@@ -28,7 +28,7 @@ Your task this week is to construct an energy budget for an animal of your choic
 
 ## Observe Animals
 
-First, walk around the zoo, do a scavengar hunt, noting as many as syou can for each of mammals, birds, reptiles, and amphibians. Do they tend to be herbivores/predators?, small/large?, sun-loving/shade-loving/nocturnal?, (the zoo does not have a large collection of amphibians, so don't miss the ectotherm house!).
+First, walk around the zoo, do a scavengar hunt, noting as many as you can for each of mammals, birds, reptiles, and amphibians. What do you notice, do they tend to be herbivores/predators?, small/large?, sun-loving/shade-loving/nocturnal? (The zoo does not have a large collection of amphibians, so don't miss the ectotherm house!).
 
 
 # Focal Observation
@@ -39,7 +39,7 @@ As a group choose an animal to observe.
 
 __Mass:__ Approximate the dimensions of your animal. Approximate the volume of your animal, by whatever geometric approximation seems reasonable to you. Animals are ~70% water. Estimate mass from the density of water (1g/cm^3). 
 
-FYI: Volume of a cylinder: V = π*r2*length  (use metric units!!)
+FYI: Volume of a cylinder: V = π*r^2*length  (use metric units!!)
 
 __Behavior:__ (focus on intensity of effort and time budget)
 
