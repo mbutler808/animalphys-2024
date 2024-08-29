@@ -14,7 +14,7 @@ categories: [module 1, week 1, library day, information sources, design backgrou
 
 ### Reminders
 
-- Get the Book $20 from SoLS Office St. John 101 [TODAY]{style="color: blue"}
+- Rent the Book $20 from us EDM 101 [TODAY]{style="color: blue"}
 - Labs Next Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus
 
 # Goals for today 
@@ -37,6 +37,13 @@ categories: [module 1, week 1, library day, information sources, design backgrou
 
 ___General Background___ is best found in __BOOKS__.
 Academic books are the best source for things that are well-known or have been known for a long time. Here you will find general information about the habitat at the time (paleontology books), the general biology of that kind of animal (e.g. herpetology, mammology, or mammalian paleontology, etc. ). [Get all the books you can in Hamilton for a strong foundation.]{style="color: blue"} 
+
+:::{.callout-tip}
+# Some Very helpful books  
+- __General books__ on Vertebrate Paleontology, Mammalian Paleontology, Fishes, etc. These will have info on the time period, environment, habitat, lifestyle, etc. 
+- Books on the -ology (extant biology) of your animal. Mammology, Ornithology, Herpetology, Ichthyology, etc.
+- Physiology of fishes, Avian physiology, etc.    
+:::
 
 __Compilations__ can be found in __REVIEW ARTICLES__  
 Academic authors will sometimes write a summary of the last 10 years or so of reasearch in a review article. These are often found in Annual Reviews as well as other places. If one exists for your group, get it. 
