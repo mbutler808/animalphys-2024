@@ -60,7 +60,7 @@ For example:
 ## __Analysis:__
 
 1.  Construct a mass model for your animal.  
-2.  __BMR__ or __SMR__. Choose an appropriate scaling equation for BMR or SMR from Withers 1991 Table 4-5 and calculate the lowest metabolic rate for your animal.  If an ectotherm, guestimate what the animal's Tb is.  
+2.  __BMR__ or __SMR__. Choose an appropriate [scaling equation](https://drive.google.com/file/d/1lmqsS9VXglPjCRkjRofAZKquFPL74qEl/view?usp=sharing) for BMR or SMR from Withers 1991 Table 4-5 and calculate the lowest metabolic rate for your animal.  If an ectotherm, guestimate what the animal's Tb is.  
 3.  __Time Budget:__ Analyze your focal observation and use it to estimate a time budget. With your team members, decide on the intensity levels of each type of behavior. Based on your own experience, assign effort levels to each type of behavior. (divide activities into say, 3 categories of effort).  Estimate the percent of time spent in each category based on your observation and other information you may know.
 4.  Use Table 4-10 to select appropriate activity multipliers for each category. For example, RMR might be 1.2x BMR based on … in Table 4-10. In general, very inactive animals will have a lower RMR (say 1.1. Or 1.2x BMR)  than very active animals (say 1.5 x BMR).  
 5.  __DMR:__ Take an educated guess about how many hours your animal spends sleeping or resting, and in each of your active categories. Construct a model for the cost of 1 day. We call this DMR or daily metabolic rate. For example, your animalʻs DMR might be = 16 hrs x RMR + 1 hr x AMR(activity 1) + 7hr x AMR(activity 2). Etc.   
@@ -99,7 +99,7 @@ Each lab group member is expected to participate meaningfully in data collection
 
 ## Submit:
 
-Write up your short group lab report and include photos and links to videos that you took. If you provide a link to a video on your google drive, be sure to make it public so we can see it. Include your group member names in the report.
+Create a new folder with the animal you chose in the following parent folder: https://drive.google.com/drive/folders/1o_dXXYk2Hp4chmqorrgKhPu4qzUh4yCZ?usp=sharing  Write up your mini-lab report as google doc and upload it into your folder together with the pictures and videos you took. Include your group member names in the report.
 
 __Reminder:__ Clarity of ideas is highly prized in science, which is more obvious when you are concise. Do include any relevant scientific terms (BMR, DMR, etc.), but other than that, use plain, direct language that gets straight to the point and your writing will be stronger. 
 
