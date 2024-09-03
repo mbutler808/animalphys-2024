@@ -57,7 +57,7 @@ Please sit with your design partners for this part. Let's discuss a roadmap for 
 | 1 | Abby  | Kylee  | Mohamad |
 | 2 | Adam  | Johsua  | Sean |
 | 3 |   | James  | Tamako |
-| 4 | Ashton  | Ilan  | Veroica |
+| 4 | Ashton  | Ilan  | Veronica |
 | 5 | Christian  | Hao  | Vivian |
 
 
