@@ -28,8 +28,7 @@ Your task this week is to construct an energy budget for an animal of your choic
 
 ## Observe Animals
 
-First, walk around the zoo, do a scavengar hunt, noting as many as you can for each of mammals, birds, reptiles, and amphibians. What do you notice, do they tend to be herbivores/predators?, small/large?, sun-loving/shade-loving/nocturnal? (The zoo does not have a large collection of amphibians, so don't miss the ectotherm house!).
-
+First, walk around the zoo, and do a mental scavengar hunt, noting as many as you can for each of mammals, birds, reptiles, and amphibians. What do you notice, do they tend to be herbivores/predators?, small/large?, sun-loving/shade-loving/nocturnal? (The zoo does not have a large collection of amphibians, so don't miss the ectotherm house!). Weʻll discuss this at the end of class. 
 
 # Focal Observation
 
@@ -43,9 +42,9 @@ FYI: Volume of a cylinder: V = π*r^2*length  (use metric units!!)
 
 __Behavior:__ (focus on intensity of effort and time budget)
 
-1.  15 min observation focal observation
+1.  10 min observation focal observation
 
-Each group member will collect a 15 min focal observation. Record in your notebook everything your animal does during the 15 min observation period, recording activity and duration.
+Each group member will collect a 10 min focal observation. Record in your notebook everything your animal does during the 10 min observation period, recording activity and duration.
 
 For example:
   +  Lying on ground 10 min   (can add comments or social context, etc.)

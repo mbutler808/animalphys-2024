@@ -2,6 +2,8 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/0.BackgroundBulletPoints.html",
+      "/projects/design1.html",
       "/projects/design4.html",
       "/projects/design4-resources.html",
       "/projects/design3-turnin.html",
@@ -14,9 +16,7 @@
       "/projects/design2-FAQ.html",
       "/projects/design2.html",
       "/projects/design1-FAQ.html",
-      "/projects/design1-turnin.html",
-      "/projects/design1.html",
-      "/projects/2023-09-06-design-background/index.html"
+      "/projects/design1-turnin.html"
     ]
   },
   {
@@ -41,7 +41,8 @@
   {
     "listing": "/lectures.html",
     "items": [
-      "/posts/2024-08-29-Library-day/index.html",
+      "/posts/2024-09-03-metabolism/index.html",
+      "/posts/2024-08-29-library-day/index.html",
       "/posts/2024-08-27-megalodon-model/slides.html",
       "/posts/2024-08-27-megalodon-model/index.html"
     ]

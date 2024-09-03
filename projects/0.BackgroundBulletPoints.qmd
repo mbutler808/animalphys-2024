@@ -1,0 +1,76 @@
+---
+title: "Background Bullet Points"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "A strong foundation for your design project starts with great background"
+date: 2024-09-01
+format: 
+  html: default 
+  pdf: default
+categories: [design project, background ]
+---
+
+# Design Project Background Bullet Points. Due Sept. 6 
+
+_To help you start off on your research for your design projects, you will receive 10pts for doing a good job of your background research, which you need to do anyway!_ 
+
+Building off of \[[Library Day](..\posts\2024-08-29-Library-day\index.qmd)\], you will gather background information for your animal organize it into __bullet points__ (if you've already started, well done!). 
+
+_Do a good job, and you will set yourselves up well for the semester._ In \[[Design 1](1.MetabolismTempDesign1.pdf)\] we will focus on metabolism and heat balance, but you will use this info again and again for all four papers. Do your best to get it done by Friday but don't stress out - you will have a chance to revise. 
+
+## Search for information
+
+__Meet with our partner__, create a shared google doc and continue  searching for information and filling it in. Figure out which info will take more effort, and divide and conquer (decide who will do what). Ask for help if you get stuck. It is not critical that there is a lot known about your species (some species have been studied more than others, it's OK), the main point is that have done a good enough job to know _what is known and what is unknown_, this is what makes you an expert.
+
+_Please try your best to meet up on Zoom or in person, ideally to start with, before dividing tasks and continuing on your own._ 
+
+:::{.callout-tip}
+# Collect Information from the Library and the Internet:
+- Find everything published about _your animal_ (journal articles, books, book chapters). 
+  + Search on your animals binomial nomenclature (_Genus species_)
+  + Expand out to _Genus_, especially if there is not much published about your species. 
+- When and where did your animal live? Find information about the time period, the environment, etc. 
+- Start with the books you checked out from Library Day, but you may need to get more. 
+  + Be sure to get a book on paleontology that covers your animal's time period and location. (Either general or specific to mammals, birds, reptiles, amphibians, fish, etc.)
+  + Be sure to get some books on the biology of living relatives (or analolgues). 
+Get help from us and/or the science librarians at Hamilton (Jonathan Young jsyoung@hawaii.edu).  
+:::
+
+## Assemble your background information 
+
+1. Collect your information into a google doc for easy collaboration with your partner. 
+2. [Assemble bullet points of factual information with an in-text citation for each statement of fact.]{style="color: blue"} 
+3. Follow your bullet points with a bibliography of your sources. These should match your in-text citations (none missing, no extra citations).
+4. Look over \[[Design 1](1.MetabolismTempDesign1.pdf)\] and begin an outline for the background info you will need. An organization that is helpful for Design 1 is something like the following:  
+
+- What __kind__ of animal was it? 
+  + What did it look like? (Please draw the figures yourself, it is part of the learning process).  
+  + How big was your animal? (mass, overall dimensions -- body length, etc.)
+  + Describe its lifestyle. 
+  + Who were its closest relatives? What was its position in the tree of life? 
+  + Include any info that you find particularly interesting about the animal. 
+- __Where/when__ did it live?  
+  + What did its world look like at the time? 
+  +  General environment (think metabolism and heat balance, so climate, humidity, range of ambient temperatures, habitat, etc.) 
+  +  What other sorts of animals and plants lived at the same time?  
+- __Was it an active or sedentary animal__? 
+  + You may have clues from many aspects of life history: How did it obtained food? Did it fight for mates? Was it a predator or prey? Did it hide from predators or flee? 
+- __What was its thermal strategy__? 
+  + Would it have been a thermoconformer or thermoregulator? Seek sun or shade, etc.? Would it seek cover for shade (did the environment supply shade)? 
+
+When you review your bullet points, please be sure you have covered the following categories:
+
+- __general morphology and physical description__, *(Many inferences will come from morphology)*
+- __phylogeny and closest living relatives__, 
+- __geologic time period and range__, 
+- __habitat, climate, and thermal biology__, 
+- __lifestyle and behavior__ (such as foraging mode, locomotor strategy, social behavior, etc.)
+
+Eventually when you write the intro, you will want to foreshadow (i.e., hint at) any potential challenges with regard to heat balance (or maybe life was easy in every situation)? 
+
+Start with your Library Books, but continue the search using journal articles, online reviews, and books borrowed through interlibrary loan. \[[Library Day](../../posts/2024-08-29-Library-day)\]
+
+Make a good effort to get as much of this done by Friday, but you'll have a chance to revise so don't worry if you can't get it all. The point is to find out what you need to seek help for. Do a good faith attempt to get started, and you'll do great. 
