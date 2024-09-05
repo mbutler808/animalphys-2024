@@ -17,7 +17,7 @@ categories: [design project, background ]
 
 _To help you start off on your research for your design projects, you will receive 10pts for doing a good job of your background research, which you need to do anyway!_ 
 
-Building off of \[[Library Day](..\posts\2024-08-29-Library-day\index.qmd)\], you will gather background information for your animal organize it into __bullet points__ (if you've already started, well done!). 
+Building off of \[[Library Day](..\posts\2024-08-29-library-day\index.qmd)\], you will gather background information for your animal organize it into __bullet points__ (if you've already started, well done!). 
 
 _Do a good job, and you will set yourselves up well for the semester._ In \[[Design 1](1.MetabolismTempDesign1.pdf)\] we will focus on metabolism and heat balance, but you will use this info again and again for all four papers. Do your best to get it done by Friday but don't stress out - you will have a chance to revise. 
 
@@ -36,7 +36,18 @@ _Please try your best to meet up on Zoom or in person, ideally to start with, be
 - Start with the books you checked out from Library Day, but you may need to get more. 
   + Be sure to get a book on paleontology that covers your animal's time period and location. (Either general or specific to mammals, birds, reptiles, amphibians, fish, etc.)
   + Be sure to get some books on the biology of living relatives (or analolgues). 
+:::
+
+:::{.callout-tip}
+# Helpful links - log in with your UHID for Interlibrary loan and access to pdfs.
+- ZOOL430 library study guide: <https://guides.library.manoa.hawaii.edu/zoology430>
+- UHM Libraries Onesearch <https://manoa.hawaii.edu/library/>
+- Science databases <https://guides.library.manoa.hawaii.edu/sciref/databases> especially:
+  + Web of science
+  + Zoological Record
+  + Google Scholar
 Get help from us and/or the science librarians at Hamilton (Jonathan Young jsyoung@hawaii.edu).  
+Or myself <https://calendly.com/mbutler808/office-hours>
 :::
 
 ## Assemble your background information 
@@ -71,6 +82,6 @@ When you review your bullet points, please be sure you have covered the followin
 
 Eventually when you write the intro, you will want to foreshadow (i.e., hint at) any potential challenges with regard to heat balance (or maybe life was easy in every situation)? 
 
-Start with your Library Books, but continue the search using journal articles, online reviews, and books borrowed through interlibrary loan. \[[Library Day](../../posts/2024-08-29-Library-day)\]
+Start with your Library Books, but continue the search using journal articles, online reviews, and books borrowed through interlibrary loan. \[[Library Day](../../posts/2024-08-29-library-day)\]
 
 Make a good effort to get as much of this done by Friday, but you'll have a chance to revise so don't worry if you can't get it all. The point is to find out what you need to seek help for. Do a good faith attempt to get started, and you'll do great. 
