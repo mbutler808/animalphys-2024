@@ -45,8 +45,9 @@ _Please try your best to meet up on Zoom or in person, ideally to start with, be
 - Science databases <https://guides.library.manoa.hawaii.edu/sciref/databases> especially:
   + Web of science
   + Zoological Record
-  + Google Scholar
-Get help from us and/or the science librarians at Hamilton (Jonathan Young jsyoung@hawaii.edu).  
+  + Google Scholar  
+
+Get help from the science librarians at Hamilton (Jonathan Young [jsyoung at hawaii.edu](jsyoung@hawaii.edu)).  
 Or myself <https://calendly.com/mbutler808/office-hours>
 :::
 
