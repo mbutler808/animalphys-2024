@@ -50,7 +50,7 @@ categories: [module 1, week 1, reading assessment, close reading, gigantism, siz
 
 
 \[[Slides](slides.qmd)\] I will go over this in class.   
-\[[Syllabus](syllabus.qmd)\]
+\[[Syllabus](../../syllabus.qmd)\]
 
 ## Successful Discussions
 
