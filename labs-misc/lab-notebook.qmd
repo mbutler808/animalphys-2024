@@ -27,12 +27,11 @@ __At home__, read through the complete lab exercise. Your lab may also have stan
 ## Introduction
 
 -  Write the purpose of the week’s experiment. This should be the general idea that is broad enough to cover all of the ideas in the lab (the "umbrella idea"). 
--  Bullet-point the most relevant background in this experiment, and how it might connect to a hypothesis. 
-  +  Introduce the physiological mechanisms under study
-  +  Start from what we know about the topic, and connect to what we are trying to demonstrate or find out in the current experiment. 
-  +  Be sure to introduce any ideas that go into your hypothesis. 
-  +  In other words, try to foreshadow why the current experiment is important. 
+-  Bullet-point the most relevant background in this experiment, and how it might connect to a hypothesis.  
+    +  Introduce the physiological mechanisms under study  
+    +  Start from what we know about the topic, and connect to what we are trying to demonstrate or find out in the current experiment. Be sure to introduce any ideas that go into your hypothesis. In other words.  
 -  A starting hypothesis (or hypotheses if there are multiple parts). 
+-  (Later, as you think about writing an introduction for your lab report, try to foreshadow why the current experiment is important.)
 
 _An introduction just introduces the ideas (or touches upon them). Just enough so we can understand the hypothesis._ 
 

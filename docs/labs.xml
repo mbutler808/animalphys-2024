@@ -67,8 +67,8 @@ Exercises
 </div>
 </div>
 </section>
-<section id="background-blood-pressure-and-peripheral-circulation" class="level1 page-columns page-full">
-<h1>Background: Blood pressure and peripheral circulation</h1>
+<section id="general-background-blood-pressure-and-peripheral-circulation" class="level1 page-columns page-full">
+<h1>General Background: Blood pressure and peripheral circulation</h1>
 <p>Vertebrates have a <strong>closed circulatory system</strong> where the blood is always enclosed within blood vessels or the heart. Blood is pumped from the <strong>heart</strong> (the central pump) to the <strong>vasculature</strong>: the <strong>arteries</strong>, <strong>capillary beds</strong> (sites of delivery to tissues), <strong>the veins</strong>, and back to heart. There are several important consequences of this design: (1) blood pressure varies across species according to oxygen demand and morphology (especially animal height), (2) <strong>blood pressure varies along the circuit</strong>, (3) <strong>blood pressure can be regulated at points along the circuit</strong>, and (4) <strong>blood pressure can be modified situationally</strong> depending the state of the animal.</p>
 <section id="blood-pressure-varies-across-species" class="level3">
 <h3 class="anchored" data-anchor-id="blood-pressure-varies-across-species">Blood pressure varies across species</h3>
@@ -127,10 +127,12 @@ Figure&nbsp;3: Volume and pressure changes during the <strong>cardiac cycle</str
 </section>
 <section id="circulation-can-be-adjusted-situationally." class="level3">
 <h3 class="anchored" data-anchor-id="circulation-can-be-adjusted-situationally.">Circulation can be adjusted situationally.</h3>
-<p>At most times, blood pressure is regulated to <strong>maintain a relatively constant pressure</strong>, however, there are times when <strong>circulation needs to be adjusted</strong>. A well-known example is the <strong>Fight-or-Flight response</strong>, which occurs, for example, when an animal sees a predator or anticipates a fight. The <strong>sympathetic nervous system</strong> dominates and causes a ramp-up of circulation to deliver more energy to the skeletal muscles: increased <strong>cardiac output</strong> (= <strong>heart rate</strong> x <strong>stroke volume</strong>) and <strong>blood pressure</strong>, and increased blood flow to the lungs and skeletal muscles. In contrast, the <strong>rest-and-digest</strong> response occurs after an animal has had a large meal. The <strong>parasympathetic nervous system</strong> dominates, lowering heart rate, concentrates blood flow to the gut, and promotes a resting state.</p>
-<p>Adjustments to blood flow are not simply an adjustment of heart function, but also <strong>constriction or relaxation of the vasculature</strong> (blood vessels: arteries, veins, capillaries). <strong>Constricting blood vessels</strong> will reduce their <strong>cross-sectional area</strong> and <strong>increase blood pressure and flow</strong>.</p>
-<p>Local changes in circulation are under <strong>nervous</strong> and <strong>hormonal</strong> control. Regulation of blood flow in the vertebrate circulatory system occurs by three primary mechanisms: 1) <strong>local receptors</strong> (<em>nervous system</em>) to detect levels of metabolic activity (e.g., carbon dioxide receptors), 2) <strong>sympathetic</strong> and <strong>parasympathetic</strong> (<em>autonomic nervous system</em>) control of the vasculature including capillary beds at the tissues, and 3) <strong>endocrine</strong> (<em>hormonal</em>) control of the vasculature.</p>
-<p>In this lab, we will measure blood pressure of volunteers using a finger pulse transducer, a stethoscope, a blood pressure cuff (sphygnomanometer), and changes in peripheral circulation by measuring the volume of the extremities using a belt with a force transducer. We will do a series of learning exercises and then conduct an experiment on factors affecting peripheral circulation and as well as during simulated dives (the dive response).</p>
+<p>At most times, blood pressure is regulated to <strong>maintain a relatively constant pressure</strong>, however, there are times when <strong>circulation needs to be adjusted</strong>.</p>
+<p>A well-known example is the <strong>Fight-or-Flight response</strong>, which occurs, for example, when an animal sees a predator or anticipates a fight. The <strong>sympathetic nervous system</strong> dominates and causes a ramp-up of circulation to deliver more energy to the skeletal muscles: increased <strong>cardiac output</strong> (= <strong>heart rate</strong> x <strong>stroke volume</strong>) and <strong>blood pressure</strong>, and increased blood flow to the lungs and skeletal muscles. In contrast, the <strong>rest-and-digest</strong> response occurs after an animal has had a large meal. The <strong>parasympathetic nervous system</strong> dominates, lowering heart rate, concentrates blood flow to the gut, and promotes a resting state.</p>
+<p>A famous circulatory adjustment to the distribution of blood flow is the <strong>dive response</strong> of air breathing vertebrates <span class="citation" data-cites="Withers:1992">(pp.&nbsp;721-723, Withers 1992)</span>. We will explore this response in this lab. The dive response is characterized by a <strong>diving bradycardia</strong> (slowing of the heart rate) and <strong>peripheral vasoconstriction</strong> which drives the blood away from the extremities and toward the central organs (brain, heart). The diving bradycardia is a reflexive response that can cause a dramatic drop in heart rate but does not necessarily cause a drop in blood pressure because there is a simultaneous peripheral vasoconstriction. With more blood returned to the heart, you may see an increase in stroke volume, and no change or even a rise in blood pressure.</p>
+<p>As we can see from these examples, adjustments to blood flow are not simply an adjustment of heart function, but also <strong>constriction or relaxation of the vasculature</strong> (blood vessels: arteries, veins, capillaries). <strong>Constricting blood vessels</strong> will reduce their <strong>cross-sectional area</strong> and <strong>increase blood pressure and flow</strong>.</p>
+<p>Local changes in circulation are under both <strong>nervous</strong> and <strong>hormonal</strong> control. Regulation of blood flow in the vertebrate circulatory system occurs by three primary mechanisms: 1) <strong>local receptors</strong> (<em>nervous system</em>) to detect levels of metabolic activity (e.g., carbon dioxide receptors), 2) <strong>sympathetic</strong> and <strong>parasympathetic</strong> (<em>autonomic nervous system</em>) control of the vasculature including capillary beds at the tissues, and 3) <strong>endocrine</strong> (<em>hormonal</em>) control of the vasculature.</p>
+<p>In this lab, we will measure blood pressure of volunteers using a finger pulse transducer, a stethoscope, a blood pressure cuff (sphygnomanometer), and changes in peripheral circulation by measuring the volume of the extremities using a respiratory belt with a force transducer. We will do a series of learning exercises and then conduct an experiment on factors affecting peripheral circulation and as well as during simulated dives (the dive response).</p>
 </section>
 <section id="equipment" class="level2">
 <h2 class="anchored" data-anchor-id="equipment">Equipment</h2>
@@ -153,8 +155,9 @@ Figure&nbsp;3: Volume and pressure changes during the <strong>cardiac cycle</str
 <h2 class="anchored" data-anchor-id="setup">Setup</h2>
 <ol type="1">
 <li>Use “Blood Pressure” settings to start Chart software.</li>
-<li>Setup Finger Pulse transducer on Input 1.</li>
-<li>Attach sphygmomanometer transducer to Input 2 (pod input).</li>
+<li>Check the channel settings: Setup &gt; Channel Settings. Is Pulse on Input 1?</li>
+<li>Setup Finger Pulse transducer on correct input.</li>
+<li>Attach sphygmomanometer transducer to correct input.</li>
 </ol>
 </section>
 <section id="data-collection" class="level2">
@@ -191,16 +194,16 @@ Figure&nbsp;3: Volume and pressure changes during the <strong>cardiac cycle</str
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">Notes</h3>
 <ol type="1">
-<li>You may need to recalibrate the blood pressure force transducer after each time you move the cuff.</li>
+<li>If needed, recalibrate the blood pressure force transducer after each time you move the cuff.</li>
 <li>Place the instruments directly on the skin (not through clothes).<br>
 </li>
-<li>When measuring from foot, please wash toe before attaching pulse transducer to prevent any fungal contamination.</li>
+<li>If measuring from foot, please wash toe before attaching pulse transducer to prevent any fungal contamination.</li>
 <li><strong>Always Release the cuff pressure <em>completely</em> as soon as you are done taking data</strong></li>
 </ol>
 </section>
 <section id="analysis" class="level3">
 <h3 class="anchored" data-anchor-id="analysis">Analysis</h3>
-<p>Compare systolic and diastolic pressure for each of your treatments versus an appropriate control. Think carefully about appropriate controls for your ideas to achieve the best test of your hypotheses.</p>
+<p>Compare systolic and diastolic pressure for each of your treatments versus an appropriate baseline. Think carefully about appropriate baselines for your ideas to achieve the best test of your hypotheses.</p>
 </section>
 <section id="questions-for-thought-1" class="level3">
 <h3 class="anchored" data-anchor-id="questions-for-thought-1">Questions for thought…</h3>
@@ -214,12 +217,12 @@ Figure&nbsp;3: Volume and pressure changes during the <strong>cardiac cycle</str
 <section id="exercise-3-the-dive-response" class="level1 page-columns page-full">
 <h1>Exercise 3: The Dive Response</h1>
 <p>When an air-breathing animal dives, it voluntarily holds its breath while the tissues continue to use oxygen. The <strong>dive response</strong> is a reflexive response that reorganizes circulation to maintain blood flow to the most essential organs – the brain, eyes, and myocardium (heart muscle), while reducing blood flow to the peripheral tissues including musculature of the limbs and thorax, lungs, and renal system. Remarkably, all vertebrates have a dive response. The responses vary greatly between taxa, with some of the most pronounced being in whales and diving seals.</p>
-<p>Primary features of the human <strong>dive response</strong> are the rapid onset of <strong>bradycardia</strong> (slowing of the <em>heart rate</em>), which works together with <strong>peripheral vasoconstriction</strong> to shunt blood toward the bodyʻs core. This causes an increase in the volume of blood returning to the <strong>heart</strong> and an increase in <strong>stroke volume</strong>. These in turn cause an increase in <strong>arterial blood pressure</strong>. To counteract this increase in blood pressure and reduce overall blood flow, there is a <em>drop in heart rate</em>.</p>
-<p>As a whole, the dive response preserves circulation around the vital organs while reducing circulation to the peripheral tissues. Oxygen becomes depleted and carbon dioxide and lactate build up in the tissues during a dive. When the animal resurfaces, there is a recovery period characterized by more rapid heart rate and ventilation to absorb more oxygen and flush out lactate and carbon dioxide.</p>
-<p>The dive response is triggered by sudden submergence of the face in cold water, which stimulates the <em>trigeminal nerve receptors</em> around the nose. Stimulation is enhanced with colder temperature, which inhibits the cardiovascular center, as well as increasing parasympathetic output and reducing sympathetic output, both of which reduce heart rate.</p>
+<p>Primary features of the human <strong>dive response</strong> are the rapid onset of <strong>bradycardia</strong> (slowing of the <em>heart rate</em>), which works together with <strong>peripheral vasoconstriction</strong> to shunt blood toward the bodyʻs core <span class="citation" data-cites="Withers:1992">(Withers 1992)</span>. This causes an increase in the volume of blood returning to the <strong>heart</strong> and an increase in <strong>stroke volume</strong>. Thus, although there is a drop in <em>heart rate</em>, there may be no change or even an increase in <strong>arterial blood pressure</strong>.</p>
+<p>The dive response is thought to be adaptive for either reducing heat loss and/or preserving circulation around the vital organs while reducing circulation to the peripheral tissues. Oxygen becomes depleted and carbon dioxide and lactate build up in the tissues during a dive. When the animal resurfaces, there is a recovery period characterized by more rapid heart rate and ventilation to absorb more oxygen and flush out lactate and carbon dioxide.</p>
+<p>The dive response is triggered by sudden submergence of the face in cold water, which stimulate the <em>trigeminal nerve receptors</em> around the face. Stimulation is enhanced with colder temperature, which inhibits the cardiovascular center, as well as increasing parasympathetic output and reducing sympathetic output, both of which reduce heart rate.</p>
 <section id="objectives-1" class="level2">
 <h2 class="anchored" data-anchor-id="objectives-1">Objectives</h2>
-<p>You will investigate the effects of the diving response on heart rate and peripheral circulation in humans during simulated dives. First, you will examine the effect of holding your breath, then you will examine the effects of simulated dives, and an experiment to determine which stimuli contribute to triggering the dive response. One person will serve as the experimental subject.</p>
+<p>You will investigate the effects of the diving response on heart rate and peripheral circulation in humans during simulated dives. First, you will examine the effect of holding your breath, then you will examine the effects of simulated dives, and an experiment to determine which environmental stimuli contribute to triggering the dive response. One person will serve as the experimental subject.</p>
 </section>
 <section id="additional-required-equipment" class="level2">
 <h2 class="anchored" data-anchor-id="additional-required-equipment">Additional Required Equipment</h2>
@@ -245,14 +248,15 @@ Figure&nbsp;4: Attachment of the respiratory belt transducer to the calf for leg
 </figure>
 </div>
 </div></div><ol type="1">
-<li>Switch the PowerLab to the Dive Response settings. You should have the Finger Pulse transducer in channel 1 and the Respiratory Belt Transducer to input 2 to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings. In this experiment, the sphygnamanometer is used to pressurize the thigh and not plugged in to PowerLab.</li>
+<li>Switch the PowerLab to the Dive Response settings. You should have the Finger Pulse transducer in channel 1 and the Respiratory Belt Transducer to input 2 to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings. <em>In this experiment, the sphygnamanometer is used only to restrict blood flow to the thigh and not plugged in to PowerLab.</em></li>
 <li>Set up and maintain a wash basin with icewater deep enough to submerge your face up to your temples. Use a thermometer to monitor temperature at 10-15C (50-60F), replenish with ice as needed.</li>
 <li>Attach the respiratory belt snugly to the calf (Figure&nbsp;4). <em>It should feel tight and the sensor fabric should be slightly stretched.</em></li>
-<li>Place the sphygnomanometer cuff around the subject’s thigh, and <em>duct tape it securely so that it can be pressurized to restrict blood flow</em>. Be sure to apply tape to <em>secure both the top and the bottom</em> of the cuff.</li>
+<li>Place the thigh cuff around the subject’s thigh, and <em>duct tape it securely so that it can be pressurized to restrict blood flow</em>. Be sure to apply tape to <em>secure both the top and the bottom</em> of the cuff.</li>
 <li>Record for 10 seconds and stop. Scale the Pulse channel and the Leg Volume channel to fully display the data.</li>
 <li>Record again and test by flexing and relaxing your calf. <em>You should be able to see a clear deflection on the leg volume channel.</em> If it is very small, try tightening the respiratory belt a little. Check with your TA before moving on.</li>
-<li>For all experiments, <em>resting position for the subject is leaning over the basin with the face just aboe water.</em></li>
+<li>For all experiments, <em>resting position for the subject is sitting while leaning over the basin with the face just above water.</em></li>
 <li>Use a timer to time the treatments (a cell phone or a web browser will do).</li>
+<li>You will want to use a compressed timescale to see the dive response. Try 100:1, 200:1, etc.</li>
 </ol>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -282,15 +286,18 @@ Protocol: Basic Leg volume measurement
 <li>Record the subject’s <strong>resting</strong> recording for 10 seconds.</li>
 <li>Rapidly <strong>Inflate</strong> the cuff to <strong>60 mmHg</strong> (or whatever pressure feels tight enough to restrict blood flow for the subject [I used 80 mmHg], the pressure should be same for all measurements),</li>
 <li><strong>Hold pressure</strong> for <strong>exactly 20 seconds</strong> (<em>NOTE: You may have to gently squeeze the bulb to keep pressure constant.</em>)</li>
-<li><strong>Quickly and COMPLETELY release</strong> the pressure (Figure&nbsp;5).</li>
+<li><strong>Quickly and COMPLETELY release</strong> the pressure (Figure&nbsp;5) by ripping off the velcro without moving the subject.</li>
 <li><strong>Recovery:</strong> Record for 30 sec or until the leg volume returns to baseline.</li>
 </ol>
 <section id="notes-1" class="level4">
 <h4 class="anchored" data-anchor-id="notes-1">NOTES:</h4>
 <ul>
-<li><span style="color: blue">Comments should be placed at the <strong>start of rest</strong> and at the <strong>start</strong> of each change in condition.</span></li>
+<li><span style="color: blue">Be sure to Comment at the <strong>start of each new treatment</strong> (start of baseline, start of dive response, etc.)</span></li>
+<li>It is critical to have <span style="color: blue">accurate comments</span> for each manipulation above (resting, inflate, at pressure, release, dive, breathing, etc.)</li>
 <li><em>Be sure to have the comments pre-typed in the comment box and hit enter at the start of each event to accurately place comments in time.</em></li>
-<li><strong>Inflate</strong> and <strong>deflate</strong> the cuff as fast as possible.</li>
+<li><strong>Inflate</strong> and <strong>release</strong> the cuff as fast as possible.</li>
+<li>Practice ripping off the cuff without moving the subject. The experimenter should do it.<br>
+</li>
 <li>When doing <em>repeated measurements</em>, ensure you have <strong>baseline data</strong> for <em>at least 15 sec</em> before inflating the cuff again.</li>
 <li>The subject will have to hold their breath for about 30 sec.&nbsp;</li>
 <li>Make <strong>good comments</strong> and <strong>minimize movement</strong> in the Finger Pulse Transducer.</li>
@@ -299,21 +306,21 @@ Protocol: Basic Leg volume measurement
 </div>
 </div>
 </section>
-<section id="b.-control-experiment" class="level2">
-<h2 class="anchored" data-anchor-id="b.-control-experiment">B. Control experiment</h2>
+<section id="b.-baseline-experiment" class="level2">
+<h2 class="anchored" data-anchor-id="b.-baseline-experiment">B. Baseline experiment</h2>
 <ol type="1">
-<li>Use the <a href="@sec-divesetup">Section A setup</a> with the respiratory belt on the calf (Figure&nbsp;4) and the sphygnomanometer cuff on the upper thigh.</li>
+<li>Use the <a href="@sec-divesetup">Section A setup</a> with the respiratory belt on the calf (Figure&nbsp;4) and the cuff on the upper thigh.</li>
 <li>Subject leans over basin with face just above water.</li>
-<li>Start recording and comment <span style="color:blue">“control, resting”</span>, record for 10sec.</li>
-<li>Rapidly inflate the cuff to 60mmHg, comment <span style="color:blue">“control, cuff inflated”</span>, and record for 20sec.<br>
+<li>Start recording and comment <span style="color:blue">“baseline control experiment, resting”</span>, record for 10sec.</li>
+<li>Rapidly inflate the cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span>, and record for 20sec.<br>
 </li>
-<li>Quickly release all cuff pressure, and comment <span style="color:blue">“deflated”</span>. Record for 30 sec or until leg volume and HR stabilizes.</li>
+<li>Rip off the cuff, releasing pressure, and comment <span style="color:blue">“deflated”</span>. Record for 30 sec or until leg volume and HR stabilizes.</li>
 </ol>
-<p><span style="color: blue">Make sure to <strong>comment at each step</strong> and always <strong>DEFLATE CUFF COMPLETELY</strong> each time.</span></p>
+<p><span style="color: blue">Make sure to <strong>comment at each step</strong> and always <strong>DEFLATE CUFF COMPLETELY</strong> before reapplying the cuff.</span></p>
 </section>
 <section id="c.-dive-response-experiment" class="level2">
 <h2 class="anchored" data-anchor-id="c.-dive-response-experiment">C. Dive response experiment</h2>
-<p><em>Note: It is critical that the temples be submerged in order to see the dive response.</em></p>
+<p><em>Note: It is critical that the face be well submerged up to the temples in order to see the dive response.</em></p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -327,8 +334,7 @@ NOTES:
 <ul>
 <li><strong>Make sure everything is very clear before beginning</strong> to avoid repeating this experiment.</li>
 <li>It is a good idea to practice a dry run of the simulated dive procedure (without submerging face).</li>
-<li>One member of the group should tap the subject on the back at 10-second intervals while immersed to help them keep track of the time and prevent anxiety.</li>
-<li>Work out in advance what your signals will be for timing (10s mark) vs.&nbsp;resurfacing.</li>
+<li>Work out in advance what your signals will be for resurfacing, or any other signals you need.</li>
 <li><em>Do not force the subject to remain submerged</em>.<br>
 </li>
 </ul>
@@ -336,23 +342,18 @@ NOTES:
 </div>
 <ol type="1">
 <li>Use the <a href="@sec-divesetup">Section A setup</a>. The basin should be in front of the subject and at 10-15C.</li>
-<li>Before beginning, allow the subject to find a comforable chair height and leg posture to allow them to <em>remain as motionless as possible with their face above the basin</em>. Most people sit, but standing is OK if preferred.</li>
-<li><strong>Rest:</strong> Start recording and comment <span style="color:blue">“dive experiment, resting”</span>, record for 10sec.</li>
+<li>Before beginning, allow the subject to find a comforable chair height and leg posture to allow them to sit and <em>remain as motionless as possible with their face above the basin</em>.<br>
+</li>
 <li><strong>Simulated dive:</strong>
 <ol type="a">
+<li><strong>Rest:</strong> Start recording and comment <span style="color:blue">“dive experiment, resting”</span>, record for 10 sec</li>
 <li><strong>Rapidly</strong> inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span>.<br>
 </li>
 <li>Have the subject take a deep breath, exhale partially, and then hold their breath while immersing their face up to their temples in the pan of water. Comment <span style="color:blue">“dive”</span>, record for 20 sec.&nbsp;</li>
-<li><strong>Rapidly</strong> release all cuff pressure. Comment <span style="color:blue">“deflated”</span>, and record for 10 sec.<br>
+<li><strong>Rapidly</strong> release all cuff pressure. Comment <span style="color:blue">“deflated”</span>, record for 10 sec.<br>
 </li>
-<li>Signal to the subject to <strong>resurface</strong> and breathe normally with face just above water. Comment <span style="color:blue">“normal breathing”</span> and record for 10 sec.&nbsp;</li>
+<li>Signal to the subject to <strong>resurface</strong> and breathe normally with face just above water. Comment <span style="color:blue">“normal breathing”</span> record for at least 10 sec (ok to keep recording through recovery).</li>
 <li>Allow subject to gently dry face.</li>
-</ol></li>
-<li><strong>Post-dive:</strong> Perform a leg volume measurement post-dive.
-<ol type="a">
-<li>Comment <span style="color:blue">“post-dive”</span> and record for 10 sec.&nbsp;</li>
-<li>Rapidly inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span> and record for 20 sec.&nbsp;</li>
-<li>Rapidly release all pressure. Comment <span style="color:blue">“deflated”</span>, and record for 10 sec.&nbsp;</li>
 </ol></li>
 </ol>
 </section>
@@ -360,9 +361,9 @@ NOTES:
 <h2 class="anchored" data-anchor-id="c.-breath-holding-exeriment">C. Breath holding exeriment</h2>
 <ol type="1">
 <li>This experiment is very similar to the dive response, but without facial immersion. The subject will remain motionless with their face above the basin.</li>
-<li>Record and comment <span style="color:blue">“breath hold experiment, resting”</span>. Record for 10 sec.&nbsp;</li>
 <li><strong>Breath hold:</strong>
 <ol type="a">
+<li>Record and comment <span style="color:blue">“breath hold experiment, resting”</span>. Record for 10 sec.&nbsp;</li>
 <li>Rapidly inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span>.<br>
 </li>
 <li>Have the subject take a deep breath, exhale partially, and then hold their breath. Comment <span style="color:blue">“breath hold”</span>, record for 20 sec.&nbsp;</li>
@@ -374,35 +375,8 @@ NOTES:
 </section>
 <section id="d.-additional-experiment" class="level2">
 <h2 class="anchored" data-anchor-id="d.-additional-experiment">D. Additional Experiment</h2>
-<p>The simulated dive involves multiple stimuli simultaneously. <strong>Brainstorm</strong> how you might <em>identify the components which are actually “triggering” the dive response by isolating stimuli.</em> Are these components all necessary? Are they additive?</p>
-<p>Each group should <strong>design and perform an experiment to isolate one potential stimulus</strong> responsible for triggering the dive response. Get your idea approved by your TA. Share your results with the other groups. <em>Make sure you explain your methods carefully (including your logic) in your lab report.</em></p>
-<!----
-## Experiment Summary
-
-
-| Experiment  | Subject position  | Comment | Cuff Pressure  | Record
-| ----  | ----  | ----  | ----  | ----
-| Control | over water  | "control, rest" |    | 10s
-|  | over water  | "control, cuff inflated"  | rapidly inflate to 60mmHg | 30s @60mmHg
-|  | over water  | "control, deflated" | rapidly deflate | 30s
-|   |   |   |    |  
-| Dive  | over water  | "dive, rest"  |    | 10s
-|  | over water  | "cuff inflated" | rapidly inflate | keep recording
-|  | face in water | "dive"  | hold @60mmHg | 20s 
-|  | face in water | "dive, deflate" | rapidly deflate | 10s
-|  | normal breathing  | "recovery"  |    | 10s
-|  | over water, normal breathing  | "cuff inflated" | rapidly inflate | keep recording
-|  | over water, normal breathing |   | hold @60mmHg | 20s 
-|  | over water, normal breathing | "deflate" | rapidly deflate | 10s
-|   |   |   |    |  
-| Breath Hold | over water, normal breathing  | "breath hold, rest" |    | 10s
-|  | over water, normal breathing  | "cuff inflated" | rapidly inflate | keep recording
-|  | breath hold above water | "breath hold" | hold @60mmHg | 20s 
-|  | breath hold above water | "breath hold, deflate"  | rapidly deflate | 10s
-|  | over water, normal breathing  | "recovery"  |   | 30s
-
-: A summary of the procedures for the control, dive response, and breath hold experiments. Do a fourth experiment of your own design.  {#tbl-dive}  
----->
+<p>The simulated dive involves multiple stimuli simultaneously. <strong>Brainstorm</strong> how you might <em>identify the enviromental stimuli which are actually “triggering” the dive response by trying to isolate stimuli.</em> Are these components all necessary? Are they additive?</p>
+<p>Each group should <strong>design and perform an experiment to isolate one potential stimulus</strong> responsible for triggering the dive response. Get your idea approved by your TA. Discuss your results with the other groups. <em>Make sure you explain your methods carefully (including your logic) in your lab report.</em></p>
 </section>
 <section id="analysis-1" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="analysis-1">Analysis</h2>
@@ -439,7 +413,7 @@ Table&nbsp;1: Heart rate and pulse amplitude should be recorded at rest, during 
 </thead>
 <tbody>
 <tr class="odd">
-<td>Control</td>
+<td>Baseline</td>
 <td>heart rate (BPM)</td>
 <td></td>
 <td></td>
@@ -500,37 +474,36 @@ Collecting leg volume change from the volume trace:
 <ol type="1">
 <li>Set the <strong>Marker</strong> to the point of maximum leg voluime (a region just prior to cuff deflation in the leg volume channel; Figure&nbsp;5).</li>
 <li>Using the <strong>Waveform Cursor</strong>, obtain the <strong>difference in leg volume</strong> between maximum and minimum leg volume (<img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV"> (mV) <img src="https://latex.codecogs.com/png.latex?=%20LV1%20-%20LV2">; Figure&nbsp;5). Note the maximum and minimum should be just before and a little after the cuff is deflated.</li>
-<li><strong>Relative leg volume</strong> is the ratio between the experimental and control leg volume differences. <img src="https://latex.codecogs.com/png.latex?Rel%20LV%20=%20%5CDelta%20LV_%7Btreatment%7D%20/%20%5CDelta%20LV_%7Bcontrol%7D">.</li>
+<li><strong>Relative leg volume</strong> is the ratio between the experimental and baseline leg volume differences. <img src="https://latex.codecogs.com/png.latex?Rel%20LV%20=%20%5CDelta%20LV_%7Btreatment%7D%20/%20%5CDelta%20LV_%7Bbaseline%7D">.</li>
 </ol>
 <p><strong>The <em>leg volume</em> difference</strong> is a measure of pooling and therefore peripheral circulation. <strong>Relative leg volume</strong> quantifies <strong>changes</strong> in <em>peripheral circulation</em>.</p>
 </div>
 </div>
 <ol type="1">
-<li>Collect the leg volume difference for the <strong>control</strong>, during the <strong>dive</strong>, and <strong>post dive</strong> ( <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bcontrol%7D">, <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bdive%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bpost-dive%7D"> ) .</li>
-<li>Calculate the relative leg volumes for dive vs.&nbsp;control and post-dive vs.&nbsp;control ( <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bdive%7D/%20%5CDelta%20LV_%7Bcontrol%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bpost-dive%7D/%20%5CDelta%20LV_%7Bcontrol%7D"> ).</li>
-<li>Do the same for the <strong>breath hold experiment</strong>, and your <strong>custom experiment</strong> and tabulate as in Table&nbsp;2.</li>
+<li>Collect the leg volume difference for the <strong>control</strong>, during the <strong>dive</strong>, and <strong>breath hold</strong> ( <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bbaseline%7D">, <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bdive%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bbreath_hold%7D"> ) .</li>
+<li>Calculate the relative leg volumes for dive vs.&nbsp;baseline and dive vs.&nbsp;breath hold ( <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bdive%7D/%20%5CDelta%20LV_%7Bbaseline%7D">, etc.<br>
+</li>
+<li>Do the same for your <strong>custom experiment</strong> and tabulate as in Table&nbsp;2.</li>
 </ol>
 <div id="tbl-lvdata" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-lvdata-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to record in your notebook. These are measurements taken during the “treatment” phase of each experiment. You may use the <img src="https://latex.codecogs.com/png.latex?HR_%7Bcontrol%7D">, <img src="https://latex.codecogs.com/png.latex?PA_%7Bcontrol%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bcontrol%7D"> for all of your comparisions if your setup has not changed (i.e., you did not reposition your cuff or your transducers).
+Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to record in your notebook. These are measurements taken during the “treatment” phase of each experiment. You may use the <img src="https://latex.codecogs.com/png.latex?HR_%7Bbaseline%7D">, <img src="https://latex.codecogs.com/png.latex?PA_%7Bbaseline%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bbaseline%7D"> for all of your comparisions if your setup has not changed (i.e., you did not reposition your cuff or your transducers).
 </figcaption>
 <div aria-describedby="tbl-lvdata-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
 </colgroup>
 <thead>
 <tr class="header">
 <th></th>
-<th>Control</th>
+<th>Baseline</th>
 <th>Dive</th>
-<th>Post Dive</th>
 <th>Breath Hold</th>
 <th>My Expt</th>
 </tr>
@@ -542,11 +515,9 @@ Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>pulse amplitude (mv)</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -558,10 +529,8 @@ Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -570,15 +539,13 @@ Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to
 </tr>
 <tr class="odd">
 <td></td>
+<td><strong>Dive/Baseline</strong></td>
+<td><strong>Breath Hold/Baseline</strong></td>
+<td><strong>My Expt/Baseline</strong></td>
 <td></td>
-<td><strong>Dive/Control</strong></td>
-<td><strong>Post Dive/Control</strong></td>
-<td><strong>Breath Hold/Control</strong></td>
-<td><strong>My Expt/Control</strong></td>
 </tr>
 <tr class="even">
 <td>Relative HR</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -590,11 +557,9 @@ Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Relative LV</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -629,9 +594,14 @@ Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to
 </ul>
 
 
+
 </section>
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-Withers:1992" class="csl-entry">
+Withers, Philip C. 1992. <em>Comparative Animal Physiology</em>. Saunders College Publishing.
+</div>
+</div></section></div> ]]></description>
   <category>week 3</category>
   <category>labs</category>
   <category>circulation</category>
@@ -3547,7 +3517,7 @@ Important
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys2024/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Thu, 05 Sep 2024 07:47:00 GMT</pubDate>
+  <pubDate>Sun, 08 Sep 2024 01:18:40 GMT</pubDate>
 </item>
 </channel>
 </rss>
