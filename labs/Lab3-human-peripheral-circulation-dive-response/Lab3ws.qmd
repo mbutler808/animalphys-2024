@@ -43,7 +43,7 @@ _Stimulus for dive response_ -- "We will test potential triggers for the dive re
 
 ::: {.callout-note}  
 # How will we evaluate the hypotheses?
-_What do you expect to see in the data if the hypothesis is true (if these mechanisms are occurring)? Be specific and relate back to observable parameters: (and relate to controls or confounding parameters, if appropriate)._
+_What do you expect to see in the data if the hypothesis is true (if these mechanisms are occurring)? Be specific and relate back to observable parameters: (and relate to controls or confounding parameters, if appropriate)._ Write a brief sentence for each:
 
 -  Distance from heart
 
