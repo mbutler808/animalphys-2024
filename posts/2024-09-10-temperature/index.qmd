@@ -27,7 +27,7 @@ categories: [module 3, week 3, BMR, SMR, RMR, AMR, DMR ]
 
 ### Announcements/Reminders
 
--  We are back in the lab this week. Read \[[Lab 3](../../labs/Lab3-human-peripheral-circulation-dive-response)\]. Watch the podcast on peripheral circulation. Read Do prelab quiz and the prelab, focusing on the hypotheses that you will design. 
+-  We are back in the lab this week. Read \[[Lab 3](../../labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]. Watch the podcast on peripheral circulation. Read Do prelab quiz and the prelab, focusing on the hypotheses that you will design. 
 -  We will finish Metabolism and begin Temperature. 
 -  HW1 due Tuesday in class, hand-written (you may submit as a group - week 2 if you wish). 
 -  HW2 due next Tuesday in class (individual). 

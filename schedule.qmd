@@ -26,7 +26,7 @@ format:
 | | Th | Size and Scaling \[[podcast](https://youtu.be/_NDNa_3Bon8)\]|   |  |   
 |   | F |  | Background Design 1 \[[html](projects/0.BackgroundBulletPoints.qmd)\] |   |   
 |Week 3|||||
-| 9/10 | T | Temperature \[[html](posts/2024-09-10-temperature)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |  PS1: Metabolism \[[pdf](homework/HW1metabolism.pdf)\] | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response)\]  |   
+| 9/10 | T | Temperature \[[html](posts/2024-09-10-temperature)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |  PS1: Metabolism \[[pdf](homework/HW1metabolism.pdf)\] | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]  |   
 |   | Th | Iterative Method/Heterothermy  |  |   |   
 |Week 4|||||
 | 9/17  | T |  Cardiac Function \[[html]\]  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |  Lab Practical / Lab4: PC3-G-ECG/Cardiac Function \[[overview]\] | 
