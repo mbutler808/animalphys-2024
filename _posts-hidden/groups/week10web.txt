@@ -1,0 +1,5 @@
+[1] "Abby"   "Joshua" "Kylee" 
+[1] "James"   "Mohamad" "Vivian" 
+[1] "Adam" "Ilan" "Sean"
+[1] "Hao"    "Tamako"
+[1] "Ashton"    "Christian" "Veronica" 

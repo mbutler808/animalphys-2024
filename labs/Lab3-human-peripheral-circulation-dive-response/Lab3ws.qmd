@@ -19,17 +19,17 @@ categories: [week 3, labs, circulation, peripheral circulation, blood pressure, 
 # Instructions - Individual Worksheet
 - Please pay attention to the __intellectual content__ contained in each section of this __worksheet__. 
 - Our goal here is the practice logically laying out our __ideas__ focusing on ___physiological mechanisms___. 
--  Sections \(1\) and (2) together are designed to guide you to building strong hypotheses, and (3) and (4) are mini-results and mini-discussion sections, respectively. 
-- You may use the Word template or just type up your worksheet for submission. Include the statements of purpose below. For section 2 demonstrate your understanding by writing a brief sentence for what you would expect to see in the data. Be concise, to the point (no extra words)! The Results and Discussion are in paragraph form. 
+-  Section \(1\) is designed to guide you to building strong hypotheses, section (2) is essential knowledge for both hypotheses and designing your figures, and guiding your (3) results and (4) discussion sections, respectively. Everything on worksheets are brief. 
+- You may use the Word template or just type up your worksheet for submission. Include the statements of purpose below. For section 2 write a brief sentence for what you would expect to see in the data. Be concise, to the point (no extra words)! Results and Discussion are in paragraph form. 
 - Notice how much we are emphasizing brief, concise, to the point!, and relevant. _Right, Relevant, Righteous!_
 :::
 
 
-## __(1) Statements of Purpose__
+### __(1) Statements of Purpose__
 ::: {.callout-tip}  
-_In a scientific paper, the introduction builds to a statement of purpose (or hypotheses) in the final paragraph of the intro._ The statements you see below are examples appropriate here. Study them as examples to fill in the blanks and for future experiments where you will have to write your own. Notice that the physiological mechanisms and the associated variables are clearly stated, along with the hypothesized relationship between them (and experimental design if you can!). In a full paper (or lab report), you would introduce the mechanisms and connect the dots to the hypotheses in the paragraphs above.
+_In a scientific paper, the introduction builds to a statement of purpose (or hypotheses) in the final paragraph of the intro._ The statements you see below are examples appropriate for this lab. Study them to guide this assignment, and for future experiments where you will have to write your own. Notice that the physiological mechanisms and the associated variables are clearly stated, along with the hypothesized relationship between them (and experimental design if you can!). In a full paper (or lab report), your introduction would start from the main idea, introduce the mechanisms and connect the dots to the hypotheses in the final paragraph.
 :::
-__Use these statements of purpose to frame your thinking about this lab, complete them as needed:__
+__Use these statements of purpose to frame your thinking about this lab, fill in the blanks:__
 
 _Distance from heart_ -- "We demonstrate the predicted drop in blood pressure with distance from the central pump. We explore whether there is a greater drop in systolic or diastolic pressure with distance" (in a full lab report you would set up your ideas for why it might go either way). 
 
@@ -39,11 +39,11 @@ _Dive response_ -- "When diving, peripheral circulation should be reorganized to
 
 _Stimulus for dive response_ -- "We will test potential triggers for the dive response including ____________________________.""  
 
-## __(2) Concept check: demonstrate your understanding__
+### __(2) Concept check: demonstrate your understanding__
 
 ::: {.callout-note}  
 # How will we evaluate the hypotheses?
-_What do you expect to see in the data if the hypothesis is true (if these mechanisms are occurring)? Be specific and relate back to observable parameters: (and relate to controls or confounding parameters, if appropriate)._ Write a brief sentence for each:
+_What do you expect to see in the data if the hypothesis is true (if these mechanisms are occurring)? Be specific and relate back to observable parameters: (and relate to controls or confounding parameters, if appropriate)._ Write a brief sentence for each (just for clarification, this is not a formal "section" of a scientific paper nor a lab report, rather these ideas would be woven throughout the manuscript):
 
 -  Distance from heart
 
@@ -54,14 +54,11 @@ _What do you expect to see in the data if the hypothesis is true (if these mecha
 -  Stimulus for dive response
 :::
 
-
-
-
-## (3) Mini Results
+### (3) Mini Results
 
 _Display your results by including either __a figure or a table__ for each important result (remember to design each to address a hypothesis)._ You may work together with your group to produce the figures or tables. __Write a paragraph__ for the results with ___~one sentence__ pointing out what your data actually shows for each display item (refer in-text to each figure)._ 
 
-## (4) Mini Discussion: 
+### (4) Mini Discussion: 
 
 __Wrap-up:__ In paragraph form, briefly __Discuss__ the __main take-aways__ that you learned from these experiments on peripheral circulation and the dive response. Use specific results that back up your statements or speculate on the significance of the results. Organize by hypotheses above.
 
