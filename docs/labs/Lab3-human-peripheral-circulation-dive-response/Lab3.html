@@ -452,10 +452,11 @@ Figure&nbsp;3: Volume and pressure changes during the <strong>cardiac cycle</str
 <section id="setup" class="level2">
 <h2 class="anchored" data-anchor-id="setup">Setup</h2>
 <ol type="1">
-<li>Use “Blood Pressure” settings to start Chart software.</li>
-<li>Check the channel settings: Setup &gt; Channel Settings. Is Pulse on Input 1?</li>
-<li>Setup Finger Pulse transducer on correct input.</li>
-<li>Attach sphygmomanometer transducer to correct input.</li>
+<li>Use “Lab 3-Blood Pressure” settings to start Chart software.</li>
+<li>Check the channel settings: from the menu bar <strong>Setup &gt; Channel Settings</strong>. Is Pulse Flow on Input 1 or 2?</li>
+<li>Attach Finger Pulse transducer.</li>
+<li>Attach sphygmomanometer transducer.</li>
+<li>Restart the LabChart software with the transducers attached to the correct inputs.</li>
 </ol>
 </section>
 <section id="data-collection" class="level2">
@@ -546,15 +547,28 @@ Figure&nbsp;4: Attachment of the respiratory belt transducer to the calf for leg
 </figure>
 </div>
 </div></div><ol type="1">
-<li>Switch the PowerLab to the Dive Response settings. You should have the Finger Pulse transducer in channel 1 and the Respiratory Belt Transducer to input 2 to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings. <em>In this experiment, the sphygnamanometer is used only to restrict blood flow to the thigh and not plugged in to PowerLab.</em></li>
+<li>Attach the respiratory belt transducer to Input 1, and the pulse transducer to Input 2.</li>
+<li>Use “Lab 3-Dive Response…” settings to start Chart software.</li>
+<li>Add 2 channels for Pulse Flow and Heart Rate.</li>
+</ol>
+<ul>
+<li>From the menu bar, choose <strong>Setup &gt; Channel Settings</strong>. At the bottom of the menu, increase the number of channels to 3.<br>
+</li>
+<li>If you attached the pulse transducer before you opened the software, it should detect the pulse transducer and say so in the Input Amplifier column. If not, quit the software and reopen it via the settings file now that all the sensors are attached.</li>
+<li>Name channel 2 “Pulse Flow”. In the box that pops up change the source to Channel 2 (to match the sensor input). Under Calculation, select Integral, (the default Standard Integral) and OK. This will tell us the relative volume of blood flowing through our pulse.</li>
+<li>Name channle 3 “Heart Rate (BPM)”. Select Calculation &gt; Cyclic Measurements. Change the source to Channel 2 (calculating from the pulse transducer data), and ensure Measurement is set to Rate.</li>
+<li><em>In this experiment, the sphygnamanometer is attached to a thigh cuff and used only to restrict blood flow to the thigh and not plugged in to PowerLab.</em></li>
+</ul>
+<ol start="4" type="1">
 <li>Set up and maintain a wash basin with icewater deep enough to submerge your face up to your temples. Use a thermometer to monitor temperature at 10-15C (50-60F), replenish with ice as needed.</li>
 <li>Attach the respiratory belt snugly to the calf (<a href="#fig-calf" class="quarto-xref">Figure&nbsp;4</a>). <em>It should feel tight and the sensor fabric should be slightly stretched.</em></li>
-<li>Place the thigh cuff around the subject’s thigh, and <em>duct tape it securely so that it can be pressurized to restrict blood flow</em>. Be sure to apply tape to <em>secure both the top and the bottom</em> of the cuff.</li>
+<li>Place the thigh cuff around the subject’s thigh. You may or many not need to use <em>duct tape if the cuff does not remain securely pressurized to restrict blood flow</em>. If needed, apply tape to <em>secure both the top and the bottom</em> of the cuff.</li>
 <li>Record for 10 seconds and stop. Scale the Pulse channel and the Leg Volume channel to fully display the data.</li>
-<li>Record again and test by flexing and relaxing your calf. <em>You should be able to see a clear deflection on the leg volume channel.</em> If it is very small, try tightening the respiratory belt a little. Check with your TA before moving on.</li>
+<li>Record again and test by flexing and relaxing your calf. <em>You should be able to see a clear deflection on the leg volume channel.</em> If it is very small, try tightening the respiratory belt a little. Check with your TA that you are receiving a good signal before moving on.</li>
 <li>For all experiments, <em>resting position for the subject is sitting while leaning over the basin with the face just above water.</em></li>
 <li>Use a timer to time the treatments (a cell phone or a web browser will do).</li>
 <li>You will want to use a compressed timescale to see the dive response. Try 100:1, 200:1, etc.</li>
+<li>Always fully deflate the cuff (you may have to squeeze out the air) after depressurizing.</li>
 </ol>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -881,6 +895,7 @@ Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to
 <section id="after-lab-assignment-week-3" class="level1">
 <h1>After Lab: Assignment Week 3:</h1>
 <ul>
+<li>Before you leave, please tidy up and leave the equiptment (sensors, cables) as you found them. Make sure the PowerLab is powered down. Leave computers on but do <strong>make a folder for your lab group</strong> on the desktop and <em>move ALL your FILES into your groupʻs folder</em>.</li>
 <li>You will work with your lab group to analyze data, and you may share figures if you wish. However, each person will submit an <strong>Individual WorkSheet</strong> [<a href="../../labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html">html</a>]</li>
 <li>Reminder: <em>Practical has been moved to next week (week 4) on Lab 1 material</em>. Let us know if you want to come in to practice.</li>
 </ul>
