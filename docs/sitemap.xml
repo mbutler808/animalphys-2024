@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/schedule.html</loc>
-    <lastmod>2024-09-08T03:20:32.887Z</lastmod>
+    <lastmod>2024-09-14T10:48:59.045Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/labs-misc/Lab1-discussion.html</loc>
@@ -179,5 +179,9 @@
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/resources.html</loc>
     <lastmod>2024-08-24T23:29:20.102Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/animalphys2024/posts/2024-09-17-cardiac-function/cardiac.html</loc>
+    <lastmod>2024-09-14T10:46:26.882Z</lastmod>
   </url>
 </urlset>

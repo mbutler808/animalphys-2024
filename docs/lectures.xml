@@ -10,7 +10,132 @@
 <atom:link href="https://mbutler808.github.io/animalphys2024/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2024</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 10 Sep 2024 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Sep 2024 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>4. Cardiac Function and Metabolic Ceilings</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys2024/posts/2024-09-17-cardiac-function/cardiac.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This week we will learn more about cardiac morphology, function, and regulation. There are multiple very short (but important) readings, and some longer readings to skim. Donʻt worry about understanding every detail in the readings, but rather look over the discussion questions first and hunt through the readings for those topics, skimming over the rest. <em>These are going to be important topics for the next few labs.</em></p>
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Tuesday we will finish heterothermy and start cardiac function. [<a href="../../discussions/Discussion-Week4-heart-function.pdf">Heart Discussion Questions and readings</a>]</li>
+<li>Thursday we use part of class to discuss a paper on Metabolic Ceilings [<a href="../../discussions/Discussion-Week4-metabolic-ceiling.pdf">discussion</a>]</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Please wear <strong>comfortable shoes to lab</strong> for running up and down stairs.</li>
+<li>HW1 solutions are posted on window of EDM101 lab.</li>
+<li>HW2 due in class (hard copy preferred)</li>
+<li>[<a href="../../projects/2023-09-06-design-background/index.qmd">Design Background</a>] Due <strong>Wednesday in hardcopy</strong>. 10 points. Chance to revise by Friday.</li>
+</ul>
+</section>
+<section id="week-4-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-4-discussion-groups">Week 4 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Hao</td>
+<td>Abby</td>
+<td>Ilan</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Christian</td>
+<td>James</td>
+<td>Sean</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Ashton</td>
+<td>Joshua</td>
+<td>Tamako</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Kylee</td>
+<td>Veronica</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Adam</td>
+<td>Mohamad</td>
+<td>Vivian</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="tuesday" class="level2">
+<h2 class="anchored" data-anchor-id="tuesday">Tuesday</h2>
+<ul>
+<li>Finish up Heterothermy [<a href="../../discussions/Discussion-Week3-temperature.pdf">questions 2-4</a>] [<a href="../../powerpoints/4.Temperature.pdf">slide deck</a>]</li>
+<li>Begin Cardiac Cycle [<a href="../../powerpoints/4.CardiacCycle.pdf">slide deck</a>] [<a href="../../discussions/Discussion-Week4-heart-function.pdf">discussion</a>]</li>
+</ul>
+</section>
+<section id="thursday" class="level2">
+<h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
+<ul>
+<li>Cardiac Function/Regulation continued</li>
+<li>Design 1 chat</li>
+</ul>
+</section>
+</section>
+<section id="for-next-week" class="level1">
+<h1>For Next Week</h1>
+<ol type="1">
+<li>Design 1 draft due on Monday 9/23 by 5pm. [<a href="../../projects/design1.html">assignment</a>] [<a href="../../projects/1.MetabolismTempDesign1.pdf">pdf</a>] [<a href="https://drive.google.com/drive/u/0/folders/1ZDvNTCNeE2OKg6W_fqvj6BQmo3GTcdOo">turn in</a>]</li>
+<li>Next Lab session: Design 1 peer critique session [<a href="../../projects/design1-turnin.html">assignment</a>]</li>
+<li>Please fill out the TEAMMATES evals, released on Thursday, due by MONDAY. (check your email)</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>module 4</category>
+  <category>week 4</category>
+  <category>cardiac function</category>
+  <category>cardiac cycle</category>
+  <category>cardiac regulation</category>
+  <category>MMR</category>
+  <guid>https://mbutler808.github.io/animalphys2024/posts/2024-09-17-cardiac-function/cardiac.html</guid>
+  <pubDate>Tue, 17 Sep 2024 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>3. Temperature</title>
   <dc:creator>Marguerite Butler</dc:creator>
