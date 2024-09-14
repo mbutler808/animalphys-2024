@@ -5,14 +5,14 @@ name <- strsplit(dat$StudentName, " ")
 first <- sapply(name, function(x) x[2])
 last <- sapply(name, function(x) gsub(",", "", x[1]))
 
-first[first=="Xi"] <- "Abby"
+first[first=="Xi"] <- "Abby"   # preferred name
 
 name <- paste(first, last, sep=" ")
 email <- dat$Email
 dat2 <- cbind(first, last, name, email)
 oo <- order(first)
 dat2 <- dat2[oo, ]
-dat2 <- rbind(dat2[1:2,], c("", "", "", ""), dat2[3:14,])
+dat2 <- rbind(dat2[1:2,], c("", "", "", ""), dat2[3:14,]). # dropped student
 nn <- 1:dim(dat2)[1]
 
 wk2 <- nn[c(1:5, 10:6, 11:15)]
@@ -30,41 +30,31 @@ gr12 <- c(c(1), c(4:1), c(1:5), c(2:5), c(5))
 gr13 <- c(c(1), c(2:1), c(1:5), c(2:5), c(5:3))
 gr14 <- c(c(1), c(1:5), c(2:5), c(5:1))
 
-dat3 <- cbind(dat2, gr2, gr3, gr4, gr5, gr6, gr7, gr8, gr9, gr10, gr11, gr12, gr13, gr14)
+dat3 <- data.frame(cbind(dat2, gr2, gr3, gr4, gr5, gr6, gr7, gr8, gr9, gr10, gr11, gr12, gr13, gr14))
+dat3 <- dat3[dat3$first!="",]  # removed dropped student
 
 grsize <- 3
-wk=2
+ngroups <- ceiling(nrow(dat3)/grsize)
+groupweeks <- grep("gr", colnames(dat3), value=T)
 
-for (wk in wk) {
-gr <- vector(mode="list")
-ngroups <- ceiling(nrow(dat)/grsize)
-n <- 1:nrow(dat3)
-i = 1
+for (j in groupweeks) {
+  week <- gsub("gr", "", j)
+  oo <- order(dat3[[j]])
+  group <- dat3[[j]][oo]
+  first <- dat3$first[oo]
+  name <- dat3$name[oo]
+  email <- dat3$email[oo]
+  
+  teammates <- data.frame( Section="1", Team=group, Name=name, Email=email, check.names=F)
+  write.csv(teammates, file=paste("week", week, "teammates.csv", sep=""), row.names=F)
 
-for (j in 1:(ngroups)) {
-    	gr[[j]] <- sample(n, grsize)
-    	n <- n %w/o% gr[[j]]
+  sink(file=paste("week", week, "web.txt", sep=""))
+  for (i in 1:ngroups)
+    print(first[group==i])
+  sink()
+
+  zoom <- data.frame( "Pre-assign Room Name"=group, "Email Address"=email, check.names=F)
+  write.csv(zoom, file=paste("Zoom_week", week, ".csv", sep=""), row.names=F)
 }
 
-#gr[[ngroups-1]] <- sample(n, grsize-1)
-#    	n <- n %w/o% gr[[ngroups-1]]
-gr[[ngroups]] <- n
-
-grn <- c(paste("group", rep(1:(ngroups-1), each=3, sep="")), 
-			  paste("group", rep(ngroups, each=2, sep=""))
-			)
-gr.name <- unlist( lapply(gr, function(i) last[i]))
-gr.email <- unlist( lapply(gr, function(i) email[i]))
-gr.first <- unlist( lapply(gr, function(i) first[i]))
-zoom <- data.frame( "Pre-assign Room Name"=grn, "Email Address"=gr.email, check.names=F)
-
-teammates <- data.frame( Section="1", Team=grn, Name=paste(gr.first, gr.name, sep=" "), Email=gr.email, check.names=F)
-
-sink(file=paste("week", wk, "web.txt", sep=""))
-print(lapply(gr, function(i) paste(first[i])))
-sink()
-write.csv(zoom, file=paste("week", wk, ".csv", sep=""), row.names=F)
-write.csv(teammates, file=paste("week", wk, "teammates.csv", sep=""), row.names=F)
-
-}
 

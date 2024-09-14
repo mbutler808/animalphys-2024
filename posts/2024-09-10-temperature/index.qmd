@@ -109,7 +109,7 @@ If $\Delta$H$_s$ is negative,  (Gains < Losses), then  Tb decreases.
 
 # For Next Time
 
-
+1. \[[HW2](../../homework/HW2heat_temp.pdf)\] due on Tuesday in class. (Individual)
 
 ::: callout-note
 ## Reminders and materials
