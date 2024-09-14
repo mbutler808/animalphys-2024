@@ -110,10 +110,9 @@ If $\Delta$H$_s$ is negative,  (Gains < Losses), then  Tb decreases.
 # For Next Time
 
 1. \[[HW2](../../homework/HW2heat_temp.pdf)\] due on Tuesday in class. (Individual)
-
-::: callout-note
-## Reminders and materials
-
-:::
+2. Finish temperature, begin \[[Cardiac Function](../../discussions/Discussion-Week4-heart-function.pdf)\]
+3. Start working on design 1 calculations with your partner. See me for help \[[Office hours](https://calendly.com/mbutler808/office-hours)\]
+4. Next Lab: \[[Human ECG](../../labs/Lab4-human-ecg)\]
+5. Please fill out the TEAMMATES for both discussion week 3 and Lab 2 group lab by MONDAY. (check your email)
 
 
