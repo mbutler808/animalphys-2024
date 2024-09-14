@@ -41,7 +41,7 @@ categories: [week 4, labs, ecg, cardiac cycle, heart, exercise, electrical respo
 
 - Group lab report due next week
 - Use the guidance to structure your full lab report. \[[pdf](Lab4-ECG-Report.pdf)\] \[[docx](Lab4-ECG-Report.docx)\]
-- This will be a full lab report with intro, methods, results, discussion, literature cited, and respective contributions. \[[grading guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf)\] \[[old style](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
+- This will be a full lab report with intro, methods, results, discussion, literature cited, and respective contributions. \[[grading guidelines](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
 
 
 :::{.callout-important}

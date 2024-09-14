@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The vertebrate heart and its regulation"
-date: 2023-09-11
+date: 2024-09-17
 format: 
   html: default 
   pdf: default
@@ -22,49 +22,45 @@ This week we will learn more about cardiac morphology, function, and regulation.
 
 **Before class, you can prepare by reading the following materials:**
 
-1. Monday we will finish heterothermy and start cardiac function. Wednesday cardiac regulation  \[[Heart Discussion Questions and readings](../../discussions/Discussion-Week4-heart-function.pdf)\] 
-2. Friday we will discuss \[[Metabolic Celings](../../discussions/Discussion-Week4-metabolic-ceiling.pdf)\]
+1. Tuesday we will finish heterothermy and start cardiac function. \[[Heart Discussion Questions and readings](../../discussions/Discussion-Week4-heart-function.pdf)\] 
+2. Thursday we use part of class to discuss a paper on Metabolic Ceilings \[[discussion](../../discussions/Discussion-Week4-metabolic-ceiling.pdf)\]
 :::
 
 ### Announcements/Reminders
 
 -  Please wear __comfortable shoes to lab__ for running up and down stairs.
 -  HW1 solutions are posted on window of EDM101 lab.
--  HW2 due in class (hard copy preferred) or on Laulima by midnight.
+-  HW2 due in class (hard copy preferred) 
 -  \[[Design Background](../../projects/2023-09-06-design-background/index.qmd)\] Due __Wednesday in hardcopy__. 10 points. Chance to revise by Friday. 
--  Do discussion TEAMMATES eval, released each Friday, do by Monday.
+
 
 ### Week 4 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-| 1 |Adry| Krystal  | Sasha |
-| 2 |  Logan B  |  Anna | Kirsten |
-| 3 | Justin |  Maisie | Kylie |
-| 4 | Mayuka  | Garrett  | Logan M |
-| 5 |  Alvin | Richard  | Matt |
-| 6 |  Morgan  | Christina  |  |
+|1| Hao | Abby |  Ilan |
+|2| Christian | James  |   Sean   |  
+|3| Ashton | Joshua | Tamako |
+|4| Kylee |   Veronica | |
+|5| Adam |   Mohamad | Vivian |
 
-## Monday
+## Tuesday
    
-- Finish up Heterothermy \[[questions 3,4](../../discussions/Discussion-Week3-temperature.pdf)\] \[[slide deck](../../powerpoints/4.Temperature.pdf)\] 
-- Cardiac Cycle Q1,2 \[[slide deck](../../powerpoints/4.CardiacCycle.pdf)\]
+- Finish up Heterothermy \[[questions 2-4](../../discussions/Discussion-Week3-temperature.pdf)\] \[[slide deck](../../powerpoints/4.Temperature.pdf)\] 
+- Begin Cardiac Cycle \[[slide deck](../../powerpoints/4.CardiacCycle.pdf)\] \[[discussion](../../discussions/Discussion-Week4-heart-function.pdf)\]
 
-## Wednesday
+## Thursday
 
-- Cardiac Function/Regulation Q3-6
-
-## Friday 
-
-- Paper discussion
-
-# For Next Time
+- Cardiac Function/Regulation continued 
+- Design 1 chat
 
 
+# For Next Week
 
-::: callout-note
-## Reminders and materials
+1. Design 1 draft due on Monday 9/23 by 5pm. \[[assignment](../../projects/design1.qmd)\] \[[pdf](../../projects/1.MetabolismTempDesign1.pdf)\] \[[turn in](https://drive.google.com/drive/u/0/folders/1ZDvNTCNeE2OKg6W_fqvj6BQmo3GTcdOo)\]
+2. Next Lab session: Design 1 peer critique session \[[assignment](../../projects/design1-turnin.qmd)\]
+3. Please fill out the TEAMMATES evals, released on Thursday, due by MONDAY. (check your email)
 
-:::
+
 
 
