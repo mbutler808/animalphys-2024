@@ -47,7 +47,7 @@ This week we will learn more about cardiac morphology, function, and regulation.
 
 ## Tuesday
    
-- Finish up Heterothermy \[[questions 2-4](../../discussions/Discussion-Week3-temperature.pdf)\] \[[slide deck](../../powerpoints/4.Temperature.pdf)\] 
+- Finish up Heterothermy \[[questions 2-4](../../discussions/Discussion-Week3-temperature.pdf)\] \[[slide deck](../../powerpoints/3.Temperature.pdf)\] 
 - Begin Cardiac Cycle \[[slide deck](../../powerpoints/4.CardiacCycle.pdf)\] \[[discussion](../../discussions/Discussion-Week4-heart-function.pdf)\]
 
 ## Thursday
