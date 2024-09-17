@@ -21,7 +21,7 @@ categories: [module 3, week 3, BMR, SMR, RMR, AMR, DMR ]
 **Before class, you can prepare by reading the following materials:**
 
 1. Withers chapter 5. Look over the homework, handout, and discussion questions and skim the chapter, reading anything that you need to know. 
-2. \[[Discussion Questions](../../discussions/Discussion_Week_3_temperature.pdf)\] 
+2. \[[Discussion Questions](../../discussions/Discussion-Week3-temperature.pdf)\] 
 3. \[[Slide Deck](../../powerpoints/3.Temperature.pdf)\] - for your reference as we go through the material
 :::
 

@@ -20,7 +20,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 
 **Before class, you can prepare by reading the following materials:**
 
-1. \[[Discussion Questions and reading assignment](../../discussions/Discussion_Week_2.pdf)\] Note that there are readings from your textbook (Withers, 1992) as well as Hill Wise and Anderson (see HWA) on \[[(shared google drive)](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV)\]. (These are on the shared google drive > Supplemental_Textboooks). A few of you didn't pick up your textbook rentals, please do so Tuesday! Just for you, just for this time, I put up scans of the Withers readings on the shared google drive in the same folder. 
+1. \[[Discussion Questions and reading assignment](../../discussions/Discussion-Week2-metabolism.pdf)\] Note that there are readings from your textbook (Withers, 1992) as well as Hill Wise and Anderson (see HWA) on \[[(shared google drive)](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV)\]. (These are on the shared google drive > Supplemental_Textboooks). A few of you didn't pick up your textbook rentals, please do so Tuesday! Just for you, just for this time, I put up scans of the Withers readings on the shared google drive in the same folder. 
 2. Optional - take a peek at the \[[Slide Deck](../../powerpoints/2.Metabolism.pdf)\]
 3. Add your fossil [here](https://docs.google.com/spreadsheets/d/17kG9f4kd1byl8nO6D-KJX8Q9d9-HV3_ZUdVMrCrgCCs/edit?usp=sharing) 
 4. You might want to get a manila folder to put all your class handouts in :).  
@@ -110,7 +110,7 @@ Please sit with your design partners for this part. Let's discuss a roadmap for 
 ## Read ahead
 
 **Before class, you can prepare by reading the following materials:**
-1. \[[Continuing the Discussion Questions](../../discussions/Discussion_Week_2.pdf)\] Jump to Q6  
+1. \[[Continuing the Discussion Questions](../../discussions/Discussion-Week2-metabolism.pdf)\] Jump to Q6  
 2. Watch the Scaling Podcast
 {{< video https://youtu.be/_NDNa_3Bon8 >}}
 :::
