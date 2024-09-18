@@ -33,7 +33,7 @@ format:
 | | Th | Design 1 chat |  |  | 
 |   | F |  | |   |   
 |Week 5|||||
-| 9/23  | M |   | Design 1 Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[turn in](https://drive.google.com/drive/u/0/folders/1ZDvNTCNeE2OKg6W_fqvj6BQmo3GTcdOo)\]  | 
+| 9/23  | M |   | Design 1 Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[FAQs](projects/design1-FAQ.qmd)\] \[[turn in](https://drive.google.com/drive/u/0/folders/1ZDvNTCNeE2OKg6W_fqvj6BQmo3GTcdOo)\]  | 
 | 9/24  | T | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week4-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\] |  | Design Critique Session/Peer Critique 1 \[[turn in]\] |   
 | | Th | Feeding  \[[html]\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]|  | |   
 |Week 6|||||

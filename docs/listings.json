@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/design1-FAQ.html",
       "/projects/0.BackgroundBulletPoints.html",
       "/projects/design1.html",
       "/projects/design4.html",
@@ -15,7 +16,6 @@
       "/projects/resources-digestion.html",
       "/projects/design2-FAQ.html",
       "/projects/design2.html",
-      "/projects/design1-FAQ.html",
       "/projects/design1-turnin.html"
     ]
   },
