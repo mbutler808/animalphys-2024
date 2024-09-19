@@ -58,7 +58,7 @@ This week we will learn more about cardiac morphology, function, and regulation.
 
 # For Next Week
 
-1. Design 1 draft due on Monday 9/23 by 5pm. \[[assignment](../../projects/design1.qmd)\] \[[pdf](../../projects/1.MetabolismTempDesign1.pdf)\] \[[FAQs](../../projects/design1-FAQ.qmd)\] \[[turn in](https://drive.google.com/drive/u/0/folders/1ZDvNTCNeE2OKg6W_fqvj6BQmo3GTcdOo)\]
+1. Design 1 draft due on Monday 9/23 by 5pm. \[[assignment](../../projects/design1.qmd)\] \[[pdf](../../projects/1.MetabolismTempDesign1.pdf)\] \[[FAQs](../../projects/design1-FAQ.qmd)\] \[[turn in instructions](../../projects/design1-turnin.qmd)\]\[[post here](https://drive.google.com/drive/u/0/folders/1ZDvNTCNeE2OKg6W_fqvj6BQmo3GTcdOo)\]
 2. Next Lab session: Design 1 peer critique session \[[see peer review instructions](../../projects/design1-turnin.qmd)\]
 3. Please fill out the TEAMMATES evals, released on Thursday, due by MONDAY. (check your email)
 
