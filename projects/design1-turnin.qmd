@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "How to be a good colleague and provide very helpful feedback"
-date: 2023-09-25
+date: 2024-09-23
 format: 
   html: default 
   pdf: default
@@ -18,11 +18,11 @@ categories: [design project, design 1, metabolism, heat balance, DMR, RMR, AMR, 
 
 1) Please be sure to __name the file using the naming convention FirstAuthorLastName_SecondAuthorLastName.pdf__ so that your peers can find the correct paper to review. Be sure to put the first author first.
 
-For example: "_Fisher_Gao.pdf_"
+For example: "_Hasegawa_Kondo.pdf_"
 
 2) Post your draft paper on the shared Google Drive by 5pm Monday. \[[Upload here](https://drive.google.com/drive/u/1/folders/1U_XYCqBZB3rLk7ca8Joi84cXN4YmULq0)\]
 
-3) Post your final draft by midnight on Wednesday 10/4 \[[Upload here](https://drive.google.com/drive/folders/1lRh1ZuG4q453Oo0xxSZWDgYWxuD6oo9e)\]
+3) Post your final draft by midnight on Tuesday 10/1 \[[Upload here](https://drive.google.com/drive/folders/1lRh1ZuG4q453Oo0xxSZWDgYWxuD6oo9e)\]
 
 ## Complete your Peer Critique 
 

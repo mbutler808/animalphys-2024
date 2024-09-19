@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/design1-turnin.html",
       "/projects/design1-FAQ.html",
       "/projects/0.BackgroundBulletPoints.html",
       "/projects/design1.html",
@@ -15,14 +16,14 @@
       "/projects/design2-turnin.html",
       "/projects/resources-digestion.html",
       "/projects/design2-FAQ.html",
-      "/projects/design2.html",
-      "/projects/design1-turnin.html"
+      "/projects/design2.html"
     ]
   },
   {
     "listing": "/labs.html",
     "items": [
       "/labs/Lab-notebooks/lab-notebook.html",
+      "/labs/Lab4-human-ecg/Lab4.html",
       "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.html",
       "/labs/Lab2-zoo/Lab2.html",
       "/labs/Lab1-heart-rate-and-data-analysis/Lab1.html",
@@ -34,7 +35,6 @@
       "/labs/Lab6-lobster-heart/Lab6.html",
       "/labs/Lab5-toad-heart/Lab5.html",
       "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html",
-      "/labs/Lab4-human-ecg/Lab4.html",
       "/labs/Protocols/protocols.html"
     ]
   },

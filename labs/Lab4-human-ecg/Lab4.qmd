@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Measure your own ECG! And explore the cardiac cycle and the effects of exercise "
-date: 2023-09-09
+date: 2024-09-17
 toc: true
 image: ../../images/detail_ecg.jpg
 format: 
