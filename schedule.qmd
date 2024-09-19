@@ -29,12 +29,12 @@ format:
 | 9/10 | T | Temperature \[[html](posts/2024-09-10-temperature)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |  PS1: Metabolism \[[pdf](homework/HW1metabolism.pdf)\] | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]  |   
 |   | Th | Iterative Method/Heterothermy  |  |   |   
 |Week 4|||||
-| 9/17  | T |  Finish Temperature/Cardiac Function \[[html](posts/2024-09-17-cardiac-function/cardiac.qmd)\]  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |  Lab Practical / Lab4: PC3-G-ECG/Cardiac Function \[[overview](labs/Lab4-human-ecg)\] | 
+| 9/17  | T |  Finish Temperature/Cardiac Function \[[html](posts/2024-09-17-cardiac-function/cardiac.qmd)\]  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |  Lab Practical / Lab4: PC3-G-ECG/Cardiac Function \[[overview](labs/Lab4-human-ecg/Lab4.qmd)\] | 
 | | Th | Design 1 chat |  |  | 
 |   | F |  | |   |   
 |Week 5|||||
 | 9/23  | M |   | Design 1 Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[FAQs](projects/design1-FAQ.qmd)\] \[[turn in](https://drive.google.com/drive/u/0/folders/1ZDvNTCNeE2OKg6W_fqvj6BQmo3GTcdOo)\]  | 
-| 9/24  | T | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week4-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\] |  | Design Critique Session/Peer Critique 1 \[[turn in]\] |   
+| 9/24  | T | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week4-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\] |  | Design Critique Session/Peer Critique 1 \[[turn in](projects/design1-turnin.qmd)\] |   
 | | Th | Feeding  \[[html]\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]|  | |   
 |Week 6|||||
 | 10/1  | T | Digestion  \[[html]\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]| Design 1 Rewrite \[[Due midnight](https://drive.google.com/drive/folders/1lRh1ZuG4q453Oo0xxSZWDgYWxuD6oo9e?usp=sharing)\] | 
