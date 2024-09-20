@@ -282,15 +282,18 @@ window.Quarto = {
 </section>
 <section id="what-goes-in-the-methods-section" class="level3">
 <h3 class="anchored" data-anchor-id="what-goes-in-the-methods-section">4. What goes in the Methods section?</h3>
+<p><em>Methods =&gt; the <strong>how</strong> I did it section</em></p>
 <p>For the methods, you want to get straight to the point with regard to how you modeled your animal. The statement of purpose (or hypothesis) should be presented in the introduction. So dive right in with your modeling strategy: “We modeled BMR based on the scaling equation for XX because YY…”. Remember to put all equations with citations, parameters clearly indicated with units, and give the values you assumed for each parameter with a justification and citation.</p>
 <p>I usually recommend folks to have sections: For example, how you modeled - the metabolic rates, and importantly DMR. - the components of heat - the scenarios (heat balance at rest was calculated assuming…,) + heat balance at rest + heat balance over a typical day (DMR) + heat stress (or can be cold stress)</p>
 <p>For the scenarios, after explaining how you got each component of heat, you explain what you are imagining your animal doing, and what assumptions you chose to model that.</p>
+<p><em>Results =&gt; the <strong>what</strong> happened section</em></p>
 <p>In the results, you put your calculations and what you found. Don’t forget that you need to write it out in text as well as whatever numbers and other things you may have. Don’t forget to try a heat stress scenario to see how much your model can explain. In the discussion, write about what it all means for your animal. Did you find any limitations? How would it have affected its behavior or biology? Write the abstract last (starting with design 2). It should be a synposis (a concise summary) of your paper. For a model abstract, have a look at the “Nature Summary Paragraph” under “course docs/writing aids” on the website.</p>
 </section>
 <section id="how-do-i-get-water-vapor-density-for-my-animal" class="level3">
 <h3 class="anchored" data-anchor-id="how-do-i-get-water-vapor-density-for-my-animal">5. How do I get WATER VAPOR DENSITY for my animal?</h3>
 <p>Depending on your ambient temperature and relative humidity, you can calculate the <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/watvap.html">Water Vapor Density using this table</a>. (Nave 20XX). Look up the value for Water Vapor Density according to your temperature, and multiply by your relative humidity.</p>
-<p>Note: g/m<span class="math inline">\(^3\)</span> works out to be mg/L: g/m<span class="math inline">\(^3\)</span> = g/(100cm)^3 = g/[<span class="math inline">\(10^6\)</span>cm<span class="math inline">\(^3\)</span>] = mg/<span class="math inline">\(10^3\)</span>cm<span class="math inline">\(^3\)</span> = mg/1000ml = mg/L</p>
+<p>Note: g/m<span class="math inline">\(^3\)</span> works out to be mg/L, which is what you need for the EWL equations.<br>
+g/m<span class="math inline">\(^3\)</span> = g/(100cm)^3 = g/[<span class="math inline">\(10^6\)</span>cm<span class="math inline">\(^3\)</span>] = mg/<span class="math inline">\(10^3\)</span>cm<span class="math inline">\(^3\)</span> = mg/1000ml = mg/L</p>
 <p>Citation: Nave, C. (20XX) Saturated Vapor Pressure, Density, for Water.Hyperphysics. Department of Physics and Astronomy, Georgia State University, http://hyperphysics.phy-astr.gsu.edu/Hbase/kinetic/watvap.html. Accessed Sept.&nbsp;XX 20XX.</p>
 <p>Water Vapor Density varies linearly with Temperature, so you can just interpolate to get values in-between the ones given in the table.</p>
 <p>For example: If our ambient temp Ta=27C, but we have values for 25C and 30C, we can obtain water vapor density at 27C by interpolating. Start from the density value at 25C and add 2/5 of the increase at 30C because 27C is 2/5 of the way between 25 and 30C (you can also come up with your own way to do this).</p>
