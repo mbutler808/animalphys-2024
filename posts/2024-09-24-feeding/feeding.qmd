@@ -1,0 +1,66 @@
+---
+title: "5\\. Feeding"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Food! Glorious food!"
+date: 2024-09-24
+format: 
+  html: default 
+  pdf: default
+categories: [module 5, week 5, food, feeding, nutrient composition, DMR]
+---
+
+Tuesday's discussion will be on a Sustained metabolic scope paper that has some data and interesting tidbits relevant for your Design 1. Thursday we will start talking about feeding (our favorite topic!) and digestion.   
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Tuesday \[[Metabolic Celings](../../discussions/Discussion-Week4-metabolic-ceiling.pdf)\] 
+2. Thursday we will start Feeding & Digestion \[[discussion](../../discussions/Discussion-Week5-feeding-digestion.pdf)\]
+:::
+
+### Announcements/Reminders
+
+-  This week during our lab sessions we will have our design 1 critique sessions. Please check which paper you have been assigned to review, and bring your completed review with you to lab. See instructions here \[[Design 1 turn in](../../projects/design1-turnin.qmd)\]. 
+-  Next week we will have our first toad lab! Please wear shoes and bring your dissection kit (if you have one, if not we will provide).
+-  Do discussion TEAMMATES eval, released each Thursday, due by Monday.
+
+### Week 5 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+|1| Hao |  Kylee | Veronica |
+|2| Adam  |  Ilan |   Mohamad |
+|3| James  | Sean |  Vivian |
+|4| Joshua |  Tamako |   |
+|5| Abby   |   Ashton |   Christian |
+
+
+## Snakes Drink Weird!
+
+{{< video https://youtu.be/_r3gG6NjNKQ >}}
+
+## Tuesday
+   
+- Paper discussion
+
+## Thursday
+
+- Feeding & Digestion (will continue next week)
+
+# For Next Time
+
+::: callout-note
+## Reminders and materials
+- Make an appointment for you and your partner to get help from me on your design projects. Both must attend. <https://calendly.com/mbutler808/office-hours>
+
+:::
+
+
