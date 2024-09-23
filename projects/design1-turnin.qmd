@@ -28,7 +28,7 @@ For example: "_Hasegawa_Kondo.pdf_"
 
 :::{.callout-note}
 # Reference materials
-- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1tpULc_8UNd_RMxd290c9_ZY-OaCw2dsmOJpf2peRO9g/edit#gid=0)\] 
+- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1bxPHKpWziRN4CuYmdeVSgQqSpMFQgJ8KG4GJDLqmdzM/edit?gid=0#gid=0)\] 
 - Download your assigned manuscript. \[[Design 1 google drive folder](https://drive.google.com/drive/folders/1ZDvNTCNeE2OKg6W_fqvj6BQmo3GTcdOo?usp=sharing)\].
 - \[[Design 1 assignment](design1.qmd)\] 
 
