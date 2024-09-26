@@ -10,7 +10,77 @@
 <atom:link href="https://mbutler808.github.io/animalphys2024/labs.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2024</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 17 Sep 2024 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Oct 2024 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>Lab 5: Physiology of the in situ Toad Heart</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys2024/labs/Lab5-toad-heart/Lab5.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="before-lab" class="level1">
+<h1>Before Lab</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Prepare for lab by:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>This will be our first dissection lab. Itʻs really cool!</li>
+<li><strong>Wear shoes to lab</strong>, and bring your dissecting kit (if you have one, otherwise we have supplies). Lab coat is not required but you are welcome to wear one if you wish.</li>
+<li>Read the lab manual for this weekʻs experiment [<a href="Lab5-toad-heart.pdf">Lab 5</a>] exploring the physiology of the toad heart using ECG and a force transducer.<br>
+</li>
+<li>Write the [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>] in your lab notebook.</li>
+<li>Do Quiz on Laulima (open 24 hrs before lab).</li>
+</ul>
+</div>
+</div>
+<section id="in-lab" class="level2">
+<h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
+<ul>
+<li>Lab 5 manual [<a href="Lab5-toad-heart.pdf">pdf</a>] [<a href="Lab5-toad-heart.docx">docx</a>]. Record data in your lab notebook. Use the guidance at the end of the lab manual to analyze your data in preparation for your results and discussion.</li>
+<li>Dissection guide [<a href="DissectionGuide.pdf">pdf</a>]</li>
+<li>Toad heart anatomy. Note that amphibians have a 3-chambered heart! Two atria and one ventricle. [<a href="HeartAnatomy.pdf">pdf</a>]</li>
+</ul>
+<p><img src="https://mbutler808.github.io/animalphys2024/images/ToadDissectionGuide.png" style="width:4in;height:5.25in"> <img src="https://mbutler808.github.io/animalphys2024/images/ToadHeartAnatomy.png" style="width:4in;height:5.25in"></p>
+</section>
+<section id="after-lab" class="level2">
+<h2 class="anchored" data-anchor-id="after-lab">After Lab:</h2>
+<ul>
+<li>Individual Work Sheet due next week [<a href="Lab5WS-toad-heart.pdf">pdf</a>] [<a href="Lab5WS-toad-heart.docx">docx</a>]</li>
+<li>You will include statements of purpose (section 1), concept check (section) 2), mini results (section 3), and a regular discussion. On this lab WS, put a little more effort into the discussion. For each section we ask for, always follow the content guidelines: [<a href="../../labs-misc/handouts/Zool430lab_report_guidelines.pdf">grading guidelines</a>]</li>
+<li>You are encouraged to analyze data with your lab members, and may develop figures together, but all writing must be your own work.</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>week 5</category>
+  <category>labs</category>
+  <category>ecg</category>
+  <category>cardiac cycle</category>
+  <category>heart</category>
+  <category>in situ</category>
+  <category>toad</category>
+  <category>electical impulse</category>
+  <category>Starlingʻs law</category>
+  <category>sympathetic</category>
+  <category>parasympathetic</category>
+  <category>ions</category>
+  <category>temperature</category>
+  <guid>https://mbutler808.github.io/animalphys2024/labs/Lab5-toad-heart/Lab5.html</guid>
+  <pubDate>Tue, 01 Oct 2024 10:00:00 GMT</pubDate>
+  <media:content url="https://mbutler808.github.io/animalphys2024/labs/Lab5-toad-heart/HeartAnatomy.pdf" medium="image"/>
+</item>
 <item>
   <title>Lab 4: Electrocardiogram (ECG/EKG) and Cardiac Response to Exercise</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -3222,76 +3292,6 @@ Prepare for lab by:
   <media:content url="https://mbutler808.github.io/animalphys2024/labs/Lab6-lobster-heart/lobster-internal-anatomy.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Lab 5: Physiology of the in situ Toad Heart</title>
-  <dc:creator>Marguerite Butler</dc:creator>
-  <link>https://mbutler808.github.io/animalphys2024/labs/Lab5-toad-heart/Lab5.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="before-lab" class="level1">
-<h1>Before Lab</h1>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Prepare for lab by:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>This will be our first dissection lab. Itʻs really cool!</li>
-<li><strong>Wear shoes to lab</strong>, and bring your dissecting kit (if you have one, otherwise we have supplies). Lab coat is not required but you are welcome to wear one if you wish.</li>
-<li>Read the lab manual for this weekʻs experiment [<a href="Lab5-toad-heart.pdf">Lab 5</a>] exploring the physiology of the toad heart using ECG and a force transducer.<br>
-</li>
-<li>Write the [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>] in your lab notebook.</li>
-<li>Do Quiz 4 on Laulima (open 24 hrs before lab).</li>
-</ul>
-</div>
-</div>
-<section id="in-lab" class="level2">
-<h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
-<ul>
-<li>Lab 5 manual [<a href="Lab5-toad-heart.pdf">pdf</a>] [<a href="Lab5-toad-heart.docx">docx</a>]. Record data in your lab notebook. Use the guidance at the end of the lab manual to analyze your data in preparation for your results and discussion.</li>
-<li>Dissection guide [<a href="DissectionGuide.pdf">pdf</a>]</li>
-<li>Toad heart anatomy. Note that amphibians have a 3-chambered heart! Two atria and one ventricle. [<a href="HeartAnatomy.pdf">pdf</a>]</li>
-</ul>
-<p><img src="https://mbutler808.github.io/animalphys2024/images/ToadDissectionGuide.png" style="width:4in;height:5.25in"> <img src="https://mbutler808.github.io/animalphys2024/images/ToadHeartAnatomy.png" style="width:4in;height:5.25in"></p>
-</section>
-<section id="after-lab" class="level2">
-<h2 class="anchored" data-anchor-id="after-lab">After Lab:</h2>
-<ul>
-<li>Individual Work Sheet due next week [<a href="Lab5WS-toad-heart.pdf">pdf</a>] [<a href="Lab5WS-toad-heart.docx">docx</a>]</li>
-<li>You will include hypotheses (sections 1 and 2), mini results (section 3), and a regular discussion. On this lab WS, put a little more effort into the discussion. For each section we ask for, always follow the content guidelines: [<a href="../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf">grading guidelines</a>] [<a href="../../labs-misc/handouts/Zool430lab_report_guidelines.pdf">old style</a>]</li>
-<li>You are encouraged to analyze data with your lab members, and may develop figures together, but all writing must be your own work.</li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>week 5</category>
-  <category>labs</category>
-  <category>ecg</category>
-  <category>cardiac cycle</category>
-  <category>heart</category>
-  <category>in situ</category>
-  <category>toad</category>
-  <category>electical impulse</category>
-  <category>Starlingʻs law</category>
-  <category>sympathetic</category>
-  <category>parasympathetic</category>
-  <category>ions</category>
-  <category>temperature</category>
-  <guid>https://mbutler808.github.io/animalphys2024/labs/Lab5-toad-heart/Lab5.html</guid>
-  <pubDate>Sat, 16 Sep 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/animalphys2024/labs/Lab5-toad-heart/HeartAnatomy.pdf" medium="image"/>
-</item>
-<item>
   <title>Lab 3 Worksheet: Peripheral Circulation and The Dive Response</title>
   <dc:creator>Marguerite Butler</dc:creator>
   <link>https://mbutler808.github.io/animalphys2024/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html</link>
@@ -3540,7 +3540,7 @@ How will we evaluate the hypotheses?
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys2024/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Mon, 23 Sep 2024 23:51:37 GMT</pubDate>
+  <pubDate>Thu, 26 Sep 2024 22:29:16 GMT</pubDate>
 </item>
 </channel>
 </rss>

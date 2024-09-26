@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The physiology of a heart in action!"
-date: 2023-09-16
+date: 2024-10-01
 toc: true
 image: HeartAnatomy.pdf
 format: 
@@ -23,7 +23,7 @@ categories: [week 5, labs, ecg, cardiac cycle, heart, in situ,  toad, electical 
 - __Wear shoes to lab__, and bring your dissecting kit (if you have one, otherwise we have supplies). Lab coat is not required but you are welcome to wear one if you wish. 
 - Read the lab manual for this weekʻs experiment \[[Lab 5](Lab5-toad-heart.pdf)\] exploring the physiology of the toad heart using ECG and a force transducer.  
 - Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook.
-- Do Quiz 4 on Laulima (open 24 hrs before lab). 
+- Do Quiz on Laulima (open 24 hrs before lab). 
 :::
 
 
@@ -39,7 +39,7 @@ categories: [week 5, labs, ecg, cardiac cycle, heart, in situ,  toad, electical 
 ## After Lab: 
 
 - Individual Work Sheet due next week \[[pdf](Lab5WS-toad-heart.pdf)\] \[[docx](Lab5WS-toad-heart.docx)\]
-- You will include hypotheses (sections 1 and 2), mini results (section 3), and a regular discussion. On this lab WS, put a little more effort into the discussion.  For each section we ask for, always follow the content guidelines: \[[grading guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf)\] \[[old style](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
+- You will include statements of purpose (section 1), concept check (section) 2), mini results (section 3), and a regular discussion. On this lab WS, put a little more effort into the discussion.  For each section we ask for, always follow the content guidelines: \[[grading guidelines](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
 -  You are encouraged to analyze data with your lab members, and may develop figures together, but all writing must be your own work. 
 
 

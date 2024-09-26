@@ -35,10 +35,11 @@ format:
 |Week 5|||||
 | 9/23  | M |   | Design 1 Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[FAQs](projects/design1-FAQ.qmd)\] \[[turn in](projects/design1-turnin.qmd)\]  | 
 | 9/24  | T | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week4-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\] |  | Design Critique Session/Peer Critique 1 \[[turn in](projects/design1-turnin.qmd)\] |   
-| | Th | Feeding  \[[html]\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]|  | |   
+| | Th | Feeding  \[[html](posts/2024-09-24-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]|  | |   
 |Week 6|||||
-| 10/1  | T | Digestion  \[[html]\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]| Design 1 Rewrite \[[Due midnight](https://drive.google.com/drive/folders/1lRh1ZuG4q453Oo0xxSZWDgYWxuD6oo9e?usp=sharing)\] | 
-| | Th | Specialized Digestive Systems/Max Size Herbivores Paper Claus 2003  |   |  Lab5: PC1-IWS-Toad Heart \[[overview]\]  |     
+| 10/1  | T | Digestion  \[[html]\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]| | |  
+| | Th | Specialized Digestive Systems/Max Size Herbivores Paper Claus 2003  |   |  Lab5: PC1-IWS-Toad Heart \[[overview](labs/Lab5-toad-heart/Lab5.qmd)\]  |  
+| | F |   | Design 1 Rewrite \[[Due midnight](https://drive.google.com/drive/folders/1lRh1ZuG4q453Oo0xxSZWDgYWxuD6oo9e?usp=sharing)\]   |   |     
 |Week 7|||||
 | 10/8 | T | Max Size Herbivores Paper Claus 2003 |  PS3: Feeding & Digestion \[[pdf]\]  |  Lab6: PC2-G-Lobster Heart \[[overview]\] |   
 |   | Th | Neurons \[[html]\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] |   |   |   
