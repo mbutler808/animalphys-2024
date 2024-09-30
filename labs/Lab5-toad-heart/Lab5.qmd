@@ -38,7 +38,7 @@ categories: [week 5, labs, ecg, cardiac cycle, heart, in situ,  toad, electical 
 
 ## After Lab: 
 
-- Individual Work Sheet due next week \[[pdf](Lab5WS-toad-heart.pdf)\] \[[docx](Lab5WS-toad-heart.docx)\]
+- Individual Work Sheet due next week \[[pdf](Lab5IWS-toad-heart.pdf)\] \[[docx](Lab5IWS-toad-heart.docx)\]
 - You will include statements of purpose (section 1), concept check (section) 2), mini results (section 3), and a regular discussion. On this lab WS, put a little more effort into the discussion.  For each section we ask for, always follow the content guidelines: \[[grading guidelines](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
 -  You are encouraged to analyze data with your lab members, and may develop figures together, but all writing must be your own work. 
 
