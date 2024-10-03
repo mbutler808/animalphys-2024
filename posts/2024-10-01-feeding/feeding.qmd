@@ -1,5 +1,5 @@
 ---
-title: "5\\. Feeding"
+title: "6\\. Feeding"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org
@@ -51,7 +51,7 @@ Tuesday we will start talking about feeding (our favorite topic!) and Thursday w
 
 ## Thursday
 
-- Digestion \[[slide deck](../../powerpoints/5.DigestiveSystems.pdf)\]
+- Digestion \[[slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\]
 
 # For Next Time
 
