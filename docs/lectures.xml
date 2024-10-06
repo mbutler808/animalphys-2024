@@ -10,7 +10,141 @@
 <atom:link href="https://mbutler808.github.io/animalphys2024/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2024</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 01 Oct 2024 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 08 Oct 2024 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>7. Herbivore Discussion and Neurons</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys2024/posts/2024-10-08-clauss-neurons/neurons.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Tuesday we will finish do a sample problem and discuss [<a href="https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI">Claus et al 2003</a>] - Max size herbivores [<a href="../../discussions/Discussion-Week7a-sampleproblem-ClaussEtAl.pdf">Discussion</a>] [<a href="../../powerpoints/5b.DigestiveSystems.pdf">digestion slide deck</a>]</li>
+<li>Thursday start Neurons Discussion [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion &amp; reading assignment</a>]</li>
+<li>Please watch the podcasts below for Thursday.</li>
+<li>We will probably continue Neurons next week.</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>This week will be our first invertebrate lab on the Lobster Heart. Please wear shoes and bring your dissection kit (if you have one, if not we will provide). [<a href="../../labs/Lab6-lobster-heart/Lab6.html">overview</a>]</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-7-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-7-discussion-groups">Week 7 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Abby</td>
+<td>Veronica</td>
+<td>Vivian</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>[2] Adam</td>
+<td>Hao</td>
+<td>Mohamad</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>[3] Ilan</td>
+<td>Sean</td>
+<td>Ashton</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Christian</td>
+<td>Joshua</td>
+<td>Kylee</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="tuesday" class="level2">
+<h2 class="anchored" data-anchor-id="tuesday">Tuesday</h2>
+<ul>
+<li>Practice Problem and Max Size Herbivores &amp; Fermentation discussion</li>
+</ul>
+</section>
+<section id="thursday" class="level2">
+<h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
+<ul>
+<li>Start Neurons Discussion [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion</a>] [<a href="../../powerpoints/6a.NeuronsRecording.pdf">slide deck</a>]</li>
+</ul>
+<section id="neurons-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="neurons-podcast">Neurons podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/GKPWD-Mer6s" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<ul>
+<li>(maybe next week) Signal Propagation [<a href="../../powerpoints/6b.Synapses.pdf">slide deck2</a>]</li>
+</ul>
+</section>
+<section id="signal-propagation-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="signal-propagation-podcast">Signal propagation podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/8Z8vW6FAJxY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 6</category>
+  <category>week 7</category>
+  <category>neurons</category>
+  <category>action potentials</category>
+  <category>electricity</category>
+  <category>signals</category>
+  <guid>https://mbutler808.github.io/animalphys2024/posts/2024-10-08-clauss-neurons/neurons.html</guid>
+  <pubDate>Tue, 08 Oct 2024 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>6. Feeding</title>
   <dc:creator>Marguerite Butler</dc:creator>

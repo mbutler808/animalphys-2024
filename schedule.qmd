@@ -41,8 +41,8 @@ format:
 | | Th | Digestion  |   |  Lab5: PC1-IWS-Toad Heart \[[overview](labs/Lab5-toad-heart/Lab5.qmd)\]  |  
 | | F |   | Design 1 Rewrite \[[Due midnight](https://drive.google.com/drive/folders/1lRh1ZuG4q453Oo0xxSZWDgYWxuD6oo9e?usp=sharing)\]   |   |     
 |Week 7|||||
-| 10/8 | T | Max Size Herbivores Paper Claus 2003 \[[drive](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\] |  PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\]  |  Lab6: PC2-G-Lobster Heart \[[overview]\] |   
-|   | Th | Neurons \[[html]\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] |   |   |   
+| 10/8 | T | Sample Problem \[[html](posts/2024-10-08-clauss-neurons/neurons.qmd)\] Max Size Herbivores Paper Claus 2003 \[[on drive](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\] |  PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\]  |  Lab6: PC2-G-Lobster Heart \[[overview](labs/Lab6-lobster-heart/Lab6.qmd)\] |   
+|   | Th | Neurons \[[html](posts/2024-10-08-clauss-neurons/neurons.qmd)\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] |   |   |   
 |Week 8|||||
 | 10/15  | T | Synapses/Sensory Receptors  |  Design 2 Feeding & Digestion \[[html](projects/design2-FAQ.qmd)\] \[[resources](projects/resources-digestion.qmd)\] \[[turn in](projects/design2-turnin.qmd)\]|  Design Presentations  | 
 | | Th | Muscles \[[html]\] \[[discussion]\] | Peer Critique 2  |   |   
