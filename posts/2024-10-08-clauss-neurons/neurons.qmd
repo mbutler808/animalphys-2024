@@ -30,6 +30,7 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 
 -  This week will be our first invertebrate lab on the Lobster Heart. Please wear shoes and bring your dissection kit (if you have one, if not we will provide). \[[overview](../../labs/Lab6-lobster-heart/Lab6.qmd)\]
 -  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+-  HW3 due Thursday
 
 ### Week 7 Discussion Groups
 
