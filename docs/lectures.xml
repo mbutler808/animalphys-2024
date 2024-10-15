@@ -10,7 +10,132 @@
 <atom:link href="https://mbutler808.github.io/animalphys2024/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2024</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 08 Oct 2024 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 15 Oct 2024 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>8. Still on Neurons</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys2024/posts/2024-10-15-neurons/neurons.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Tuesday start Neurons Discussion [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion &amp; reading assignment</a>]</li>
+<li>Please watch the podcasts below.</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Presentations in lab this week</li>
+</ul>
+</section>
+<section id="week-7-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-7-discussion-groups">Week 7 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Sean</td>
+<td>Abby</td>
+<td>Adam</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Ashton</td>
+<td>Mohamad</td>
+<td>Veronica</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Christian</td>
+<td>Kylee</td>
+<td>Vivian</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Ilan</td>
+<td>James</td>
+<td>Hao</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="tuesday" class="level2">
+<h2 class="anchored" data-anchor-id="tuesday">Tuesday</h2>
+<ul>
+<li>Start Neurons Discussion [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion</a>] [<a href="../../powerpoints/6a.NeuronsRecording.pdf">slide deck</a>]</li>
+</ul>
+<section id="neurons-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="neurons-podcast">Neurons podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/GKPWD-Mer6s" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<ul>
+<li>(maybe next week) Signal Propagation [<a href="../../powerpoints/6b.Synapses.pdf">slide deck2</a>]</li>
+</ul>
+</section>
+<section id="signal-propagation-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="signal-propagation-podcast">Signal propagation podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/8Z8vW6FAJxY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 6</category>
+  <category>week 8</category>
+  <category>neurons</category>
+  <category>action potentials</category>
+  <category>electricity</category>
+  <category>signals</category>
+  <guid>https://mbutler808.github.io/animalphys2024/posts/2024-10-15-neurons/neurons.html</guid>
+  <pubDate>Tue, 15 Oct 2024 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>7. Herbivore Discussion and Neurons</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -70,17 +195,17 @@ Read ahead
 <td></td>
 </tr>
 <tr class="even">
-<td>[2] Adam</td>
+<td>2</td>
+<td>Adam</td>
 <td>Hao</td>
 <td>Mohamad</td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td>[3] Ilan</td>
+<td>3</td>
+<td>Ilan</td>
 <td>Sean</td>
 <td>Ashton</td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">

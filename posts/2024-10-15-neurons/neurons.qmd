@@ -1,0 +1,67 @@
+---
+title: "8\\. Still on Neurons"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "You all know about action potentials, but how do they actually work? The details, and how they scale up in the biological heirarchy are so much more interesting."
+date: 2024-10-15
+format: 
+  html: default 
+  pdf: default
+categories: [module 6, week 8, neurons, action potentials, electricity, signals ]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Tuesday start Neurons Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\]
+2. Please watch the podcasts below. 
+:::
+
+### Announcements/Reminders
+
+- Presentations in lab this week
+
+### Week 7 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+|1| Sean | Abby | Adam |
+|2| Ashton  | Mohamad  | Veronica |
+|3| Christian | Kylee  |   Vivian  |      
+|4| Ilan | James | Hao |
+
+## Tuesday
+
+
+- Start Neurons Discussion \[[discussion](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] \[[slide deck](../../powerpoints/6a.NeuronsRecording.pdf)\]
+
+### Neurons podcast
+
+{{< video https://youtu.be/GKPWD-Mer6s >}}
+ 
+
+- (maybe next week) Signal Propagation \[[slide deck2](../../powerpoints/6b.Synapses.pdf)\]
+
+### Signal propagation podcast 
+
+{{< video https://youtu.be/8Z8vW6FAJxY >}}
+
+
+
+# For Next Time
+
+
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+

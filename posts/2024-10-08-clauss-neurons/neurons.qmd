@@ -37,8 +37,8 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
 |1| Abby |    Veronica |Vivian  |
-[2] Adam |  Hao  |  Mohamad|
-[3] Ilan | Sean | Ashton   |
+|2| Adam |  Hao  |  Mohamad|
+|3| Ilan | Sean | Ashton   |
 |4| Christian | James |   Kylee  |  
 
 ## Tuesday
