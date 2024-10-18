@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "What would life cost for your animal, and how hard would it be to be in heat balance?"
-date: 2023-10-06
+date: 2024-10-06
 format: 
   html: default 
   pdf: default

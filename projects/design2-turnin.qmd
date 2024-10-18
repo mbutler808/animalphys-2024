@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "How to be a good colleague and provide very helpful feedback"
-date: 2023-10-16
+date: 2024-10-16
 format: 
   html: default 
   pdf: default
@@ -18,9 +18,9 @@ categories: [design project, design 2, feeding, digestion, DMR, gut design ]
 
 1) Please be sure to __name the file using the naming convention FirstAuthorLastName_SecondAuthorLastName.pdf__ so that your peers can find the correct paper to review. Be sure to put the first author first.
 
-For example: "_Fisher_Gao.pdf_"
+For example: "_Hasegawa_Kondo.pdf_"
 
-2) Post your draft paper on the shared Google Drive by midnight Monday. \[[Upload here](https://drive.google.com/drive/u/1/folders/189wx8U1OFcdSjqnKk1_04p1xbQJPMXMY)\]
+2) Post your draft paper on the shared Google Drive by midnight Monday. \[[Upload here](https://drive.google.com/drive/u/0/folders/11IC5eDQclIZTgRQKXdUkoPREatDYhbm-)\]
 
 <!----
 3) Post your final draft by midnight on Wednesday 10/4 \[[Upload here](https://drive.google.com/drive/folders/1lRh1ZuG4q453Oo0xxSZWDgYWxuD6oo9e)\]
@@ -30,8 +30,8 @@ For example: "_Fisher_Gao.pdf_"
 
 :::{.callout-note}
 # Reference materials
-- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1u_XV3ksfjcQnR0erOcmPj031KfmzJBmdDVkNi6bzONA/edit#gid=0)\] 
-- Download your assigned manuscript. \[[Design 2 google drive folder](https://drive.google.com/drive/u/1/folders/189wx8U1OFcdSjqnKk1_04p1xbQJPMXMY)\].
+- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1q7OTWs46cSmc4XywJXGlLFr9rBHTfykM-nFhzXca0ck/edit?gid=0#gid=0)\] 
+- Download your assigned manuscript (see above).
 - \[[Design 2 assignment](design2.qmd)\] 
 
 __Print out the manuscript so that you can write comments directly on the report.__

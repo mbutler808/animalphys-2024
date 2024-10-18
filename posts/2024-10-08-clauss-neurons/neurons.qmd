@@ -32,7 +32,7 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 -  Do discussion TEAMMATES eval, released each Friday, due by Monday.
 -  HW3 due Thursday
 
-### Week 7 Discussion Groups
+### Week 8 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|

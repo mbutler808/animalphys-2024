@@ -27,8 +27,11 @@ categories: [module 6, week 8, neurons, action potentials, electricity, signals 
 ### Announcements/Reminders
 
 - Presentations in lab this week
+- Design 2 Draft due Tuesday 10/22
+- \[[HW 4](../../homework/HW4neurons.pdf)\] due Thursday 10/24 
+- Design 2 Final will be due 11/1
 
-### Week 7 Discussion Groups
+### Week 8 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
