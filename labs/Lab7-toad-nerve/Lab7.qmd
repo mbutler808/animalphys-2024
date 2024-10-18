@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Exploring properties of vertebrate neurons and nerve conduction using the toad sciatic nerve, a motor neuron"
-date: 2023-10-07
+date: 2024-10-22
 toc: true
 format: 
   html: default
