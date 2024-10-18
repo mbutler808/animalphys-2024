@@ -56,10 +56,10 @@ format:
 | 11/5 | T | Biomechanics and Locomotion  \[[html]\] |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\] | Lab9: PC3-G-Toad Muscle \[[overview]\] |  
 |   | Th | Blood and Respiratory Media |   |  |   
 |Week 12|||||
-| 11/12  | T | Aquatic Respiration \[[html]\] |   | Lab10:PC1-I-Toad Muscle Independent \[[overview]\] |   
+| 11/12  | T | Aquatic Respiration \[[html]\] | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]   | Lab10:PC1-I-Toad Muscle Independent \[[overview]\] |   
 |  | Th | Aerial Respiration  |   | |   
 |Week 13|||||
-| 11/19 | T | Finish Respiration/Begin Osmoregulation \[[html]\] | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]  | Lab 11: PC1-G-Human EEG \[[overview]\] |   
+| 11/19 | T | Finish Respiration/Begin Osmoregulation \[[html]\] |  | Lab 11: PC1-G-Human EEG \[[overview]\] |   
 |   | Th | Symmorphosis: [Weibel, Taylor, and Hoppeler (1991)](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  |  |   
 |   | F |   |  Design 3 Resipration, Peer Critique 3  \[[html](projects/design3-process.qmd)\] \[[resources](projects/design3-resources.qmd)\] \[[turn in](projects/design3-turnin.qmd)\] |   |   
 |Week 14|||||
