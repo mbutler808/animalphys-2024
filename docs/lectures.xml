@@ -10,7 +10,145 @@
 <atom:link href="https://mbutler808.github.io/animalphys2024/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2024</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 15 Oct 2024 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Oct 2024 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>8. Muscles</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys2024/posts/2024-10-22-muscles/muscles.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Tuesday we will finish Neurons and Signal Propagation [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion &amp; reading assignment</a>]</li>
+<li>Tuesday and Thursday Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion &amp; reading assignment</a>]</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>This week will be a very interesting lab on the toad sciatic nerve and neuronal function. Bringn your best dissecting skills! Itʻs an interesting one.</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+<li>See [<a href="../../schedule.html">Schedule</a>] for links to assignments.</li>
+<li>Design 2 draft due Tuesday at midnight see [<a href="../../schedule.html">Schedule</a>]</li>
+<li>Peer critique of Design 2 due Friday by email to 2 authors and myself.</li>
+<li>HW4 due Thursday at start of class.</li>
+</ul>
+</section>
+<section id="week-9-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-9-discussion-groups">Week 9 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Hao</td>
+<td>Adam</td>
+<td>Ilan</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Mohamad</td>
+<td>Sean</td>
+<td>Abby</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Kylee</td>
+<td>Ashton</td>
+<td>Veronica</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Christian James</td>
+<td>Vivian</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="tuesday" class="level2">
+<h2 class="anchored" data-anchor-id="tuesday">Tuesday</h2>
+<ul>
+<li>…Still finishing Neurons &amp; Signal Propagation [<a href="../../powerpoints/6b.Synapses.pdf">slide deck2</a>]</li>
+<li>Start Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8.MusclesI.pdf">slide deck</a>]</li>
+</ul>
+<section id="muscles-emg-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscles-emg-podcast">Muscles EMG podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/6Z39ZqgixfY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="thursday" class="level2">
+<h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
+<ul>
+<li>Continue Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8a.MusclesII.pdf">slide deck 2</a>]</li>
+</ul>
+<section id="muscle-design-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscle-design-podcast">Muscle Design podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XPgHg2lmc5M" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 8</category>
+  <category>week 9</category>
+  <category>muscles</category>
+  <category>excitable tissues</category>
+  <category>contraction force</category>
+  <category>force</category>
+  <category>velocity</category>
+  <category>tension</category>
+  <category>sarcomere</category>
+  <category>muscle architecture</category>
+  <guid>https://mbutler808.github.io/animalphys2024/posts/2024-10-22-muscles/muscles.html</guid>
+  <pubDate>Thu, 24 Oct 2024 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>8. Still on Neurons</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -44,6 +182,8 @@ Read ahead
 <ul>
 <li>Presentations in lab this week</li>
 <li>Design 2 Draft due Tuesday 10/22</li>
+<li>Start gathering your diet data for [<a href="../../projects/design2.html">Design 2</a>&nbsp;and work through the basic analysis. Also check out the [<a href="../../projects/design2-FAQ.html">FAQs</a><br>
+</li>
 <li>[<a href="../../homework/HW4neurons.pdf">HW 4</a>] due Thursday 10/24</li>
 <li>Design 2 Final will be due 11/1</li>
 </ul>

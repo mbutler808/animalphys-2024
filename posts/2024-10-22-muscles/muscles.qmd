@@ -1,0 +1,72 @@
+---
+title: "8\\. Muscles"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Muscles are so cool! They are responsible for the incredible diversity of animal movemements"
+date: 2024-10-24
+format: 
+  html: default 
+  pdf: default
+categories: [module 8, week 9, muscles, excitable tissues, contraction force, force, velocity, tension, sarcomere, muscle architecture ]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Tuesday we will finish Neurons and Signal Propagation \[[discussion & reading assignment](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\]
+2. Tuesday and Thursday Muscle Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week8-muscle.pdf)\] 
+:::
+
+### Announcements/Reminders
+
+-  This week will be a very interesting lab on the toad sciatic nerve and neuronal function. Bringn your best dissecting skills! Itʻs an interesting one. 
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+-  See \[[Schedule](../../schedule.qmd)\] for links to assignments.
+  -  Design 2 draft due Tuesday at midnight see \[[Schedule](../../schedule.qmd)\]
+  -  Peer critique of Design 2 due Friday by email to 2 authors and myself. 
+  -  HW4 due Thursday at start of class. 
+
+### Week 9 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+|1| Hao | Adam| Ilan |
+|2| Mohamad | Sean| Abby |
+|3| Kylee|Ashton| Veronica |
+|4| Christian James | Vivian| 
+
+## Tuesday
+ 
+- ...Still finishing Neurons & Signal Propagation \[[slide deck2](../../powerpoints/6b.Synapses.pdf)\]
+- Start Muscle Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck](../../powerpoints/8.MusclesI.pdf)\]
+
+### Muscles EMG podcast
+
+{{< video https://youtu.be/6Z39ZqgixfY >}}
+
+
+## Thursday
+
+- Continue Muscle Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck 2](../../powerpoints/8a.MusclesII.pdf)\]
+
+### Muscle Design podcast 
+
+{{< video https://youtu.be/XPgHg2lmc5M >}}
+
+
+# For Next Time
+
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+
