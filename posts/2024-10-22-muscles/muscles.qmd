@@ -40,7 +40,7 @@ categories: [module 8, week 9, muscles, excitable tissues, contraction force, fo
 |1| Hao | Adam| Ilan |
 |2| Mohamad | Sean| Abby |
 |3| Kylee|Ashton| Veronica |
-|4| Christian James | Vivian| 
+|4| Christian| James | Vivian| 
 
 ## Tuesday
  

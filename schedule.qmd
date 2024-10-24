@@ -45,7 +45,7 @@ format:
 |   | Th | Neurons \[[html](posts/2024-10-08-clauss-neurons/neurons.qmd)\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] |   |   |   
 |Week 8|||||
 | 10/15  | T | Synapses/Sensory Receptors  |  |  Design Presentations  | 
-| | Th | Muscles \[[html]\] \[[discussion]\] |   |   |   
+| | Th | Muscles \[[html](posts/2024-10-22-muscles/muscles.qmd)\] \[[discussion](discussions/Discussion-Week8-muscle.pdf)\] |   |   |   
 |Week 9|||||
 | 10/22 | T | Motor Control \[[html]\] \[[discussion](discussions/Discussion-Week8-muscle.pdf)\]| Design 2 Feeding & Digestion \[[html](projects/design2-FAQ.qmd)\] \[[resources](projects/resources-digestion.qmd)\] \[[turn in](projects/design2-turnin.qmd)\] | Lab 7:PC1-G-Vertebrate Action Potential \[[overview](labs/Lab7-toad-nerve/Lab7.qmd)\] |     
 | | Th | Biomechanics  | PS4: Neurons \[[pdf](homework/HW4neurons.pdf)\], Peer Critique 2 \[[see turn in](projects/design2-turnin.qmd)\] |    |   
