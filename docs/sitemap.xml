@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/schedule.html</loc>
-    <lastmod>2024-10-24T19:56:50.282Z</lastmod>
+    <lastmod>2024-10-28T07:33:38.018Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/labs-misc/Lab1-discussion.html</loc>
@@ -73,8 +73,12 @@
     <lastmod>2024-08-27T18:46:14.894Z</lastmod>
   </url>
   <url>
-    <loc>https://mbutler808.github.io/animalphys2024/posts/2024-10-15-neurons/neurons.html</loc>
-    <lastmod>2024-10-19T20:39:37.189Z</lastmod>
+    <loc>https://mbutler808.github.io/animalphys2024/posts/2024-10-08-clauss-neurons/neurons.html</loc>
+    <lastmod>2024-10-28T07:14:55.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/animalphys2024/posts/2024-10-29-biomechanics-locomotion/biomechanics-locomotion.html</loc>
+    <lastmod>2024-10-28T08:17:30.700Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/labs/Lab11-human-eeg/Lab11.html</loc>
@@ -126,15 +130,19 @@
   </url>
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/labs/Lab8-human-emg/Lab8.html</loc>
-    <lastmod>2024-08-25T21:34:31.327Z</lastmod>
+    <lastmod>2024-10-28T07:40:04.474Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/labs/Protocols/protocols.html</loc>
     <lastmod>2023-09-02T10:57:30.000Z</lastmod>
   </url>
   <url>
-    <loc>https://mbutler808.github.io/animalphys2024/posts/2024-10-08-clauss-neurons/neurons.html</loc>
-    <lastmod>2024-10-15T20:10:38.813Z</lastmod>
+    <loc>https://mbutler808.github.io/animalphys2024/posts/2024-10-15-neurons/neurons.html</loc>
+    <lastmod>2024-10-19T20:39:37.189Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/animalphys2024/posts/2023-10-16-muscles2/muscles2.html</loc>
+    <lastmod>2023-10-16T21:17:21.000Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/animalphys2024/posts/2024-08-27-megalodon-model/index.html</loc>

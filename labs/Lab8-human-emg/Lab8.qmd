@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Exploring the generation of forcce and movement"
-date: 2023-10-23
+date: 2024-10-29
 toc: true
 format: 
   html: default

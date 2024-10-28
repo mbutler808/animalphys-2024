@@ -23,6 +23,7 @@
     "listing": "/labs.html",
     "items": [
       "/labs/Lab-notebooks/lab-notebook.html",
+      "/labs/Lab8-human-emg/Lab8.html",
       "/labs/Lab7-toad-nerve/Lab7.html",
       "/labs/Lab6-lobster-heart/Lab6.html",
       "/labs/Lab5-toad-heart/Lab5.html",
@@ -33,7 +34,6 @@
       "/labs/Lab12-human-renal/Lab12.html",
       "/labs/Lab11-human-eeg/Lab11.html",
       "/labs/Lab9-10-toad-muscle/Lab9-10.html",
-      "/labs/Lab8-human-emg/Lab8.html",
       "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html",
       "/labs/Protocols/protocols.html"
     ]
@@ -41,6 +41,7 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/posts/2024-10-29-biomechanics-locomotion/biomechanics-locomotion.html",
       "/posts/2024-10-22-muscles/muscles.html",
       "/posts/2024-10-15-neurons/neurons.html",
       "/posts/2024-10-08-clauss-neurons/neurons.html",
@@ -51,7 +52,8 @@
       "/posts/2024-09-03-metabolism/index.html",
       "/posts/2024-08-29-library-day/index.html",
       "/posts/2024-08-27-megalodon-model/slides.html",
-      "/posts/2024-08-27-megalodon-model/index.html"
+      "/posts/2024-08-27-megalodon-model/index.html",
+      "/posts/2023-10-16-muscles2/muscles2.html"
     ]
   }
 ]

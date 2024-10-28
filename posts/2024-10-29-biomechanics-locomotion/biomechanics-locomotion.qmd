@@ -1,0 +1,68 @@
+---
+title: "9\\. Biomechanics and Locomotion"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Now we get to the fun stuff!"
+date: 2024-10-29
+format: 
+  html: default 
+  pdf: default
+categories: [module 9, week 10, biomaterials, biomechanics, locomotion, aquatic, terrestrial, aerial, muscles, skeletons ]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Tuesday we will finish Muscle Discussion and move on to biomechanics and locomotion
+2. Thursday we will continue locomotion.
+3. Lab this week is on \[[human EMG](../../labs/Lab8-human-emg/Lab8.qmd)\]! Pay attention to refining your prelab. 
+:::
+
+### Announcements/Reminders
+
+-  Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)
+-  Design 2 Rewrite due Friday by midnight into the "Final" folder. \[[turn in](../../projects/design2-turnin.qmd)\]  
+-  Do discussion TEAMMATES eval, released each Thursay, due by Monday.
+-  Getting to the end, folks! 
+
+### Week 10 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+|1| Mohamad| James| Vivian|
+|2| Hao| Abby|   Kylee|
+|3| Adam|Ilan|Sean|
+|4| Ashton|   Christian|Veronica|
+
+## Tuesday
+ 
+- Finish Muscle Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck 2](../../powerpoints/8a.MusclesII.pdf)\]
+
+### Muscle Design podcast 
+
+{{< video https://youtu.be/XPgHg2lmc5M >}}
+
+- Begin Biomechanics and Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 1](../../powerpoints/9a.Biomechanics.pdf)\]
+
+## Thursday 
+
+- Terrestrial Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 2](../../powerpoints/9b.TerrestrialLocomotion.pdf)\]
+
+
+# For Next Time
+
+- Homework 5 Muscles & Biomechanics due Thursday 11/07 \[[schedule](../../schedule.qmd)\]
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+

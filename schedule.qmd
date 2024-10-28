@@ -52,15 +52,15 @@ format:
 | | F | | Design 2 Feeding & Digestion \[[html](projects/design2-FAQ.qmd)\] \[[resources](projects/resources-digestion.qmd)\] \[[turn in](projects/design2-turnin.qmd)\] |  |     
 |Week 10|||||
 | | M |   |  Peer Critique 2 \[[see turn in](projects/design2-turnin.qmd)\] |    |   
-| 10/29 | T | Locomotion on Land \[[html]\] \[[discussion](discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] |  |  Lab8: PC2-G-Human Muscle \[[overview]\] |   
-|   | Th | Locomotion in Fluids  |   |  |   
+| 10/29 | T | Finish Muscles/Biomechanics \[[html]\] \[[discussion](discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] |  |  Lab8: PC2-G-Human Muscle \[[overview](labs/Lab8-human-emg/Lab8.qmd)\] |   
+|   | Th | Locomotion   |   |  |   
 |   | F |  | Rewrite Design 2 \[[Due Friday midnight](https://drive.google.com/drive/u/0/folders/1PB_2tkTES9yZrxmBkgfMubEcw3f37JBP)\]  |  |   
 |Week 11|||||
-| 11/5 | T | Biomechanics and Locomotion  \[[html]\] |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\] | Lab9: PC3-G-Toad Muscle \[[overview]\] |  
-|   | Th | Blood and Respiratory Media |   |  |   
+| 11/5 | T | Biomechanics and Locomotion  \[[html]\] |  | Lab9: PC3-G-Toad Muscle \[[overview]\] |  
+|   | Th | Blood and Respiratory Media |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\]  |  |   
 |Week 12|||||
-| 11/12  | T | Aquatic Respiration \[[html]\] | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]   | Lab10:PC1-I-Toad Muscle Independent \[[overview]\] |   
-|  | Th | Aerial Respiration  |   | |   
+| 11/12  | T | Aquatic Respiration \[[html]\] |   | Lab10:PC1-I-Toad Muscle Independent \[[overview]\] |   
+|  | Th | Aerial Respiration  | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]   | |   
 |Week 13|||||
 | 11/19 | T | Finish Respiration/Begin Osmoregulation \[[html]\] |  | Lab 11: PC1-G-Human EEG \[[overview]\] |   
 |   | Th | Symmorphosis: [Weibel, Taylor, and Hoppeler (1991)](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  |  |   
