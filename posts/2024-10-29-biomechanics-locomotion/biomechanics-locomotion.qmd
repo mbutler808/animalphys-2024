@@ -53,10 +53,24 @@ categories: [module 9, week 10, biomaterials, biomechanics, locomotion, aquatic,
 
 ## Thursday 
 
+- Biomechanics and Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 1](../../powerpoints/9a.Biomechanics.pdf)\]
+  - Support vs. Locomotion
+  - Material properties and functional design
+    - stress and strain  
+    - posture
+  - Muscle architecture
+  - Lever arms and gear ratios
+
 - Terrestrial Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 2](../../powerpoints/9b.TerrestrialLocomotion.pdf)\]
+  - Cursorial adaptations
+  - Trends in posture
+  - Limb cycles and gaits (kinematics)
+  - Ground reaction forces and joint forces (biomechanics)
+  - Conservation of energy in running, walking jumping 
 
+{{< video https://youtu.be/YlyaASmy-1E >}}
 
-# For Next Time
+# Coming up Next Week
 
 - Homework 5 Muscles & Biomechanics due Thursday 11/07 \[[schedule](../../schedule.qmd)\]
 
