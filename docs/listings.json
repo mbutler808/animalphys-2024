@@ -3,6 +3,7 @@
     "listing": "/projects.html",
     "items": [
       "/projects/design2-turnin.html",
+      "/projects/design2-resources.html",
       "/projects/design2.html",
       "/projects/design1-turnin.html",
       "/projects/design1-FAQ.html",
@@ -15,7 +16,6 @@
       "/projects/design3.html",
       "/projects/design3-process.html",
       "/projects/design3-resources.html",
-      "/projects/resources-digestion.html",
       "/projects/design2-FAQ.html"
     ]
   },
