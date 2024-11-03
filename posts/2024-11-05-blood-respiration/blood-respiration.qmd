@@ -20,7 +20,7 @@ categories: [module 10, week 11, blood, respiratory media, aquatic, terrestrial,
 
 **Before class, you can prepare by reading the following materials:**
 
-1. No Class on Tuesday -- Election Day! - But to stay on track please be sure to watch the podcast and review \[[locomotion](../2024-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd)\]  
+1. __No Class on Tuesday -- Election Day!__ - But to stay on track please be sure to watch the podcast and review \[[locomotion](../2024-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd)\]  
 2. Thursday we will move on to blood and respiratory media 
 3. Lab this week is on \[[toad muscle](../../labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]! Pay attention to refining your prelab. 
 4. Think hard about a __hypothesis for your independent toad muscle__ lab next week. 
@@ -44,7 +44,8 @@ categories: [module 10, week 11, blood, respiratory media, aquatic, terrestrial,
 
 ## Tuesday is Election day
 
-Please watch the podcast and review on your own. Iʻll talk briefly on this on Thursday. 
+__No Class__ - Please watch the podcast and review on your own. Iʻll talk briefly on this on Thursday. 
+
 - Terrestrial Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 2](../../powerpoints/9b.TerrestrialLocomotion.pdf)\]
   - Cursorial adaptations
   - Trends in posture
@@ -57,9 +58,14 @@ Please watch the podcast and review on your own. Iʻll talk briefly on this on T
 
 ## Thursday 
 
-{{< video https://youtu.be/t0Vf-RJleCE >}}
 
 - Blood and Respiratory Media \[[discussion](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck](../../powerpoints/10a.Blood.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
+  - Hemoglobin and O2 delivery
+  - Bohr effect
+  - Air vs. Water as respiratory media
+  - Diffusion vs. Bulk Flow
+
+{{< video https://youtu.be/t0Vf-RJleCE >}}
 
 # Coming up Next Week
 

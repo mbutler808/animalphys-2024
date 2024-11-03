@@ -56,8 +56,9 @@ format:
 |   | Th | Locomotion   |   |  |   
 |   | F |  | Rewrite Design 2 \[[Due Friday midnight](https://drive.google.com/drive/u/0/folders/1PB_2tkTES9yZrxmBkgfMubEcw3f37JBP)\]  |  |   
 |Week 11|||||
-| 11/5 | T | Locomotion and Respiratory Media  \[[html](posts/2024-11-05-blood-respiration/blood-respiration.qmd)\] |  | Lab9: PC3-G-Toad Muscle \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\] |  
-|   | Th | Blood and Respiratory Media |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\]  |  |   
+| 11/5 | T | __Election Day!__ (No class, but review Locomotion)  \[[html](posts/2024-11-05-blood-respiration/blood-respiration.qmd)\] |  | Lab9: PC3-G-Toad Muscle \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\] |  
+|   | Th | Blood and Respiratory Media |    |  |   
+|   | F |  |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\]  |  |   
 |Week 12|||||
 | 11/12  | T | Aquatic Respiration \[[html]\] |   | Lab10:PC1-I-Toad Muscle Independent \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\] |   
 |  | Th | Aerial Respiration  | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]   | |   
