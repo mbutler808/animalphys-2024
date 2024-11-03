@@ -26,7 +26,7 @@ Now that you know what your animalʻs energy budget is, you can make some infere
 
 ### 0. Lots of resources in the Shared Google Drive 
 
-- \[[Helpful index of papers](resources-digestion.qmd)\] - Check it out!
+- \[[Helpful index of papers](design2-resources.qmd)\] - Check it out!
 - Papers are located in the Digestion folder of the \[[Shared Google Drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\]
 
 ### 1. Don't forget to include page numbers!

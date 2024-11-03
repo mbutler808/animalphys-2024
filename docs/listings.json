@@ -41,6 +41,7 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/posts/2024-11-05-blood-respiration/blood-respiration.html",
       "/posts/2024-10-29-biomechanics-locomotion/biomechanics-locomotion.html",
       "/posts/2024-10-22-muscles/muscles.html",
       "/posts/2024-10-15-neurons/neurons.html",
@@ -52,8 +53,7 @@
       "/posts/2024-09-03-metabolism/index.html",
       "/posts/2024-08-29-library-day/index.html",
       "/posts/2024-08-27-megalodon-model/slides.html",
-      "/posts/2024-08-27-megalodon-model/index.html",
-      "/posts/2023-10-16-muscles2/muscles2.html"
+      "/posts/2024-08-27-megalodon-model/index.html"
     ]
   }
 ]

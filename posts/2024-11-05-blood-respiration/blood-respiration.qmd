@@ -1,0 +1,72 @@
+---
+title: "10\\. Blood and Respiratory Media"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Now we get to move it move it!"
+date: 2024-11-05
+format: 
+  html: default 
+  pdf: default
+categories: [module 10, week 11, blood, respiratory media, aquatic, terrestrial, aerial ]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Tuesday we will finish \[[locomotion](../2023-10-23-biomechanics-locomotion/biomechanics-locomotion.qmd)\] - please be sure to watch the podcast. 
+2. Thursday we will move on to blood and respiratory media 
+3. Lab this week is on \[[toad muscle](../../labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]! Pay attention to refining your prelab. 
+4. Think hard about a __hypothesis for your independent toad muscle__ lab next week. 
+:::
+
+### Announcements/Reminders
+
+-  Due Thursday Homework 5 \[[schedule](../../schedule.qmd)\]
+-  Do discussion TEAMMATES eval, released each Thursday, due by Monday.
+-  Getting to the end, folks! 
+
+### Week 11 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+|1|James |Abby|Ilan|
+|2|Christian|Kylee| Veronica|
+|3|Ashton|Mohamad|Vivian|
+|4|Hao| Adam|Sean | 
+
+
+## Tuesday 
+
+- Terrestrial Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 2](../../powerpoints/9b.TerrestrialLocomotion.pdf)\]
+  - Cursorial adaptations
+  - Trends in posture
+  - Limb cycles and gaits (kinematics)
+  - Ground reaction forces and joint forces (biomechanics)
+  - Conservation of energy in running, walking jumping 
+
+{{< video https://youtu.be/YlyaASmy-1E >}}
+ 
+
+## Thursday 
+
+{{< video https://youtu.be/t0Vf-RJleCE >}}
+
+- Blood and Respiratory Media \[[discussion](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck](../../powerpoints/10a.Blood.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
+
+# Coming up Next Week
+
+- Homework 6 Respiration Thursday 11/12 \[[schedule](../../schedule.qmd)\]
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+
