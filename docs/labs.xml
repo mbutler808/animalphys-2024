@@ -10,7 +10,97 @@
 <atom:link href="https://mbutler808.github.io/animalphys2024/labs.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2024</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 29 Oct 2024 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 05 Nov 2024 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>Labs 9 and 10: Vertebrate Skeletal Muscle</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys2024/labs/Lab9-10-toad-muscle/Lab9-10.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="before-lab" class="level1">
+<h1>Before Lab</h1>
+<p>The first week will be a group lab on toad muscle. You should develop a hypothesis that you will test the following week for your <strong>independent lab</strong>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Prepare for lab by:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Read the lab manual for this weekʻs experiment [<a href="Lab9-10-toad-muscle-protocol.pdf">Lab 9/10</a>]<br>
+</li>
+<li>Outline the [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>] in your lab notebook. <strong>Summarize</strong> the important points for this experiment.</li>
+<li>Draft hypotheses for each experiment</li>
+<li>Time permitting, outline (write a topic setence and bullet point any supporting points that come to mind):
+<ul>
+<li>Umbrella idea</li>
+<li>Mechanism 1</li>
+<li>Mechanism 2</li>
+<li>…</li>
+<li>end with a paragraph of your hypotheses</li>
+</ul></li>
+<li>For the <strong>methods</strong>, outline:
+<ul>
+<li>subjects</li>
+<li>equiptment</li>
+<li>experimental treatments (be sure to note what <strong>variables</strong> are changing) and controls or comparisons</li>
+<li>analysis</li>
+</ul></li>
+<li>Do Quiz on Laulima (open 24 hrs before lab) for lab 9. No quiz for lab 10.</li>
+<li>Please bring a laptop with you to lab, if possible, to analyze your experimental results.</li>
+<li><strong>Draft hypotheses for your independent lab</strong> (next week Lab 10). Get approval from your TA during lab 9.</li>
+<li><strong>For lab 10</strong>, you will help your group members collect their data, but you will <em>design, execute, and write up your own independent lab report</em>.<br>
+</li>
+</ul>
+</div>
+</div>
+<section id="in-lab" class="level2">
+<h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
+<ul>
+<li>Lab 9 manual [<a href="Lab9-10-toad-muscle-protocol.pdf">pdf</a>] . Record data in your lab notebook.</li>
+<li>You should have plenty of time to complete the data collection and your figures during lab.<br>
+</li>
+<li>This will be a Group Lab. Begin planning with your partners as you work.</li>
+<li>Start an outline with your lab partners and start outlining your discussion points, and the rest of the report. Use your time wisely to brainstorm as you work.</li>
+</ul>
+</section>
+<section id="after-lab" class="level2">
+<h2 class="anchored" data-anchor-id="after-lab">After Lab:</h2>
+<ul>
+<li>Group lab report due next week. See the guidance at the end of the manual [<a href="Lab9-10-toad-muscle-protocol.pdf">pdf</a>]<br>
+</li>
+<li>Always follow the content guidelines: [<a href="../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf">grading guidelines</a>] [<a href="../../labs-misc/handouts/Zool430lab_report_guidelines.pdf">old style</a>]</li>
+<li>It is a good idea to divide up the work of writing the lab <strong>by experiment</strong>. That way, <em>each person writes a portion of the intro, methods, results, and discussion for their <strong>hypothesis</strong></em>.</li>
+<li>Work out your timeline with your lab partners during lab (and plan a face-to-face meet up <strong><em>so that everyone has a chance to comment and edit</em></strong> before the lab is submitted.</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>week 9</category>
+  <category>week 10</category>
+  <category>labs</category>
+  <category>muscle</category>
+  <category>in situ</category>
+  <category>force</category>
+  <category>stretch</category>
+  <category>recruitment</category>
+  <category>twitch</category>
+  <category>tetanus</category>
+  <category>temperature</category>
+  <guid>https://mbutler808.github.io/animalphys2024/labs/Lab9-10-toad-muscle/Lab9-10.html</guid>
+  <pubDate>Tue, 05 Nov 2024 10:00:00 GMT</pubDate>
+  <media:content url="https://mbutler808.github.io/animalphys2024/images/lab8-muscle.png" medium="image" type="image/png" height="67" width="144"/>
+</item>
 <item>
   <title>Lab 8: Human Electromyography (EMG)</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -3202,96 +3292,6 @@ Vibell, Jonas. in prep. <span>“Ch. 3 Electroencephalography.”</span> In.
   <pubDate>Mon, 06 Nov 2023 10:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Labs 9 and 10: Vertebrate Skeletal Muscle</title>
-  <dc:creator>Marguerite Butler</dc:creator>
-  <link>https://mbutler808.github.io/animalphys2024/labs/Lab9-10-toad-muscle/Lab9-10.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="before-lab" class="level1">
-<h1>Before Lab</h1>
-<p>The first week will be a group lab on toad muscle. You should develop a hypothesis that you will test the following week for your <strong>independent lab</strong>.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Prepare for lab by:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Read the lab manual for this weekʻs experiment [<a href="Lab9-10-toad-muscle-protocol.pdf">Lab 9/10</a>]<br>
-</li>
-<li>Outline the [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>] in your lab notebook. <strong>Summarize</strong> the important points for this experiment.</li>
-<li>Draft hypotheses for each experiment</li>
-<li>Time permitting, outline (write a topic setence and bullet point any supporting points that come to mind):
-<ul>
-<li>Umbrella idea</li>
-<li>Mechanism 1</li>
-<li>Mechanism 2</li>
-<li>…</li>
-<li>end with a paragraph of your hypotheses</li>
-</ul></li>
-<li>For the <strong>methods</strong>, outline:
-<ul>
-<li>subjects</li>
-<li>equiptment</li>
-<li>experimental treatments (be sure to note what <strong>variables</strong> are changing) and controls or comparisons</li>
-<li>analysis</li>
-</ul></li>
-<li>Do Quiz on Laulima (open 24 hrs before lab) for lab 9. No quiz for lab 10.</li>
-<li>Please bring a laptop with you to lab, if possible, to analyze your experimental results.</li>
-<li><strong>Draft hypotheses for your independent lab</strong> (next week Lab 10). Get approval from your TA during lab 9.</li>
-<li><strong>For lab 10</strong>, you will help your group members collect their data, but you will <em>design, execute, and write up your own independent lab report</em>.<br>
-</li>
-</ul>
-</div>
-</div>
-<section id="in-lab" class="level2">
-<h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
-<ul>
-<li>Lab 9 manual [<a href="Lab9-10-toad-muscle-protocol.pdf">pdf</a>] . Record data in your lab notebook.</li>
-<li>You should have plenty of time to complete the data collection and your figures during lab.<br>
-</li>
-<li>This will be a Group Lab. Begin planning with your partners as you work.</li>
-<li>Start an outline with your lab partners and start outlining your discussion points, and the rest of the report. Use your time wisely to brainstorm as you work.</li>
-</ul>
-</section>
-<section id="after-lab" class="level2">
-<h2 class="anchored" data-anchor-id="after-lab">After Lab:</h2>
-<ul>
-<li>Group lab report due next week. See the guidance at the end of the manual [<a href="Lab9-10-toad-muscle-protocol.pdf">pdf</a>]<br>
-</li>
-<li>Always follow the content guidelines: [<a href="../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf">grading guidelines</a>] [<a href="../../labs-misc/handouts/Zool430lab_report_guidelines.pdf">old style</a>]</li>
-<li>It is a good idea to divide up the work of writing the lab <strong>by experiment</strong>. That way, <em>each person writes a portion of the intro, methods, results, and discussion for their <strong>hypothesis</strong></em>.</li>
-<li>Work out your timeline with your lab partners during lab (and plan a face-to-face meet up <strong><em>so that everyone has a chance to comment and edit</em></strong> before the lab is submitted.</li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>week 9</category>
-  <category>week 10</category>
-  <category>labs</category>
-  <category>muscle</category>
-  <category>in situ</category>
-  <category>force</category>
-  <category>stretch</category>
-  <category>recruitment</category>
-  <category>twitch</category>
-  <category>tetanus</category>
-  <category>temperature</category>
-  <guid>https://mbutler808.github.io/animalphys2024/labs/Lab9-10-toad-muscle/Lab9-10.html</guid>
-  <pubDate>Mon, 30 Oct 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/animalphys2024/images/lab8-muscle.png" medium="image" type="image/png" height="67" width="144"/>
-</item>
-<item>
   <title>Lab 3 Worksheet: Peripheral Circulation and The Dive Response</title>
   <dc:creator>Marguerite Butler</dc:creator>
   <link>https://mbutler808.github.io/animalphys2024/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html</link>
@@ -3540,7 +3540,7 @@ How will we evaluate the hypotheses?
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys2024/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Sun, 03 Nov 2024 00:41:03 GMT</pubDate>
+  <pubDate>Sun, 03 Nov 2024 00:54:37 GMT</pubDate>
 </item>
 </channel>
 </rss>
