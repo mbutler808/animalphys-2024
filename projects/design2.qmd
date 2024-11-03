@@ -37,6 +37,6 @@ Calculate the nominal surface area of intestine that your animal required to abs
 
 From the nominal surface area, calculate intestine length and intestine volume.  Are the length and volume appropriate for the dimensions of your animal?  If not, change the absorption rate and/or change the internal diameter to change the length of the intestine.  Are your final absorption rates out of line with measured values (Gut Design Supplemental reading: Withers pp. 946-948)?
 
-Be sure to check out the \[[Design 2 FAQs](design2-FAQ.qmd)\] for helpful tips
+Be sure to check out the \[[Design 2 FAQs](design2-FAQ.qmd)\] for helpful tips and \[[Design 2 Resources](design2-resources.qmd)\]
 
 \[[pdf](2.FeedingDigestionDesign2.pdf)\] version of this sheet

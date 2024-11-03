@@ -43,7 +43,7 @@ Possible extras:
 Be sure to check out the 
 
 - \[[Design 3 Process](design3-process.qmd)\] for helpful tips 
-- \[[Index of papers](resources-digestion.qmd)\] for helpful resources. Check it out!
+- \[[Index of papers](design3-resources.qmd)\] for helpful resources. Check it out!
 
 \[[pdf](3a.Circulation.pdf)\] version of this sheet
 

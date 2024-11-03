@@ -39,7 +39,7 @@ For water-breathing animals (with gills):  Use the equations for diffusion from 
 Be sure to check out the:
  
 - \[[Design 3 Process](design3-process.qmd)\] for helpful tips 
-- \[[Index of papers](resources-digestion.qmd)\] for helpful resources. Check it out!
+- \[[Index of papers](design3-resources.qmd)\] for helpful resources. Check it out!
 
 \[[pdf](3.Respiration.pdf)\] version of this sheet
 

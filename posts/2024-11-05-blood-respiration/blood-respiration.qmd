@@ -20,7 +20,7 @@ categories: [module 10, week 11, blood, respiratory media, aquatic, terrestrial,
 
 **Before class, you can prepare by reading the following materials:**
 
-1. Tuesday we will finish \[[locomotion](../2023-10-23-biomechanics-locomotion/biomechanics-locomotion.qmd)\] - please be sure to watch the podcast. 
+1. No Class on Tuesday -- Election Day! - But to stay on track please be sure to watch the podcast and review \[[locomotion](../2024-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd)\]  
 2. Thursday we will move on to blood and respiratory media 
 3. Lab this week is on \[[toad muscle](../../labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]! Pay attention to refining your prelab. 
 4. Think hard about a __hypothesis for your independent toad muscle__ lab next week. 
@@ -28,7 +28,7 @@ categories: [module 10, week 11, blood, respiratory media, aquatic, terrestrial,
 
 ### Announcements/Reminders
 
--  Due Thursday Homework 5 \[[schedule](../../schedule.qmd)\]
+-  Due Friday Homework 5 via Laulima \[[schedule](../../schedule.qmd)\]. You should be able to complete all of the questions except the last one. Because of the holiday, we will talk about that a bit on Thursday. 
 -  Do discussion TEAMMATES eval, released each Thursday, due by Monday.
 -  Getting to the end, folks! 
 
@@ -42,8 +42,9 @@ categories: [module 10, week 11, blood, respiratory media, aquatic, terrestrial,
 |4|Hao| Adam|Sean | 
 
 
-## Tuesday 
+## Tuesday is Election day
 
+Please watch the podcast and review on your own. Iʻll talk briefly on this on Thursday. 
 - Terrestrial Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 2](../../powerpoints/9b.TerrestrialLocomotion.pdf)\]
   - Cursorial adaptations
   - Trends in posture
