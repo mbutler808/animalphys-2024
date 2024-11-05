@@ -90,7 +90,7 @@ Prepare for lab by:
 <li>For those of you wishing to look at muscle architecture, it is a good idea to compute the Physiological Cross-Sectional Area (the CSA through the perpendicular direction through the muscle fibers). To do so, take the mass of the dissected muscle (use the analytical balance upstairs, ask your TA), and bisect the muscle to look at the pennation angle of the fibers. Take a clear photo of your bisected muscle next to a ruler to measure fiber length (average) and pennation angle.</li>
 <li>You can calculate Physiological Cross Sectional Area as:</li>
 </ul>
-<p><img src="https://latex.codecogs.com/png.latex?%0APCSA%20=%20%5Cfrac%7Bmuscle%20volume%7D%7Bfiber%20length%7D%20=%20%5Cfrac%7Bmuscle%20mass%7D%7B%5Crho%20fiber%20length%7D%0A"></p>
+<p><img src="https://latex.codecogs.com/png.latex?%0APCSA%20=%20%5Cfrac%7B%5Ctext%7Bmuscle%20volume%7D%7D%7B%5Ctext%7Bfiber%20length%7D%7D%20=%20%5Cfrac%7B%5Ctext%7Bmuscle%20mass%7D%7D%7B%5Crho%5Ccdot%20%5Ctext%7Bfiber%20length%7D%7D%0A"></p>
 <p>Where <img src="https://latex.codecogs.com/png.latex?%5Crho"> is the density of the muscle is 1.06 g/ml.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -3558,7 +3558,7 @@ How will we evaluate the hypotheses?
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys2024/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Tue, 05 Nov 2024 22:46:08 GMT</pubDate>
+  <pubDate>Tue, 05 Nov 2024 22:56:39 GMT</pubDate>
 </item>
 </channel>
 </rss>

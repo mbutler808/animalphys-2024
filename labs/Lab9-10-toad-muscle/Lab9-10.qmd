@@ -64,7 +64,7 @@ The first week will be a group lab on toad muscle. You should develop a hypothes
 - You can calculate Physiological Cross Sectional Area as:
 
 $$
-PCSA = \frac{muscle volume}{fiber length} = \frac{muscle mass}{\rho fiber length}
+PCSA = \frac{\text{muscle volume}}{\text{fiber length}} = \frac{\text{muscle mass}}{\rho\cdot \text{fiber length}}
 $$
 
 Where $\rho$ is the density of the muscle is 1.06 g/ml. 
