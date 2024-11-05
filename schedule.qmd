@@ -67,8 +67,8 @@ format:
 |   | Th | Symmorphosis: [Weibel, Taylor, and Hoppeler (1991)](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  |  |   
 |   | F |   |  Design 3 Resipration, Peer Critique 3  \[[html](projects/design3-process.qmd)\] \[[resources](projects/design3-resources.qmd)\] \[[turn in](projects/design3-turnin.qmd)\] |   |   
 |Week 14|||||
-| 11/26 | T | Osmoregulation 2 \[[html]\] |  |   |   
-|   | Th | __Thanksgiving Holiday__  |  | No Labs |   
+| 11/26 | T | Osmoregulation 2 \[[html]\] |  | No Labs  |   
+|   | Th | __Thanksgiving Holiday__  |  |  |   
 |Week 15|||||
 | 12/3 | T | Excretion \[[html]\] |   | Lab 12: PC2-G-Human Renal \[[overview]\] |   
 |   | Th | Excretion 2 | PS7: Osmoregulation \[[pdf](homework/HW7Osmoregulation.pdf)\] |  |   

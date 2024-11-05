@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -172,6 +201,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#in-lab" id="toc-in-lab" class="nav-link" data-scroll-target="#in-lab">In Lab:</a></li>
   <li><a href="#after-lab" id="toc-after-lab" class="nav-link" data-scroll-target="#after-lab">After Lab:</a></li>
+  <li><a href="#next-week-independent-labs" id="toc-next-week-independent-labs" class="nav-link" data-scroll-target="#next-week-independent-labs">Next Week: Independent labs!</a></li>
   </ul></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="Lab9-10.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
@@ -283,7 +313,9 @@ Prepare for lab by:
 <li>You should have plenty of time to complete the data collection and your figures during lab.<br>
 </li>
 <li>This will be a Group Lab. Begin planning with your partners as you work.</li>
-<li>Start an outline with your lab partners and start outlining your discussion points, and the rest of the report. Use your time wisely to brainstorm as you work.</li>
+<li>Start an outline with your lab partners and start outlining your discussion points, and the rest of the report. Use your time wisely to brainstorm as you work.<br>
+</li>
+<li>Get your <strong>hypothesis for your independent lab</strong> approved by your TA prior to leaving.</li>
 </ul>
 </section>
 <section id="after-lab" class="level2">
@@ -295,6 +327,24 @@ Prepare for lab by:
 <li>It is a good idea to divide up the work of writing the lab <strong>by experiment</strong>. That way, <em>each person writes a portion of the intro, methods, results, and discussion for their <strong>hypothesis</strong></em>.</li>
 <li>Work out your timeline with your lab partners during lab (and plan a face-to-face meet up <strong><em>so that everyone has a chance to comment and edit</em></strong> before the lab is submitted.</li>
 </ul>
+</section>
+<section id="next-week-independent-labs" class="level2">
+<h2 class="anchored" data-anchor-id="next-week-independent-labs">Next Week: Independent labs!</h2>
+<ul>
+<li>You will help each other collect the data, but your hypothesis, analysis, and report will be your own.</li>
+<li>For those of you wishing to look at muscle architecture, it is a good idea to compute the Physiological Cross-Sectional Area (the CSA through the perpendicular direction through the muscle fibers). To do so, take the mass of the dissected muscle (use the analytical balance upstairs, ask your TA), and bisect the muscle to look at the pennation angle of the fibers. Take a clear photo of your bisected muscle next to a ruler to measure fiber length (average) and pennation angle.</li>
+<li>You can calculate Physiological Cross Sectional Area as:</li>
+</ul>
+<p><span class="math display">\[
+PCSA = \frac{muscle volume}{fiber length} = \frac{muscle mass}{\rho fiber length}
+\]</span></p>
+<p>Where <span class="math inline">\(\rho\)</span> is the density of the muscle is 1.06 g/ml.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../images/256px-Fiederung.svg.png" class="img-fluid figure-img"></p>
+<figcaption>Pennate muscle fiber arrangements. The green lines represent PCSA; the blue lines represent ACSA. Image credit: Uwe Gille, CC BY-SA 3.0 <a href="https://creativecommons.org/licenses/by-sa/3.0" class="uri">https://creativecommons.org/licenses/by-sa/3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
 
 
 </section>
