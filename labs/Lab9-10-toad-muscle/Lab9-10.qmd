@@ -67,8 +67,8 @@ $$
 PCSA = \frac{\text{muscle volume}}{\text{fiber length}} = \frac{\text{muscle mass}}{\rho\cdot \text{fiber length}}
 $$
 
-Where $\rho$ is the density of the muscle is 1.06 g/ml. 
+Where $\rho$ is the density of the muscle and is 1.06 g/ml. 
 
-![Pennate muscle fiber arrangements. The green lines represent PCSA; the blue lines represent ACSA. Image credit: Uwe Gille, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](../../images/256px-Fiederung.svg.png) 
+![Figure 1: Pennate muscle fiber arrangements. The green lines represent PCSA; the blue lines represent ACSA. Image credit: Uwe Gille, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](../../images/256px-Fiederung.svg.png) 
 
 

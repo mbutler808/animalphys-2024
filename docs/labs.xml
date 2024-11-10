@@ -91,11 +91,11 @@ Prepare for lab by:
 <li>You can calculate Physiological Cross Sectional Area as:</li>
 </ul>
 <p><img src="https://latex.codecogs.com/png.latex?%0APCSA%20=%20%5Cfrac%7B%5Ctext%7Bmuscle%20volume%7D%7D%7B%5Ctext%7Bfiber%20length%7D%7D%20=%20%5Cfrac%7B%5Ctext%7Bmuscle%20mass%7D%7D%7B%5Crho%5Ccdot%20%5Ctext%7Bfiber%20length%7D%7D%0A"></p>
-<p>Where <img src="https://latex.codecogs.com/png.latex?%5Crho"> is the density of the muscle is 1.06 g/ml.</p>
+<p>Where <img src="https://latex.codecogs.com/png.latex?%5Crho"> is the density of the muscle and is 1.06 g/ml.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/animalphys2024/images/256px-Fiederung.svg.png" class="img-fluid figure-img"></p>
-<figcaption>Pennate muscle fiber arrangements. The green lines represent PCSA; the blue lines represent ACSA. Image credit: Uwe Gille, CC BY-SA 3.0 <a href="https://creativecommons.org/licenses/by-sa/3.0" class="uri">https://creativecommons.org/licenses/by-sa/3.0</a>, via Wikimedia Commons</figcaption>
+<figcaption>Figure 1: Pennate muscle fiber arrangements. The green lines represent PCSA; the blue lines represent ACSA. Image credit: Uwe Gille, CC BY-SA 3.0 <a href="https://creativecommons.org/licenses/by-sa/3.0" class="uri">https://creativecommons.org/licenses/by-sa/3.0</a>, via Wikimedia Commons</figcaption>
 </figure>
 </div>
 
@@ -3558,7 +3558,7 @@ How will we evaluate the hypotheses?
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys2024/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Tue, 05 Nov 2024 22:56:39 GMT</pubDate>
+  <pubDate>Sun, 10 Nov 2024 02:38:18 GMT</pubDate>
 </item>
 </channel>
 </rss>

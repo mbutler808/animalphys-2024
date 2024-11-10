@@ -1,0 +1,108 @@
+---
+title: "10\\. Respiration"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Oh Oxygen - Picking it up and dropping it off"
+date: 2024-11-12
+format: 
+  html: default 
+  pdf: default
+categories: [module 10, week 12, ventilation, lung volumes, flow, respiratory media, aquatic respiration, aerial respiration]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Tuesday we will cover aerial and aquatic respiration. 
+2. Watch both podcasts, look over the reading assignments, and the handouts. These will be very helpful for the homework and the design project. 
+3. Look over the homework and come to class with your questions.  Start your homework early, the design project will come up quickly.
+4. Have fun doing your independent lab this week! \[[you can refer to the toad muscle manual](../../labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]! 
+    - No graded prelab or quiz. 
+    - Just prepare for your brilliant experiment (and write notes to help yourself)! 
+    - _Make sure you are clear on the anatomy for the muscles you are going after._ Do a little literature search if you need more information
+      - Research the mechanism you want to explore with your hypothesis. 
+      - Take some time to refine your hypothesis and state it clearly. 
+      - Know the anatomy for the muscles you are going after, and how you will mount it. (Fish hook? String? Clamp? etc.)
+      - Figure out which macros or settings you will use to test your ideas. 
+    - As always, feel free to ask your TA for feedback. 
+:::
+
+### Announcements/Reminders
+
+-  Due Thursday in class -- Homework 6 Respiration \[[schedule](../../schedule.qmd)\] 
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+
+### Week 12 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+|1| Hao| Abby|     Christian|      
+|2| Ashton| Ilan|   Mohamad| 
+|3| James|Sean| Adam|  
+|4| Kylee|   Veronica| Vivian| 
+
+
+
+## Tuesday - Gas Exchange in Air vs Water and Aquatic Respiration
+
+We will start with Question 3 on page 1 on Ficks Law, then jump to Aerial Respiration. 
+
+  - Diffusion (Fick’s Law) vs. Bulk Flow  \[[discussion Question 3](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] 
+    + How to increase rate of ventilation 
+ 
+
+## Aerial Respiration
+
+- __Reading assignment:__ Withers pp. 609-631 OR HWA chapter 23 + Withers 626-632, skip invertebrates
+- \[[discussion pg 3-4, Q1-6](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
+- __Aerial Respiration Topics:__
+  - Air flow patterns of vertebrates
+  - Lung Volumes 
+    + Lung Volume (VL or VT)
+    + tidal volume (Vt)
+    + Dead space volume (VD)
+    + Alveolar ventilation volume (VA or Va)
+    + Alveolar Minute Volume (VAE)
+  - Breath Rate (BR)
+  - Oxygen Extraction and Pulmonary Diffusing Capacity
+
+
+Respiration the Movie 
+{{< video https://youtu.be/clyu9h810n4 >}}
+
+## Thursday - Air Flow Patterns and Pumps, Fish Gills
+
+- __Reading assignment:__ Withers Aquatic respiration: skim 565-72, read 573-4, 585-99, supplement
+12-2. ALTERNATIVELY, read HWA chapter 22 + HWA 586-587 (countercurr) + HWA 590-594 (fish).
+- \[[discussion pg 2-3](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck](../../powerpoints/10a.Blood.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
+- We will start with question 3. 
+- __Topics:__
+  - Air vs water (Q1)
+  - Partial pressures of gasses and pO2 at sea level - the starting point. 
+    + Influences of relative humidity
+    + Altitude (total pressure) 
+    + Henryʻs Law - dissolved O2 in water
+  - Flow patterns: Countercurrent vs. Concurrent
+  - Fish Gills 
+    + Ventilatory pumps in fish (breathing patterns) 
+
+Respiratory Pumps
+{{< video https://youtu.be/2GPfu8ebZac >}}
+
+
+
+::: callout-note
+## Coming up Next Week
+
+- Design 3 first draft due next Friday 11/22.
+
+:::
+
+
