@@ -41,6 +41,13 @@ The first week will be a group lab on toad muscle. You should develop a hypothes
 - __For lab 10__, you will help your group members collect their data, but you will _design, execute, and write up your own independent lab report_.  
 :::
 
+:::{.callout-tip}
+# Donʻt get confused!
+- EMGs measure muscle electrical activity
+- Donʻt confuse depolarization with FORCE DEVELOPMENT
+- Explain in your intro how force is developed by the binding of actin with myosin (via crossbridge formation)
+- \[[Helpful slides](lab_muscle.pdf)\]
+:::
 
 ## In Lab: 
 
