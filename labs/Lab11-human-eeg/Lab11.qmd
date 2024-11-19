@@ -183,15 +183,14 @@ Your task today is to explore brain activity in the frontal and occipital cortex
 6.  Save your data, and open a new file with the same settings.
 
 
-## Analysis
-
-### Exercise 1: Recognizing Artifacts
+### Analysis Exercise 1: Recognizing Artifacts
 
 1. Examine the vertical scale at the left of the Chart View, and note the positions corresponding to +50 $\mu$V and –50 $\mu$V.  True EEG signals rarely exceed these limits.
 
 2. Examine the entire data trace and Autoscale, if necessary.  There may be some large signals outside the ±75 $\mu$V range.  Such large signals are artifacts.
 
 # Exercise 2: Alpha Waves in the EEG
+
 In this exercise, you will examine the effects of relaxation and eye movement on alpha waves in the EEG.
 
 1.  Make sure the volunteer is relaxed and comfortable.  Have the volunteer close his/her eyes and remain quiet.  Keep noise to a minimum and keep all distractions away from the volunteer.
@@ -204,7 +203,7 @@ In this exercise, you will examine the effects of relaxation and eye movement on
 
 5.  Repeat steps 3 and 4 twice, to give you three sets of results.  Save your data.
 
-## Analysis: Alpha Waves in the EEG
+### Analysis Exercise 2: Alpha Waves in the EEG
 
 1. Examine the entire data trace.  Use the View Buttons to change the horizontal compression to see data with eyes open and shut.  Make a data selection that includes some data from both eyes open and eyes shut conditions. View this selection in Zoom View. This should make it easier to see the alpha wave activity (@fig-eeg-raw).  Now Autoscale, if necessary.
 
@@ -364,9 +363,9 @@ In this exercise, you will compare abundance of different wave frequencies durin
 
 8. Design your own experiment to test another factor in note taking strategies. For example, having the sentence read aloud to the subject. Record this trial with appropriate commenting.
 
-## Analysis
 
-### Excercise 3: Note Taking Strategies
+### Analysis Excercise 3: Note Taking Strategies
+
 Steps 1-3 __must__ be done in class. You can not do this on your home version of LabChart.
 
 1. Select a clean section of data in the Chart Window from the first experiment (without any major artifacts). Open the Spectrum view and change the settings to display both _"EEG Frontal"_ and _"EEG Occipital"_ channels.
