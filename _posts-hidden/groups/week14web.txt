@@ -1,5 +1,4 @@
-[1] "Abby"   "Adam"   "Vivian"
-[1] "Ilan"     "Veronica"
-[1] "Ashton" "James"  "Tamako"
-[1] "Christian" "Joshua"    "Sean"     
-[1] "Hao"     "Kylee"   "Mohamad"
+|1| Abby|  Adam|  Vivian|
+|2| Ilan|    Veronica|	Ashton|  
+|3| James| Christian|   Sean|    
+|4| Hao|    Kylee|  Mohamad|

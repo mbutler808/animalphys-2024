@@ -80,7 +80,7 @@ Cow: __Gresham, Holloway, Butts, and McCurely 1986.__ Prediction of mature cow c
 
 Kangaroo: __Tribe and Peel 1963.__ Body composition of the kangaroo (_Macropus sp_).  
 
-Pig: __Bee, Guex, and Herzog 2012__ Free-range rearing of pigs during the winter: Adaptations   in muscle fiber characteristics and effects on adipose tissue composition and meat quality traits. 
+Pig: __Bee, Guex, and Herzog 2012__ Free-range rearing of pigs during the winter: Adaptations   in muscle fiber characteristics and effects on adipose tissue composition and meat quality traits.
 
-\[[Back to the Design 2 FAQs and Assignment](design2-FAQ.qmd)\]   
+Back to the \[[Design 2 assignment](design2.qmd)\] and \[[Design 2 FAQs](design2-FAQ.qmd)\]   
 \[[Shared google drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\]

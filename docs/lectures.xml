@@ -10,7 +10,210 @@
 <atom:link href="https://mbutler808.github.io/animalphys2024/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2024</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Mon, 18 Nov 2024 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 Nov 2024 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>11a. Osmoreguation</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys2024/posts/2024-11-26-osmoregulation2/osmoregulation2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Letʻs finish strong!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>We have <strong>only 3</strong> class sessions left to finish all of our content. After that, we have final student presentations.</li>
+<li><strong>Attendance is mandatory</strong> at all remaining classes.</li>
+<li><strong>Come prepared</strong> by <strong>reading the book</strong>, and our discussions can <strong>probe deeper.</strong> This will make your <strong>homeworks</strong>, <strong>labs</strong>, and <strong>papers</strong> so much easier.</li>
+<li><strong>Remember that effort counts</strong>, and will be taken into account in the final grades. If your grade is on the borderline, effort will translates into a “bump up”. You show effort in many ways, including attendance and sincere participation.</li>
+</ul>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Due Monday Design 3 draft [<a href="../../projects/design3-turnin.html">turn in</a>], please do your peer review for design 3 by wednesday, and email to the authors with cc to me.</li>
+<li>TEAMMATES will be on hold and Tuesday’s session will be combined with the week after Thanksgiving :).</li>
+<li>The EEG group lab is due at midnight by email to your TA on your lab day. No lab sessions this week.</li>
+<li>Short week this week, happy Thanksgiving!!</li>
+</ul>
+</section>
+<section id="week-14-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-14-discussion-groups">Week 14 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Abby</td>
+<td>Adam</td>
+<td>Vivian</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Ilan</td>
+<td>Veronica</td>
+<td>Ashton</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>James</td>
+<td>Christian</td>
+<td>Sean</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Hao</td>
+<td>Kylee</td>
+<td>Mohamad</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="tuesday" class="level2">
+<h2 class="anchored" data-anchor-id="tuesday">Tuesday</h2>
+<ul>
+<li><strong>Reading assignment:</strong> Withers skim beginning Ch. 16 for definitions in list below, also read Water &amp; Ion Budgets pp.&nbsp;788-790, Vertebrates pp.&nbsp;798-803, Terrestrial Environments pp.&nbsp;806-812, Terr. Verts. 822-827. Withers is actually very readable on this topic, and some of it will be familiar to you already:).</li>
+<li>[<a href="../../discussions/Discussion-Week11-osmoregulation.pdf">Osmoregulation discussion</a>] [<a href="../../powerpoints/11.Osmoregulation.pdf">slide deck</a>]</li>
+<li>definitions:
+<ul>
+<li>solutes,</li>
+<li>osmosis,</li>
+<li>osmolarity/osmolality,</li>
+<li>ionoregulation,</li>
+<li>osmoregulation/osmoconforming,</li>
+<li>compatible solutes,</li>
+<li>perturbing solutes,</li>
+<li>counteracting solutes,</li>
+<li>osmotic permeability (&amp;formulae)</li>
+</ul></li>
+<li>The components of <strong>Water Budgets</strong> (input/output) as well as <strong>Ion Budgets</strong></li>
+<li>The water and ion challenges of <strong>freshwater</strong>, <strong>marine</strong>, and <strong>terrestrial</strong> environments</li>
+</ul>
+<p>Osmoregulation Podcast</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1vQxLFoPCmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<ul>
+<li><p>If there is time, start [<a href="../../discussions/Discussion-Week11b-excretion.pdf">Excretion questions 1,2</a>] [<a href="../../powerpoints/11b.Osmoregulation_SaltWater.pdf">slide deck 2</a>] which we will finish next week.</p></li>
+<li><p>Be prepared to diagram and discuss the routes of water and ion inflow and outflow for terrestrial animals (human), freshwater fish (q1), marine fish (q2), and marine elasmobrachs (q3).</p>
+<ul>
+<li>This time, start with the osmotic gradient facing the animal. Clearly label the mOsm of the media outside, as well as mOsm inside (use the extracellular fluid as the inside compartment).<br>
+</li>
+<li>Consider the gradient facing the skin :) also.</li>
+<li>Label special organs or sites of major exchange.</li>
+<li>Indicate <strong>water</strong> and <strong>ions</strong> separately, and whether it is active or passive movement, and for ions - which ones (details matter).</li>
+<li><strong>Look in your book!</strong></li>
+</ul></li>
+<li><p>For excretion think about nitrogenous waste (osmoreg question 5) and what mechanisms organisms have for their excretion (excretion questions 1,2)</p></li>
+</ul>
+<div id="tbl-osmoorg" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-osmoorg-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Organs involved in osmoregulation
+</figcaption>
+<div aria-describedby="tbl-osmoorg-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fish</td>
+<td>Kidneys</td>
+<td>Gills</td>
+<td>Bladder</td>
+<td>Intestines</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amphibians</td>
+<td>Kidneys</td>
+<td>Gills</td>
+<td>Bladder</td>
+<td>Intestines</td>
+<td>Skin</td>
+</tr>
+<tr class="odd">
+<td>Reptiles</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td>Intestines</td>
+<td>(Salt Glands)</td>
+</tr>
+<tr class="even">
+<td>Birds</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td>Intestines</td>
+<td>(Salt Glands)</td>
+</tr>
+<tr class="odd">
+<td>Mammals</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<p>Osmoregulation Podcast</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1vQxLFoPCmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="thursday---happy-thanksgiving" class="level2">
+<h2 class="anchored" data-anchor-id="thursday---happy-thanksgiving">Thursday - Happy Thanksgiving!!!</h2>
+</section>
+</section>
+<section id="coming-up-next-week" class="level1">
+<h1>Coming up Next Week</h1>
+<ul>
+<li>We will pick up Excretion the Tuesday after Thanksgiving [<a href="../../discussions/Discussion-Week11b-excretion.pdf">questions 3</a>] [<a href="../../powerpoints/11b.Osmoregulation_SaltWater.pdf">slide deck 2</a>] and have a fascinating discussion on reptile and bird excretion [<a href="../../discussions/11c.Avian_Reptilian_Osmoregulation_Notes.pdf">notes</a>]</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>module 11</category>
+  <category>week 14</category>
+  <category>osmoregulation</category>
+  <guid>https://mbutler808.github.io/animalphys2024/posts/2024-11-26-osmoregulation2/osmoregulation2.html</guid>
+  <pubDate>Tue, 26 Nov 2024 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>11. Respiration-Osmoreguation</title>
   <dc:creator>Marguerite Butler</dc:creator>
