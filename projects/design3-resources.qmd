@@ -92,5 +92,8 @@ __Weibel 1987__. Scaling of structural and functional variables in the respirato
 
 __Withers 1992__. p 627-631: pages from your text with a couple of highlighted comments inserted by me.
 
+__Wood Eom 2021__. The osmorespiratory compromise in the fish gill <https://doi.org/10.1016/j.cbpa.2021.110895>. Very interesting paper on control of oxygen flux as well as iono and osmoregulation (next section!) pdf is in shared drive. 
+
+
 \[[Back to the Design 3 Assignment](design3-process.qmd)\]   
 \[[Shared google drive](https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT)\]
