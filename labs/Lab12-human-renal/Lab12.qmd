@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The shi-shi lab"
-date: 2023-11-06
+date: 2024-12-03
 toc: true
 bibliography: ../../animalphys.bib
 format:

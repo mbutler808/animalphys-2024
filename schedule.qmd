@@ -70,7 +70,7 @@ format:
 | 11/26 | T | Osmoregulation 2 \[[html](posts/2024-11-26-osmoregulation2/osmoregulation2.qmd)\] |  | No Labs  |   
 |   | Th | __Thanksgiving Holiday__  |  |  |   
 |Week 15|||||
-| 12/3 | T | Excretion \[[html]\] |   | Lab 12: PC2-G-Human Renal \[[overview]\] |   
+| 12/3 | T | Excretion \[[html](posts/2024-12-03-excretion/excretion.qmd)\] |   | Lab 12: PC2-G-Human Renal \[[overview](labs/Lab12-human-renal/Lab12.qmd)\] |   
 |   | Th | Excretion 2 | PS7: Osmoregulation \[[pdf](homework/HW7Osmoregulation.pdf)\] |  |   
 |   | F |  | Design 3 Rewrite |   |   
 |Week 16|||||
