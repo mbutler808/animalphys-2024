@@ -45,7 +45,7 @@ categories: [module 11, week 14,  osmoregulation, excretion]
 
 ## Tuesday 
 - Welcome back from Thanksgiving! 
-- \[[Excretion questions](../../discussions/Discussion-Week11b-excretion.pdf)\] \[[slide deck 2](../../powerpoints/11b.Osmoregulation_SaltWater.pdf)\] 
+- \[[Excretion questions](../../discussions/Discussion-Week11b-excretion.pdf)\] \[[slide deck 1](../../powerpoints/11.Osmoregulation.pdf)\] \[[slide deck 2](../../powerpoints/11b.Osmoregulation_SaltWater.pdf)\] 
 - Reading assignment: Withers skim pp. 841-845 (pick up the four main steps of Tubular Excretion),read 855- 874 (Vertebrate Kidneys) and pp. 874-886 (Nitrogen Metabolism)  or HWA pp.754-776, 782-785.
 
 - Nitrogenous waste comes from protein metabolism. Think about nitrogenous waste (osmoreg question 5) and what mechanisms organisms have for their excretion (excretion questions 1,2)
