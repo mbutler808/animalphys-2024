@@ -28,7 +28,8 @@ categories: [module 11, week 14,  osmoregulation, excretion]
 
 ### Announcements/Reminders
 
--  Osmoregulation homework due Thursday at start of class. 
+-  Osmoregulation homework due Thursday at start of class. Last one! \[[schedule](../schedule.qmd)\]. 
+-  \[[Design 3 final](https://drive.google.com/drive/u/0/folders/12I8sX5sAmbiAejZk8hbQELVuQiFA1y0S)\] due Friday by midnight. 
 -  Please do TEAMMATES after Thursday. 
 -  Last lab this week! __Prepare for the Human Renal Lab starting from the night before lab.__ \[[lab 12](../../labs/Lab12-human-renal/Lab12.qmd)\]
 -  Design 4 is posted \[[suggestions](../../projects/design4.qmd)\] or feel free to pursue your own interests and design your own project!  Due the week of finals. 
