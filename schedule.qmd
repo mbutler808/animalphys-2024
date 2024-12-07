@@ -77,7 +77,7 @@ format:
 | 12/10  | T | Student Presentations |   | Turn in Lab 12 |   
 |  | Th | Student Presentations | Design 4: Osmoreg/Own (draft optional) \[[html](projects/design4.qmd)\] \[[resources](projects/design4-resources.qmd)\] |    |   
 ||||||
-| 12/17 | T | Finals Week | Design 4 Due |   |   
+| 12/19 | Th | Finals Week | Design 4 Due |   |   
 ||||||
 :::
 

@@ -20,15 +20,54 @@ Copies of these papers are located in the __shared google drive__. > Respiration
 
 __Weibel Taylor Hoppeler 1991__. Symmorphosis: A testable hypothesis of structure-function relationship **EVERYONE READ**
  
-### Helpful sources  
+### Fish
 
-\[[Noel et al 2022](https://peercommunityjournal.org/articles/10.24072/pcjournal.76/)\] The origin of the allometric scaling of lung ventilation in mammals. _Modeling including BMR, FMR (DMR), and MMR._
+__Wilkie 2011__. Lamprey respiratory physiology, osmoregulation, and ionoregulation. 
 
-\[[Young et al 1992](https://journals.biologists.com/jeb/article/164/1/283/6105/Some-Properties-of-the-Mammalian-Locomotory-and)\] Some properties of the mammalian locomotory and respiratory systems in relation to body mass. _Coupling of locomotion and respiration at the trot-gallop transition._
+__Wood Eom 2021__. The osmorespiratory compromise in the fish gill <https://doi.org/10.1016/j.cbpa.2021.110895>. Very interesting paper on control of oxygen flux as well as iono and osmoregulation (next section!) pdf is in shared drive. 
+
+
+### Early Tetrapods & Amphibians & Misc
 
 __Alhberg Clack 2006__. A firm step from water to land (early tetrapod evol)
 
+__Carroll 2001__. Early tetrapod evolution.
+
+__Dudley 1998__. Atmospheric oxygen, giant paleozoic insects and the evolution of aerial locomotor performance
+
+__Gans 1970__. Respiration in early tetrapods: The Frog is a Red Herring
+
+__Schaeffer 1965__. Rhipsidian (fish) - amphibian transition
+
+__Pierson 2009__. The cardiopulmonary physiology of dinosaurs
+
+__Shelton Boutilier 1982__. Apnea in amphibians and reptiles
+
+__Wang et al 2001__. respiratory consequences of feeding in amphibians and reptiles
+
+
+### Reptiles
+
 __Bennett 1973__. Ventilation in lizards: rest and activity
+
+__Crawford Kampe 1971__. Lizard Sauromalus obesus physiological responses to temperature
+
+__Farmer and Carrier 2000__. Respiration and gas exchange during recovery from exercise in the American alligator
+
+__Glass and Wood 1983__. Respiration in reptiles
+
+__Gleeson and Bennett 1985__. Respiratory and cardiovascular adjustments to exercise in reptiles
+
+__Milsom 1984__. Breathing in gecko
+
+__Shelton Boutilier 1982__. Apnea in amphibians and reptiles
+
+__Wang Carrier Hicks 1997__. Ventilation and gas exchange in lizards during treadmill exercise
+
+__Wang et al 2001__. respiratory consequences of feeding in amphibians and reptiles
+
+
+### Birds
 
 __Benzo, Sturke 1986__. Sturkeyʻs avian physiology – **Essential for anyone attempting a Bird model** Check out from library and See me for help
 
@@ -44,25 +83,18 @@ __Butler 1991__. (not me!) Exercise in birds
 
 __Calder Schmidt-Neilsen 1966__. Evaporative cooling and respiratory alkalosis in the pigeon
 
-__Carroll 2001__. Early tetrapod evolution.
+__Frappell et al 2001__. Scaling of respiratory variables in birds
 
-__Crawford Kampe 1971__. Lizard Sauromalus obesus physiological responses to temperature
+__Hinds and Calder 1971__. Tracheal Dead Space in the Respiration of Birds
 
-__Dudley 1998__. Atmospheric oxygen, giant paleozoic insects and the evolution of aerial locomotor performance
+__Schmidt-Nielsen, Kanwiyher, Lasiewski, Cohn, Bretz 1969__. Temperature regulation and respiration in the Ostrich
 
-__Farmer and Carrier 2000__. Respiration and gas exchange during recovery from exercise in the American alligator
+
+### Mammals
 
 __Fortuna and Saibene 1991__. Mechanics of breathing in horses at rest and during exercise
 
-__Frappell et al 2001__. Scaling of respiratory variables in birds
-
-__Gans 1970__. Respiration in early tetrapods: The Frog is a Red Herring
-
-__Glass and Wood 1983__. Respiration in reptiles
-
-__Gleeson and Bennett 1985__. Respiratory and cardiovascular adjustments to exercise in reptiles
-
-__Hinds and Calder 1971__. Tracheal Dead Space in the Respiration of Birds
+__Gallivan McDonnell Forrest 1989__. Comparative pulmonary mechanics in the horse and the cow
 
 __Hoppeler and Weibel 1998__. Limits for oxygen and substrate transport in mammals ** more about symmorphosis **
 
@@ -72,28 +104,15 @@ __Jones Longworth Lindholm Conley Karas Kayar Taylor 1989__. O2 transport in lar
 
 __Martin Hutchinson__. 1979 Ventilation in two amphibians
 
-__Milsom 1984__. Breathing in gecko
-
-__Schaeffer 1965__. Rhipsidian (fish) - amphibian transition
-
-__Pierson 2009__. The cardiopulmonary physiology of dinosaurs
-
-__Shelton Boutilier 1982__. Apnea in amphibians and reptiles
-
-__Schmidt-Nielsen, Kanwiyher, Lasiewski, Cohn, Bretz 1969__. Temperature regulation and respiration in the Ostrich
+\[[Noel et al 2022](https://peercommunityjournal.org/articles/10.24072/pcjournal.76/)\] The origin of the allometric scaling of lung ventilation in mammals. _Modeling including BMR, FMR (DMR), and MMR._
 
 __Stahl 1967__. Scaling of Respiratory Variables in Mammals
-
-__Wang Carrier Hicks 1997__. Ventilation and gas exchange in lizards during treadmill exercise
-
-__Wang et al 2001__. respiratory consequences of feeding in amphibians and reptiles
 
 __Weibel 1987__. Scaling of structural and functional variables in the respiratory system (mammals)
 
 __Withers 1992__. p 627-631: pages from your text with a couple of highlighted comments inserted by me.
 
-__Wood Eom 2021__. The osmorespiratory compromise in the fish gill <https://doi.org/10.1016/j.cbpa.2021.110895>. Very interesting paper on control of oxygen flux as well as iono and osmoregulation (next section!) pdf is in shared drive. 
-
+\[[Young et al 1992](https://journals.biologists.com/jeb/article/164/1/283/6105/Some-Properties-of-the-Mammalian-Locomotory-and)\] Some properties of the mammalian locomotory and respiratory systems in relation to body mass. _Coupling of locomotion and respiration at the trot-gallop transition._
 
 \[[Back to the Design 3 Assignment](design3-process.qmd)\]   
 \[[Shared google drive](https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT)\]
